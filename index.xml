@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Album.blog()</title>
+    <link>https://AlbumBlog.github.io/</link>
+    <description>Recent content on Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Fri, 31 Jul 2020 06:37:42 +0000</lastBuildDate>
+    
+	<atom:link href="https://AlbumBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chi sono</title>
+      <link>https://AlbumBlog.github.io/chi-sono/</link>
+      <pubDate>Sat, 01 Aug 2020 19:29:42 +0000</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/chi-sono/</guid>
+      <description>$ whoami
+Uh, io? 42! No? Hem, allora, io, io&amp;hellip; io sono un elaboratore HAL9000…
+Ok, no, non sono né un computer né un robot. Per quanto, a ben pensarci, lo affermino anche i chatbot, e io adori ALICE, da quando mi disse che &amp;ldquo;Intelligence is the ultimate aphrodisiac&amp;rdquo;. 😍
+Sicché, mi dichiaro ufficialmente confuso.
+Più seriamente, al di là di eventuali corpi in silicio o platino-iridio&amp;hellip; odio la serietà 😛 Posso dirvi che in molti mi chiamano Album, eredità di un vecchio errore da T9 (giuro), a cui ormai mi sono affezionato.</description>
+    </item>
+    
+    <item>
+      <title>Tipi di tè</title>
+      <link>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
+      <pubDate>Thu, 30 Jul 2020 17:05:42 +0000</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test di post</title>
+      <link>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</link>
+      <pubDate>Thu, 23 Jul 2020 12:33:42 +0000</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</guid>
+      <description>Prova, prova, prova&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
