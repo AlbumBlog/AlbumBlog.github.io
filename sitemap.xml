@@ -25,6 +25,7 @@
   
   <url>
     <loc>https://AlbumBlog.github.io/libri/</loc>
+    <lastmod>2015-03-20T23:59:42+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -79,6 +80,48 @@
   </url>
   
   <url>
+    <loc>https://AlbumBlog.github.io/scritti/2015/06/01/confessioni-di-riflesso/</loc>
+    <lastmod>2015-06-01T13:49:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/scritti/racconti/</loc>
+    <lastmod>2015-06-01T13:49:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</loc>
+    <lastmod>2015-03-20T23:59:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</loc>
+    <lastmod>2015-01-25T14:52:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/scritti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</loc>
+    <lastmod>2014-09-22T01:46:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/scritti/2012/01/14/lombra-dellanello/</loc>
+    <lastmod>2012-01-14T01:00:42+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://AlbumBlog.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -86,12 +129,6 @@
   
   <url>
     <loc>https://AlbumBlog.github.io/scritti/poesie/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://AlbumBlog.github.io/scritti/racconti/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
