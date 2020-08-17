@@ -6,11 +6,7 @@
     <description>Recent content on Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    
-	<atom:link href="https://AlbumBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright><atom:link href="https://AlbumBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chi sono</title>
       <link>https://AlbumBlog.github.io/chi-sono/</link>

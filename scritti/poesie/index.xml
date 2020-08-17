@@ -6,10 +6,6 @@
     <description>Recent content in Poes… vers… curiose sequenze di caratteri on Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    
-	<atom:link href="https://AlbumBlog.github.io/scritti/poesie/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright><atom:link href="https://AlbumBlog.github.io/scritti/poesie/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
