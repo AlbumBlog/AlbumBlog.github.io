@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tè, infusi e dintorni on Album.blog()</title>
+    <title>Tè, infusi e dintorni su Album.blog()</title>
     <link>https://AlbumBlog.github.io/t%C3%A8/</link>
-    <description>Recent content in Tè, infusi e dintorni on Album.blog()</description>
+    <description>Contenuti recenti in "Tè, infusi e dintorni" su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
@@ -11,10 +11,11 @@
     <item>
       <title>Tipi di tè</title>
       <link>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
-      <pubDate>Thu, 30 Jul 2020 17:05:42 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
-      <description>&amp;hellip;gentlemen at work&amp;hellip;</description>
+      <description>&lt;p&gt;&amp;hellip;gentlemen at work&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
