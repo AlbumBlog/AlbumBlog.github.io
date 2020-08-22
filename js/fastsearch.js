@@ -81,10 +81,11 @@ function loadSearch() {
       minMatchCharLength: 2,
       keys: [
         'title',
-        'desc',
-        'permalink',
-        'summary',
-        'content'
+        'description',
+        'content',
+        'tags',
+        'categories',
+        'permalink'
         ]
     };
     fuse = new Fuse(data, options); // build the index from the json file
@@ -105,7 +106,7 @@ function executeSearch(term) {
     searchitems = '';
   } else { // build our html 
     for (let item in results.slice(0,10)) { // only show first 5 results
-      searchitem = '<li><a href="' + results[item].item.permalink + '" tabindex="0">' + '<span class="title">' + results[item].item.title + ' <em>' + results[item].item.desc + '</em>' + '</span><br /> (da "<span class="sc">'+ results[item].item.section +'</span>", ' + results[item].item.date + ')</a></li>';
+      searchitem = '<li><a href="' + results[item].item.permalink + '" tabindex="0">' + '<span class="title">' + results[item].item.title + ' <em>' + results[item].item.description + '</em>' + '</span><br /> (da "<span class="sc">'+ results[item].item.section +'</span>", ' + results[item].item.date + ')</a></li>';
        if (searchitems.indexOf(searchitem) == -1) {
          searchitems = searchitems + searchitem
        }
