@@ -1,3 +1,4 @@
+// original credits to https://gist.github.com/cmod/5410eae147e4318164258742dd053993
 var fuse; // holds our search engine
 var firstRun = true; // allow us to delay loading json data unless search activated
 var list = document.getElementById('searchResults'); // targets the <ul>
@@ -6,6 +7,8 @@ var last = list.lastChild; // last child of search list
 var maininput = document.getElementById('searchInput'); // input box for search
 var resultsAvailable = false; // Did we get any search results?
 
+// replace original keyboard shortcut mechanism,
+// calling loadSearch() when input box has focus
 maininput.onfocus = function() {
   if(firstRun) {
     loadSearch(); // loads our json data and builds fuse.js search index
@@ -13,16 +16,13 @@ maininput.onfocus = function() {
   }
 }
 
-// ==========================================
 // The main keyboard event listener running the show
-//
 document.addEventListener('keydown', function(event) {
   // DOWN (40) arrow
   if (event.keyCode == 40) {
     if (resultsAvailable) {
-      console.log("down");
       event.preventDefault(); // stop window from scrolling
-      if ( document.activeElement == maininput) { first.focus(); } // if the currently focused element is the main input --> focus the first <li>
+      if (document.activeElement == maininput) { first.focus(); } // if the currently focused element is the main input --> focus the first <li>
       else if ( document.activeElement == last ) { last.focus(); } // if we're at the bottom, stay there
       else { document.activeElement.parentElement.nextSibling.firstElementChild.focus(); } // otherwise select the next search result
     }
@@ -40,17 +40,12 @@ document.addEventListener('keydown', function(event) {
 });
 
 
-// ==========================================
 // execute search as each character is typed
-//
-document.getElementById("searchInput").onkeyup = function(e) { 
+maininput.oninput = function(e) { 
   executeSearch(this.value);
 }
 
-
-// ==========================================
 // fetch some json without jquery
-//
 function fetchJSONFile(path, callback) {
   var httpRequest = new XMLHttpRequest();
   httpRequest.onreadystatechange = function() {
@@ -65,55 +60,41 @@ function fetchJSONFile(path, callback) {
   httpRequest.send(); 
 }
 
-
-// ==========================================
 // load our search index, only executed once
-// on first call of search box (CMD-/)
-//
+// on first call of search box
 function loadSearch() { 
   fetchJSONFile('/index.json', function(data){
     var options = { // fuse.js options; check fuse.js website for details
       isCaseSensitive: false,
       shouldSort: true,
-      location: 0,
-      distance: 100,
-      threshold: 0.4,
+      tokenize: true,
+      ignoreLocation: true,
+      threshold: 0.4, // for more words, 0.1 is better otherwise
       minMatchCharLength: 2,
-      keys: [
-        'title',
-        'description',
-        'content',
-        'tags',
-        'categories',
-        'permalink'
-        ]
+      keys: ["title", "description", "content", "tags", "categories", "section", "permalink"]
     };
     fuse = new Fuse(data, options); // build the index from the json file
   });
 }
 
-// ==========================================
-// using the index we loaded on CMD-/, run 
+// using the index we loaded, run 
 // a search query (for "term") every time a letter is typed
 // in the search box
-//
 function executeSearch(term) {
-  let results = fuse.search(term); // the actual query being run using fuse.js
+  let results = fuse.search(term);
   let searchitems = ''; // our results bucket
-
   if (results.length === 0) { // no results based on what was typed into the input box
     resultsAvailable = false;
     searchitems = '';
   } else { // build our html 
-    for (let item in results.slice(0,10)) { // only show first 5 results
+    for (let item in results.slice(0,5)) {
       searchitem = '<li><a href="' + results[item].item.permalink + '" tabindex="0">' + '<span class="title">' + results[item].item.title + ' <em>' + results[item].item.description + '</em>' + '</span><br /> (da "<span class="sc">'+ results[item].item.section +'</span>", ' + results[item].item.date + ')</a></li>';
-       if (searchitems.indexOf(searchitem) == -1) {
-         searchitems = searchitems + searchitem
+       if (searchitems.indexOf(searchitem) == -1) { // avoid duplicates
+         searchitems = searchitems + searchitem;
        }
     }
     resultsAvailable = true;
   }
-
   document.getElementById("searchResults").innerHTML = searchitems;
   if (results.length > 0) {
     first = list.firstChild.firstElementChild; // first result container — used for checking against keyboard up/down location
