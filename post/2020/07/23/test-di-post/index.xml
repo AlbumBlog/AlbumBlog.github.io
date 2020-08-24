@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post sfusi su Album.blog()</title>
-    <link>https://AlbumBlog.github.io/post/</link>
+    <link>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</link>
     <description>Contenuti recenti in "Post sfusi" su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 24 Aug 2020 19:52:31</lastBuildDate><atom:link href="https://AlbumBlog.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2020 19:52:31</lastBuildDate><atom:link href="https://AlbumBlog.github.io/post/2020/07/23/test-di-post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test di post</title>
       <link>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</link>

@@ -1,31 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prove e riprove su Album.blog()</title>
+    <title>Tags su Album.blog()</title>
     <link>https://AlbumBlog.github.io/tags/prove-e-riprove/</link>
-    <description>Contenuti recenti in "Prove e riprove" su Album.blog()</description>
+    <description>Contenuti recenti in "Tags" su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 30 Jul 2020 17:05:42</lastBuildDate><atom:link href="https://AlbumBlog.github.io/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Aug 2020 19:52:31</lastBuildDate><atom:link href="https://AlbumBlog.github.io/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tipi di tè</title>
-      <link>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
-      <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
+      <title>Prove e riprove</title>
+      <link>https://AlbumBlog.github.io/tags/prove-e-riprove/</link>
+      <pubDate>30 Jul 2020 17:05:42</pubDate>
       
-      <guid>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
-      <description>&lt;p&gt;&amp;hellip;gentlemen at work&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Test di post</title>
-      <link>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</link>
-      <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
-      
-      <guid>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Oggi dev&amp;rsquo;essere giovedì. Non son mai riuscito a capirli, i giovedì.&amp;rdquo; (cit.)&lt;/p&gt;
-</description>
+      <guid>https://AlbumBlog.github.io/tags/prove-e-riprove/</guid>
+      <description></description>
     </item>
     
   </channel>

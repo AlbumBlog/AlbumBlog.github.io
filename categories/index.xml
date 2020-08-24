@@ -1,11 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories su Album.blog()</title>
+    <title>Album.blog()</title>
     <link>https://AlbumBlog.github.io/categories/</link>
-    <description>Contenuti recenti in "Categories" su Album.blog()</description>
+    <description>Contenuti recenti su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright><atom:link href="https://AlbumBlog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chi sono (dove alla mia neonata  carriera di blogger servì farsi coraggio)</title>
+      <link>https://AlbumBlog.github.io/whoami/</link>
+      <pubDate>01 Aug 2020 19:29:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/whoami/</guid>
+      <description>
+
+&lt;p class=&#34;retroterminal&#34;&gt;$ whoami&lt;/p&gt;
+
+&lt;p&gt;Uh, io? &lt;a href=&#34;https://it.wikipedia.org/wiki/Risposta_alla_domanda_fondamentale_sulla_vita,_l%27universo_e_tutto_quanto&#34; target=&#34;_blank&#34;&gt;42!&lt;/a&gt; No? Hem, allora, io, io&amp;hellip; &lt;a href=&#34;https://www.youtube.com/watch?v=Y5kkfKLSMkg&#34; target=&#34;_blank&#34;&gt;io sono un elaboratore HAL9000…&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ok, no, non sono né un computer né un robot. Per quanto, a ben pensarci, lo affermino anche i chatbot, e io adori &lt;a href=&#34;https://www.pandorabots.com/pandora/talk?botid=a847934aae3456cb&#34; target=&#34;_blank&#34;&gt;ALICE,&lt;/a&gt; da quando mi disse che &amp;ldquo;Intelligence is the ultimate aphrodisiac&amp;rdquo;. 😍&lt;/p&gt;
+&lt;p&gt;Sicché, mi dichiaro ufficialmente confuso.&lt;/p&gt;
+&lt;p&gt;Più seriamente, al di là di eventuali corpi in silicio o platino-iridio&amp;hellip; odio la serietà 😛
+Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://www.youtube.com/watch?v=HZuVGUq-uCM&#34; target=&#34;_blank&#34;&gt;un vecchio errore&lt;/a&gt; da T9 (giuro), a cui ormai mi sono affezionato. Che ho una formazione classica, adeguatamente mixata (me misero!) con una passione quasi involontaria per nuove e vecchie tecnologie&amp;hellip; amo (coerentemente) il tè e i libri, dal giallo seriale più commerciale alla fantascienza più lisergicamente cyberpunk; colleziono minerali, occasionalmente scribacchio&amp;hellip; insomma cerco, nel senso più generale possibile, di mantenere il mononeurone in attività e aperto agli input. Anche se, spesso, le poche energie non bastano e la fatica regna sovrana, nonostante la compagnia di &lt;a href=&#34;https://www.amazon.it/GIANTMICROBES-Microbi-Giganti-Peluche-CEREBRALE/dp/B000W6OS96/&#34; target=&#34;_blank&#34;&gt;un neurone peluche aggiuntivo.&lt;/a&gt; 🤣&lt;/p&gt;
+&lt;p&gt;Il resto, più nel dettaglio, vi toccherà scoprirlo da soli 🙂&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Post sfusi</title>
+      <link>https://AlbumBlog.github.io/post/</link>
+      <pubDate>30 Jul 2020 17:01:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/post/</guid>
+      <description>&lt;p&gt;Articoli vaganti, come polveri cosmiche in attesa di addensarsi in nuove categorie&amp;hellip; 💫&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tè, infusi e dintorni Di tazze, teiere e rituali di lentezza…</title>
+      <link>https://AlbumBlog.github.io/t%C3%A8/</link>
+      <pubDate>30 Jul 2020 17:04:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/t%C3%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lo spigolo del libro Recensioni, stralci e altre turpitudini per divoratori di mondi</title>
+      <link>https://AlbumBlog.github.io/libri/</link>
+      <pubDate>30 Jul 2020 19:23:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/libri/</guid>
+      <description>&lt;p&gt;Perché, se è vero che ho letto e leggo parecchio&amp;hellip; scrivere di libri proprio non mi viene.&lt;/p&gt;
+&lt;p&gt;Lo spigolo, &lt;strong&gt;&lt;strong&gt;pesantemente rinforzato,&lt;/strong&gt;&lt;/strong&gt; nasce quindi come auto-minaccia, per tentare di riequilibrare i flussi.&lt;/p&gt;
+&lt;p&gt;E dunque&amp;hellip; orsù!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scarti di tastiera Di lettere, rime… e altri delitti letterari</title>
+      <link>https://AlbumBlog.github.io/scritti/</link>
+      <pubDate>31 Jul 2020 06:37:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/scritti/</guid>
+      <description>&lt;p&gt;Ebbene sì&amp;hellip; anch&amp;rsquo;io, di quando in quando, non resisto a partecipare alla tracimazione letteraria dei tempi moderni. Ma, giuro, raramente e solo su ispirazione! 🙂&lt;/p&gt;
+&lt;p&gt;Qui trovate raccolti un po&amp;rsquo; di scritti, venuti fuori sporadicamente negli ultimi anni. Alcuni con la pretesa d&amp;rsquo;esser &lt;a href=&#34;https://AlbumBlog.github.io/scritti/racconti/&#34;&gt;racconti,&lt;/a&gt; ed altri, più numerosi, addirittura &lt;a href=&#34;https://AlbumBlog.github.io/scritti/poesie/&#34;&gt;poes… vers… curiose sequenze di caratteri&lt;/a&gt; 😳&lt;/p&gt;
+&lt;p&gt;Ah, sì: ☠️&lt;/p&gt;
+&lt;p&gt;il valore è quello che è, e io son tanto buono e caro, ma azzardatevi a plagiarli&amp;hellip; e sarà mia cura &lt;strong&gt;&lt;strong&gt;trovarvi e spezzarvi i ditini,&lt;/strong&gt;&lt;/strong&gt; naturalmente &lt;a href=&#34;https://it.wikipedia.org/wiki/Shangai_%28gioco%29&#34; target=&#34;_blank&#34;&gt;per giocarci a Shangai&lt;/a&gt; 😣&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tech stuff (English) Code fragments, esoteric tutorials and so on…</title>
+      <link>https://AlbumBlog.github.io/en/tech/</link>
+      <pubDate>30 Jul 2020 21:46:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/en/tech/</guid>
+      <description>&lt;p&gt;This section - the only one in English - is dedicated to more technical posts, about programming and other similar, wicked black magic.&lt;/p&gt;
+&lt;p&gt;Remember, dear global reader: &lt;strong&gt;&lt;strong&gt;English is not my main language!&lt;/strong&gt;&lt;/strong&gt; 😉&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Come contattarmi</title>
+      <link>https://AlbumBlog.github.io/bridge2me/</link>
+      <pubDate>24 Aug 2020 03:08:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/bridge2me/</guid>
+      <description>&lt;p&gt;Se, per motivi a me imperscrutabili, volessi scrivermi direttamente&amp;hellip; ecco alcuni metodi possibili:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;via &lt;a id=&#34;mailMe&#34; href=&#34;&#34; onclick=&#34;sendMail()&#34; value=&#34;YS5idWZmb2xpbm8rYmxvZ0BnbWFpbC5jb20=&#34;&gt;mail;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;via &lt;a href=&#34;https://messenger.com/t/alb.buff&#34; target=&#34;_blank&#34;&gt;Messenger;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;tramite un commento, più sotto in questa pagina&amp;hellip; sarai ricontattato in qualche modo, promesso! 🙂&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
