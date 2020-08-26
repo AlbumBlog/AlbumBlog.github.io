@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Album.blog()</title>
+    <link>https://AlbumBlog.github.io/en/</link>
+    <description>Recent contents on Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Wed, 26 Aug 2020 19:21:39</lastBuildDate><atom:link href="https://AlbumBlog.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows: some considerations (a very old joke)</title>
+      <link>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>
+      <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
+      
+      <guid>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
+      <description>&lt;p&gt;Poor Windows&amp;hellip; with 10 has become a quite stable system, but its reputation remains unchanged, at least since &lt;a href=&#34;https://www.youtube.com/watch?v=IW7Rqwwth84&#34; target=&#34;_blank&#34;&gt;the infamous BSOD during Windows 98 presentation&lt;/a&gt; (another very old, organized joke, indeed).&lt;/p&gt;
+&lt;p&gt;And so, despite I always used this one as my personal system (firstly for accessibility reasons), I like sharing here an old IT joke about it, found in Internet years and years ago.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Is Windows a virus?&lt;/p&gt;
+&lt;p&gt;No, Windows is not a virus. Here&amp;rsquo;s what viruses do:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;They replicate quickly - okay, Windows does that.&lt;/li&gt;
+&lt;li&gt;Viruses use up valuable system resources, slowing down the system as they do so - okay, Windows does that.&lt;/li&gt;
+&lt;li&gt;Viruses will, from time to time, trash your hard disk - okay, Windows does that too.&lt;/li&gt;
+&lt;li&gt;Viruses are usually carried, unknown to the user, along with valuable programs and systems - sigh&amp;hellip; Windows does that, too.&lt;/li&gt;
+&lt;li&gt;Viruses will occasionally make the user suspect their system is too slow (see 2) and the user will buy new hardware - yup, Windows does that, too.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Until now it seems Windows is a virus but there are fundamental differences: viruses are well supported by their authors, are running on most systems, their program code is fast, compact and efficient and they tend to become more sophisticated as they mature.&lt;/p&gt;
+&lt;p&gt;So Windows is not a virus.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a bug.&lt;/p&gt;
+&lt;p&gt;🦋&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

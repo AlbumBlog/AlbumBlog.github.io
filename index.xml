@@ -7,70 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Tue, 25 Aug 2020 23:01:13</lastBuildDate><atom:link href="https://AlbumBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chi sono (dove alla mia neonata  carriera di blogger servì farsi coraggio)</title>
-      <link>https://AlbumBlog.github.io/whoami/</link>
-      <pubDate>01 Aug 2020 19:29:42</pubDate>
-      
-      <guid>https://AlbumBlog.github.io/whoami/</guid>
-      <description>
-
-&lt;p class=&#34;retroterminal&#34;&gt;$ whoami&lt;/p&gt;
-
-&lt;p&gt;Uh, io? &lt;a href=&#34;https://it.wikipedia.org/wiki/Risposta_alla_domanda_fondamentale_sulla_vita,_l%27universo_e_tutto_quanto&#34; target=&#34;_blank&#34;&gt;42!&lt;/a&gt; No? Hem, allora, io, io&amp;hellip; &lt;a href=&#34;https://www.youtube.com/watch?v=Y5kkfKLSMkg&#34; target=&#34;_blank&#34;&gt;io sono un elaboratore HAL9000…&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Ok, no, non sono né un computer né un robot. Per quanto, a ben pensarci, lo affermino anche i chatbot, e io adori &lt;a href=&#34;https://www.pandorabots.com/pandora/talk?botid=a847934aae3456cb&#34; target=&#34;_blank&#34;&gt;ALICE,&lt;/a&gt; da quando mi disse che &amp;ldquo;Intelligence is the ultimate aphrodisiac&amp;rdquo;. 😍&lt;/p&gt;
-&lt;p&gt;Sicché, mi dichiaro ufficialmente confuso.&lt;/p&gt;
-&lt;p&gt;Più seriamente, al di là di eventuali corpi in silicio o platino-iridio&amp;hellip; odio la serietà 😛
-Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://www.youtube.com/watch?v=HZuVGUq-uCM&#34; target=&#34;_blank&#34;&gt;un vecchio errore&lt;/a&gt; da T9 (giuro), a cui ormai mi sono affezionato. Che ho una formazione classica, adeguatamente mixata (me misero!) con una passione quasi involontaria per nuove e vecchie tecnologie&amp;hellip; amo (coerentemente) il tè e i libri, dal giallo seriale più commerciale alla fantascienza più lisergicamente cyberpunk; colleziono minerali, occasionalmente scribacchio&amp;hellip; insomma cerco, nel senso più generale possibile, di mantenere il mononeurone in attività e aperto agli input. Anche se, spesso, le poche energie non bastano e la fatica regna sovrana, nonostante la compagnia di &lt;a href=&#34;https://www.amazon.it/GIANTMICROBES-Microbi-Giganti-Peluche-CEREBRALE/dp/B000W6OS96/&#34; target=&#34;_blank&#34;&gt;un neurone peluche aggiuntivo.&lt;/a&gt; 🤣&lt;/p&gt;
-&lt;p&gt;Il resto, più nel dettaglio, vi toccherà scoprirlo da soli 🙂&lt;/p&gt;
-</description>
-    </item>
-    
+    <lastBuildDate>Wed, 26 Aug 2020 19:21:39</lastBuildDate><atom:link href="https://AlbumBlog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows: some considerations (a very old joke)</title>
       <link>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>
-      <pubDate>25 Aug 2020 14:00:42</pubDate>
+      <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
-      <description>&lt;p&gt;Poor Windows&amp;hellip; with 10 has become a quite stable system, but its reputation remains unchanged, at least since &lt;a href=&#34;https://www.youtube.com/watch?v=IW7Rqwwth84&#34; target=&#34;_blank&#34;&gt;the infamous BSOD during Windows 98 presentation&lt;/a&gt; (another very old, organized joke, indeed).&lt;/p&gt;
-&lt;p&gt;And so, despite I always used this one as my personal system (firstly for accessibility reasons), I like sharing here an old IT joke about it, found in Internet years and years ago.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Is Windows a virus?&lt;/p&gt;
-&lt;p&gt;No, Windows is not a virus. Here&amp;rsquo;s what viruses do:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;They replicate quickly - okay, Windows does that.&lt;/li&gt;
-&lt;li&gt;Viruses use up valuable system resources, slowing down the system as they do so - okay, Windows does that.&lt;/li&gt;
-&lt;li&gt;Viruses will, from time to time, trash your hard disk - okay, Windows does that too.&lt;/li&gt;
-&lt;li&gt;Viruses are usually carried, unknown to the user, along with valuable programs and systems - sigh&amp;hellip; Windows does that, too.&lt;/li&gt;
-&lt;li&gt;Viruses will occasionally make the user suspect their system is too slow (see 2) and the user will buy new hardware - yup, Windows does that, too.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Until now it seems Windows is a virus but there are fundamental differences: viruses are well supported by their authors, are running on most systems, their program code is fast, compact and efficient and they tend to become more sophisticated as they mature.&lt;/p&gt;
-&lt;p&gt;So Windows is not a virus.&lt;/p&gt;
-&lt;p&gt;It&amp;rsquo;s a bug.&lt;/p&gt;
-&lt;p&gt;🦋&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Come contattarmi</title>
-      <link>https://AlbumBlog.github.io/bridge2me/</link>
-      <pubDate>24 Aug 2020 03:08:42</pubDate>
-      
-      <guid>https://AlbumBlog.github.io/bridge2me/</guid>
-      <description>&lt;p&gt;Se, per motivi a me imperscrutabili, volessi scrivermi direttamente&amp;hellip; ecco alcuni metodi possibili:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;via &lt;a id=&#34;mailMe&#34; href=&#34;&#34; onclick=&#34;sendMail()&#34; value=&#34;YS5idWZmb2xpbm8rYmxvZ0BnbWFpbC5jb20=&#34;&gt;mail;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;via &lt;a href=&#34;https://messenger.com/t/alb.buff&#34; target=&#34;_blank&#34;&gt;Messenger;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;tramite un commento, più sotto in questa pagina&amp;hellip; sarai ricontattato in qualche modo, promesso! 🙂&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
       <title>Michael Ende - La storia infinita (non-recensione con spoiler)</title>
       <link>https://AlbumBlog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
-      <pubDate>19 Aug 2020 15:35:42</pubDate>
+      <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</guid>
       <description>
@@ -126,7 +76,7 @@ Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://
     <item>
       <title>Tipi di tè</title>
       <link>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
-      <pubDate>30 Jul 2020 17:05:42</pubDate>
+      <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
       <description>&lt;p&gt;&amp;hellip;gentlemen at work&amp;hellip;&lt;/p&gt;
@@ -136,7 +86,7 @@ Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://
     <item>
       <title>Test di post</title>
       <link>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</link>
-      <pubDate>23 Jul 2020 12:33:42</pubDate>
+      <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</guid>
       <description>&lt;p&gt;&amp;ldquo;Oggi dev&amp;rsquo;essere giovedì. Non son mai riuscito a capirli, i giovedì.&amp;rdquo; (cit.)&lt;/p&gt;
@@ -144,9 +94,9 @@ Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://
     </item>
     
     <item>
-      <title>Confessioni di riflesso (Racconto n. 3)</title>
+      <title>Confessioni di riflesso (racconto n. 3)</title>
       <link>https://AlbumBlog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
-      <pubDate>01 Jun 2015 13:49:42</pubDate>
+      <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</guid>
       <description>&lt;p&gt;Specchio! Mi sa che questa volta l&amp;rsquo;ho fatta grossa. Quando tornano mamma e papà&amp;hellip; quante volte mi hanno detto che non devo mai aprire quando non c&amp;rsquo;è nessuno! Forse dovrei sembrare dispiaciuto, almeno un pochino. Dai, aiutami e proviamo! Aspetta, mi abbasso, così mi vedi meglio. Così&amp;hellip; no, no&amp;hellip; quasi! No, no, niente smorfie! La mamma lo ripete sempre, quando usciamo, niente smorfie! Ok, così va bene, penso, speriamo&amp;hellip; calma, sono agitato, Specchio, devo calmarmi, papà si accorge sempre quando nascondo qualcosa. Però quando hanno suonato alla porta, prima, ero troppo curioso, Specchio, è tanto che non vedo qualcuno&amp;hellip; Era un uomo piccolo, tutto grigio elegante, aveva pure la cravatta! Ha detto qualcosa che non ho capito, voleva fossimo sicuri, o forse sicurati, boh. Io non capivo, lui parlava parlava, mi guardava strano, poi voleva andare via e lasciarmi solo. Ma io non voglio restare solo, Specchio, e così gli ho preso la cravatta&amp;hellip; oh, mamma e papà non saranno contenti, no no e no! Ma se mi calmo sembrerà tutto a posto&amp;hellip; Devo pensare a qualcosa di bello. Vediamo&amp;hellip; ti ho raccontato del mio compleanno di domenica, Specchio? No? E&amp;rsquo; stato bellissimo, li vedi i regali? Eccoli là, sul comodino. C&amp;rsquo;era anche zio, e il vecchio dottore che mi visita da quando ero piccolo così, come dice lui. E dovevi vedere la torta! Mamma sa che mi piacciono le candeline da soffiare una per una, e ieri erano addirittura quaranta! Sono sicuro, le ho contate cinque volte, prima che zio le accendesse (non le fanno mai accendere a me, uffa). Non mi divertivo così da tanto&amp;hellip; quasi quanto quella volta a scuola, quella cosa con la rana. Aspetta, voglio provare uno dei regali, ti piacerà. Ecco! Bella questa luce blu, vero Specchio? E&amp;rsquo; a LED. Però&amp;hellip; no, no, non va bene! Mi ricorda quello grigio, lì dietro&amp;hellip; Aspetta, sai cosa vuol dire LED? Làig&amp;hellip; Làight emittin dàiod, ecco. Me l&amp;rsquo;ha spiegato papà, lui sa un sacco di cose del genere! Non ti sembra anche a te che questa luce ricordi quello grigio, là? Se mi giro di fianco lo vedi, guarda&amp;hellip; ora non si muove più, però. Non è buffo, tutto grigio e con quella faccia? Quasi come la luce, tutto blu, quasi viola&amp;hellip;&lt;/p&gt;
@@ -159,7 +109,7 @@ Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://
     <item>
       <title>Terry Pratchett - Il tristo mietitore</title>
       <link>https://AlbumBlog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
-      <pubDate>20 Mar 2015 00:00:42</pubDate>
+      <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</guid>
       <description>&lt;p&gt;&amp;ldquo;Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. [&amp;hellip;] Non c&amp;rsquo;è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell&amp;rsquo;è stato.&lt;/p&gt;
@@ -179,7 +129,7 @@ Posso dirvi che in molti mi chiamano Album, eredità di &lt;a href=&#34;https://
     <item>
       <title>Italo Calvino - Le città invisibili</title>
       <link>https://AlbumBlog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
-      <pubDate>25 Jan 2015 14:52:42</pubDate>
+      <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
       <description>&lt;p&gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi &amp;ldquo;Se una notte d&amp;rsquo;inverno un viaggiatore&amp;rdquo;, fatto di continui inizi, e &amp;ldquo;Il castello dei destini incrociati&amp;rdquo;, costruito invece giocando (letteralmente) coi tarocchi.&lt;/p&gt;
@@ -197,9 +147,9 @@ Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d
     </item>
     
     <item>
-      <title>Il drago che sposò la principessa (Racconto n. 2)</title>
+      <title>Il drago che sposò la principessa (racconto n. 2)</title>
       <link>https://AlbumBlog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</link>
-      <pubDate>22 Sep 2014 01:46:42</pubDate>
+      <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</guid>
       <description>&lt;p&gt;C&amp;rsquo;era una volta&amp;hellip; DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un &amp;ldquo;fiero condottiero&amp;rdquo; che, invece della scomoda e pesante armatura, vestisse un bell&amp;rsquo;abito di D&amp;amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e&amp;hellip;&lt;/p&gt;
@@ -280,9 +230,9 @@ Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d
     </item>
     
     <item>
-      <title>L&#39;ombra dell&#39;anello (Racconto n. 1)</title>
+      <title>L&#39;ombra dell&#39;anello (racconto n. 1)</title>
       <link>https://AlbumBlog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</link>
-      <pubDate>14 Jan 2012 01:00:42</pubDate>
+      <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
       
       <guid>https://AlbumBlog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</guid>
       <description>&lt;p&gt;Riuscì a trattenersi finché l&amp;rsquo;altro non se ne fu andato, a testa bassa, come il cane che era. Dopo, improvvisa, la diga si ruppe. Fu invaso da una rabbia violentissima, travolgente, inarrestabile. Udiva solo i tonfi dei pugni sul corpo della donna, che a malapena, adesso, ricordava chi fosse.&lt;/p&gt;
