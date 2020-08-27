@@ -118,6 +118,14 @@
   color: #fff
 }
   
+ul.socialList > li {
+  display: inline-block;
+  zoom:1;
+  margin-left: auto;
+  margin-right: auto;
+  height: 36px
+}
+
 .bridge2me {
   fill: #BABABA;
 }
