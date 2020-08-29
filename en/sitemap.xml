@@ -3,6 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://AlbumBlog.github.io/en/tags/jokes/</loc>
+    <lastmod>2020-08-26T19:21:39+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/en/tags/</loc>
+    <lastmod>2020-08-26T19:21:39+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://AlbumBlog.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://AlbumBlog.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/en/tags/virus/</loc>
+    <lastmod>2020-08-26T19:21:39+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://AlbumBlog.github.io/en/tags/windows/</loc>
+    <lastmod>2020-08-26T19:21:39+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</loc>
     <lastmod>2020-08-26T19:21:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -56,22 +94,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://AlbumBlog.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://AlbumBlog.github.io/en/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://AlbumBlog.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://AlbumBlog.github.io/en/tags/"
                 />
   </url>
   
