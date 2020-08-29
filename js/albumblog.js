@@ -2,7 +2,7 @@ var body = document.getElementsByTagName("body")[0];
 
 body.onload = (function() {
   aComments = document.querySelectorAll("a#disqus_comments");
-  for(i=0; i<aComments.length; i++) {
+  for (i=0; i<aComments.length; i++) {
     setCommentCounterText(aComments[i]);
   }
 });
@@ -23,11 +23,11 @@ function isLocal() {
 }
 
 function setCommentCounterText(a) {
-  disqusSpan = a.childNodes[1];
-  count = disqusSpan.innerHTML;
+  disqusSpan = a.childNodes[0];
+  count = disqusSpan.textContent;
+  if (count == "") {return;}
   href = a.getAttribute("href");
-  text = "";
-  if (count && href.indexOf("/en/") == -1) {
+  if (href.indexOf("/en/") == -1) {
     switch(count) {
       case "0":
         text = "Ancora nessun commento, sigh"; break; 
@@ -36,7 +36,7 @@ function setCommentCounterText(a) {
       default:
         text = `Addirittura ${count} commenti!`;
     }
-  } else if (count) {
+  } else {
     switch(count) {
       case "0":
         text = "No comment yet, sigh"; break; 
@@ -45,8 +45,6 @@ function setCommentCounterText(a) {
       default:
         text = `Even ${count} comments!`;
     }
-  } else {
-    text = disqusSpan.getAttribute("data-value");
   }
   a.textContent = text;
 }
