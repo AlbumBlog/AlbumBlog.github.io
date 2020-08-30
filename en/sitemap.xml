@@ -3,97 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/tags/jokes/</loc>
+    <loc>https://albumblog.github.io/en/tags/jokes/</loc>
     <lastmod>2020-08-29T19:52:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/tags/</loc>
+    <loc>https://albumblog.github.io/en/tags/</loc>
     <lastmod>2020-08-29T19:52:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/tags/"
+                href="https://albumblog.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/tags/"
+                href="https://albumblog.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/tags/virus/</loc>
+    <loc>https://albumblog.github.io/en/tags/virus/</loc>
     <lastmod>2020-08-29T19:52:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/tags/windows/</loc>
+    <loc>https://albumblog.github.io/en/tags/windows/</loc>
     <lastmod>2020-08-29T19:52:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</loc>
+    <loc>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</loc>
     <lastmod>2020-08-29T19:52:40+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/tech/</loc>
+    <loc>https://albumblog.github.io/en/tech/</loc>
     <lastmod>2020-08-26T19:21:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/tech/"
+                href="https://albumblog.github.io/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/tech/"
+                href="https://albumblog.github.io/en/tech/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/</loc>
+    <loc>https://albumblog.github.io/en/</loc>
     <lastmod>2020-08-29T11:26:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/"
+                href="https://albumblog.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/"
+                href="https://albumblog.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/categories/</loc>
+    <loc>https://albumblog.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/categories/"
+                href="https://albumblog.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/categories/"
+                href="https://albumblog.github.io/en/categories/"
                 />
   </url>
   

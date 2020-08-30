@@ -2,17 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Album.blog()</title>
-    <link>https://AlbumBlog.github.io/en/tags/windows/</link>
+    <link>https://albumblog.github.io/en/tags/windows/</link>
     <description>Recent contents in "Tags" on Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sat, 29 Aug 2020 21:08:28</lastBuildDate><atom:link href="https://AlbumBlog.github.io/en/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2020 14:31:09</lastBuildDate><atom:link href="https://albumblog.github.io/en/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows: some considerations (a very old joke)</title>
-      <link>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>
+      <link>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
-      <guid>https://AlbumBlog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
+      <guid>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
       <description>&lt;p&gt;Poor Windows&amp;hellip; with 10 has become a quite stable system, but its reputation remains unchanged, at least since &lt;a href=&#34;https://www.youtube.com/watch?v=IW7Rqwwth84&#34; target=&#34;_blank&#34;&gt;the infamous BSOD during Windows 98 presentation&lt;/a&gt; (another very old, organized joke, indeed).&lt;/p&gt;
 &lt;p&gt;And so, despite I always used this one as my personal system (firstly for accessibility reasons), I like sharing here an old IT joke about it, found in Internet years and years ago.&lt;/p&gt;
 &lt;hr&gt;

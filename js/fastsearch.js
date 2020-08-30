@@ -10,7 +10,7 @@ var resultsAvailable = false; // Did we get any search results?
 // replace original keyboard shortcut mechanism,
 // calling loadSearch() when input box has focus
 maininput.onfocus = function() {
-  if(firstRun) {
+  if (firstRun) {
     loadSearch(); // loads our json data and builds fuse.js search index
     firstRun = false; // let's never do this again
   }
@@ -69,9 +69,10 @@ function loadSearch() {
       shouldSort: true,
       tokenize: true,
       ignoreLocation: true,
+      ignoreFieldNorm: true,
       threshold: 0.4, // for more words, 0.1 is better otherwise
       minMatchCharLength: 2,
-      keys: ["title", "description", "content", "tags", "categories", "section", "permalink"]
+      keys: ["lang", "title", "description", "content", "tags", "categories", "section", "permalink"]
     };
     fuse = new Fuse(data, options); // build the index from the json file
   });
@@ -82,16 +83,16 @@ function loadSearch() {
 // in the search box
 function executeSearch(term) {
   let results = fuse.search(term);
+  let permalinks = results.map(function(e){return e.item.permalink;});
+  // results without duplicates
+  results = results.filter(function(e, i, a){return i == permalinks.indexOf(e.item.permalink);});
   let searchitems = ''; // our results bucket
   if (results.length === 0) { // no results based on what was typed into the input box
     resultsAvailable = false;
     searchitems = '';
   } else { // build our html 
-    for (let item in results.slice(0,5)) {
-      searchitem = '<li><a href="' + results[item].item.permalink + '" tabindex="0">' + '<span class="title">' + results[item].item.title + ' <em>' + results[item].item.description + '</em>' + '</span><br /> (da "<span class="sc">'+ results[item].item.section +'</span>", ' + results[item].item.date + ')</a></li>';
-       if (searchitems.indexOf(searchitem) == -1) { // avoid duplicates
-         searchitems = searchitems + searchitem;
-       }
+    for (let item in results.slice(0,3)) {
+      searchitems = searchitems+'<li><a href="' + results[item].item.permalink + '" tabindex="0">' + '<span class="title">' + results[item].item.title + ' <em>' + results[item].item.description + '</em></span><br/> (da "<span class="sc">'+ results[item].item.section +'</span>", ' + results[item].item.date + ')</a></li>';
     }
     resultsAvailable = true;
   }

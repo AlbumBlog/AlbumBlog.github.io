@@ -3,193 +3,193 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://AlbumBlog.github.io/whoami/</loc>
+    <loc>https://albumblog.github.io/whoami/</loc>
     <lastmod>2020-08-24T19:52:32+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/post/</loc>
+    <loc>https://albumblog.github.io/post/</loc>
     <lastmod>2020-08-24T19:52:32+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/t%C3%A8/</loc>
+    <loc>https://albumblog.github.io/t%C3%A8/</loc>
     <lastmod>2020-07-30T17:04:42+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/libri/</loc>
+    <loc>https://albumblog.github.io/libri/</loc>
     <lastmod>2020-08-24T19:52:32+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/scritti/</loc>
+    <loc>https://albumblog.github.io/scritti/</loc>
     <lastmod>2020-08-24T19:52:32+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/bridge2me/</loc>
+    <loc>https://albumblog.github.io/bridge2me/</loc>
     <lastmod>2020-08-28T20:49:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</loc>
+    <loc>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</loc>
     <lastmod>2020-08-25T14:16:21+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/tags/prove-e-riprove/</loc>
+    <loc>https://albumblog.github.io/tags/prove-e-riprove/</loc>
     <lastmod>2020-08-19T17:18:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/tags/</loc>
+    <loc>https://albumblog.github.io/tags/</loc>
     <lastmod>2020-08-19T17:18:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/tags/"
+                href="https://albumblog.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/tags/"
+                href="https://albumblog.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</loc>
+    <loc>https://albumblog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</loc>
     <lastmod>2020-07-30T17:05:42+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/post/2020/07/23/test-di-post/</loc>
+    <loc>https://albumblog.github.io/post/2020/07/23/test-di-post/</loc>
     <lastmod>2020-08-19T17:18:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</loc>
+    <loc>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</loc>
     <lastmod>2020-08-26T19:21:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</loc>
+    <loc>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</loc>
     <lastmod>2020-08-19T17:18:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</loc>
+    <loc>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</loc>
     <lastmod>2020-08-19T17:18:23+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</loc>
+    <loc>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</loc>
     <lastmod>2020-08-26T19:21:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</loc>
+    <loc>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</loc>
     <lastmod>2020-08-29T15:36:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/</loc>
+    <loc>https://albumblog.github.io/</loc>
     <lastmod>2020-08-29T11:26:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/"
+                href="https://albumblog.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/"
+                href="https://albumblog.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/en/</loc>
+    <loc>https://albumblog.github.io/en/</loc>
     <lastmod>2020-08-29T11:26:25+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/tech/</loc>
+    <loc>https://albumblog.github.io/tech/</loc>
     <lastmod>2020-08-26T19:21:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/tech/"
+                href="https://albumblog.github.io/en/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/tech/"
+                href="https://albumblog.github.io/tech/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/categories/</loc>
+    <loc>https://albumblog.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://AlbumBlog.github.io/en/categories/"
+                href="https://albumblog.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://AlbumBlog.github.io/categories/"
+                href="https://albumblog.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/scritti/poesie/</loc>
+    <loc>https://albumblog.github.io/scritti/poesie/</loc>
     <lastmod>2020-08-15T09:13:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://AlbumBlog.github.io/scritti/racconti/</loc>
+    <loc>https://albumblog.github.io/scritti/racconti/</loc>
     <lastmod>2020-08-15T09:13:50+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

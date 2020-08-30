@@ -122,11 +122,14 @@
   color: #fff
 }
   
-ul.socialList > li {
+ul.horizontalList > li {
   display: inline-block;
-  zoom:1;
+  zoom: 1;
   margin-left: auto;
   margin-right: auto;
+}
+
+ul.socialList > li {
   height: 36px
 }
 
