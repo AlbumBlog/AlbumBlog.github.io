@@ -1,6 +1,7 @@
 var body = document.getElementsByTagName("body")[0];
 
 body.onload = (function() {
+  DISQUSWIDGETS.getCount({reset: true});
   aComments = document.querySelectorAll("a#disqus_comments");
   for (i=0; i<aComments.length; i++) {
     setCommentCounterText(aComments[i]);
