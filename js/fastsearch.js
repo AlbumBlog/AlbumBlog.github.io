@@ -63,7 +63,7 @@ function fetchJSONFile(path, callback) {
 // load our search index, only executed once
 // on first call of search box
 function loadSearch() { 
-  fetchJSONFile('/index.json', function(data){
+  fetchJSONFile('/en/index.json', function(data){
     var options = { // fuse.js options; check fuse.js website for details
       isCaseSensitive: false,
       shouldSort: true,
