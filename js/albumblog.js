@@ -1,7 +1,11 @@
+// get <body> of page
 var body = document.getElementsByTagName("body")[0];
 
+// define the function to run after loading
 body.onload = (function() {
+  // get all <a> tags with id="disqus_comments"
   aComments = document.querySelectorAll("a#disqus_comments");
+  // and pass them to function for setting their text
   for (i=0; i<aComments.length; i++) {
     setCommentCounterText(aComments[i]);
   }
@@ -23,20 +27,17 @@ function isLocal() {
 }
 
 function setCommentCounterText(a) {
+  // get hidden Disqus <span>
   disqusSpan = a.childNodes[0];
+  // get its text, hopefully set by Disqus in the meantime
   count = disqusSpan.textContent;
+  // if something went wrong, return (leaving the <a> i18n default label)
   if (count == "") {return;}
+  // get real URL of comment counter link
   href = a.getAttribute("href");
-  if (href.indexOf("/en/") == -1) {
-    switch(count) {
-      case "0":
-        text = "Ancora nessun commento, sigh"; break; 
-      case "1":
-        text = "Wow, qualcuno ha commentato!"; break;
-      default:
-        text = `Addirittura ${count} commenti!`;
-    }
-  } else {
+  // check for specific non-default language(s)
+  if (href.indexOf("/en/") != -1) {
+    // and set the new label accordingly
     switch(count) {
       case "0":
         text = "No comment yet, sigh"; break; 
@@ -45,6 +46,16 @@ function setCommentCounterText(a) {
       default:
         text = `Even ${count} comments!`;
     }
+  } else { // default language (Italian, for me)
+    switch(count) {
+      case "0":
+        text = "Ancora nessun commento, sigh"; break; 
+      case "1":
+        text = "Wow, qualcuno ha commentato!"; break;
+      default:
+        text = `Addirittura ${count} commenti!`;
+    }
   }
+  // set new <a> label
   a.textContent = text;
 }
