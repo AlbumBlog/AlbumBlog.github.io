@@ -7,7 +7,151 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 00:48:12</lastBuildDate><atom:link href="https://albumblog.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2020 16:30:58</lastBuildDate><atom:link href="https://albumblog.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
+      <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
+      <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
+      
+      <guid>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
+      <description>&lt;p&gt;This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.&lt;/p&gt;
+&lt;p&gt;The primary home lists posts from all languages, the secondary only from its one. In any case, a post must consistently show its information in the same language.&lt;/p&gt;
+&lt;p&gt;So, for example:&lt;/p&gt;
+&lt;hr&gt;
+
+
+&lt;div class=&#34;relative w-100 mb4&#34;&gt;
+  &lt;div class=&#34;relative w-100 mb4 bg-white nested-copy-line-height&#34;&gt;
+    &lt;div class=&#34;bg-white mb3 pa4 gray overflow-hidden&#34;&gt;
+      &lt;h3 class=&#34;f3 near-black&#34;&gt;
+        &lt;a href=&#34;http://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/&#34; class=&#34;link black dim&#34;&gt;
+          Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)&lt;br/&gt;(from &#34;Tech stuff&#34;)
+        &lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;div class=&#34;f6&#34;&gt;
+        3 September 2020, Thursday
+      &lt;/div&gt;
+
+      &lt;div class=&#34;nested-links f5 lh-copy nested-copy-line-height&#34;&gt;
+        This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart. &lt;a href=&#34;http://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/&#34; class=&#34;ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1&#34;&gt;[…continue…] &amp;rarr;&lt;/a&gt;
+        &lt;a id=&#34;disqus_comments&#34; href=&#34;http://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/#disqus_thread&#34; class=&#34;link black dim&#34;&gt;&lt;span style=&#34;display:none!important;&#34; class=&#34;disqus-comment-count&#34; data-disqus-url=&#34;https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/&#34;&gt;&lt;/span&gt;Comment counter not available&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;p&gt;that includes title, description, date, summary, link to read more and, finally, our comment counter.&lt;/p&gt;
+&lt;p&gt;Hugo documentation &lt;a href=&#34;https://gohugo.io/content-management/multilingual/&#34; target=&#34;_blank&#34;&gt;about multilingual mode&lt;/a&gt; is quite accurate, but says nothing about comment counters. And nothing also in Disqus help &lt;a href=&#34;https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page&#34; target=&#34;_blank&#34;&gt;here.&lt;/a&gt; &lt;a href=&#34;https://help.disqus.com/en/articles/1717203-multi-lingual-websites&#34; target=&#34;_blank&#34;&gt;Here,&lt;/a&gt; instead, you discover how to embed Disqus according to language page (and this is ok, even you have to override default Disqus template), and that you can translate/customize counters, true, but not for all languages in your static site (and this is not ok, right?).&lt;/p&gt;
+&lt;p&gt;Thus, let me to illustrate my solution.&lt;/p&gt;
+&lt;h3 id=&#34;a-first-trivial-intermediate-attempt&#34;&gt;A first, trivial intermediate attempt&lt;/h3&gt;
+&lt;p&gt;The obvious (and substantially unique) prerequisite is that you are already using &lt;a href=&#34;https://gohugo.io/content-management/comments/&#34; target=&#34;_blank&#34;&gt;Disqus for comments&lt;/a&gt; (have got disqusShortname, set it in config, etc).&lt;/p&gt;
+&lt;p&gt;Now, go to:&lt;/p&gt;
+&lt;p&gt;https://[your_disqusShortname].disqus.com/admin/settings/community/&lt;/p&gt;
+&lt;p&gt;or, alternatively, find the section of settings where you can customize the comment counter labels.&lt;/p&gt;
+&lt;p&gt;As you see, there are three options, for 0, 1 and {num} (&amp;gt;1) comments respectively. Simply edit each label keeping only the associated number, that is, &amp;ldquo;0&amp;rdquo;, &amp;ldquo;1&amp;rdquo;, and &amp;ldquo;{num}&amp;rdquo;, without quotes and other text. Save and close that page.&lt;/p&gt;
+&lt;p&gt;At this point, follow instructions &lt;a href=&#34;https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page&#34; target=&#34;_blank&#34;&gt;in this page&lt;/a&gt; to include Disqus count.js in your Hugo site, according to the theme you use.&lt;/p&gt;
+&lt;p&gt;As you read, there are practically two ways to include comment counters:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;by an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; element, with attributes href and (optional) data-disqus-identifier;&lt;/li&gt;
+&lt;li&gt;by a &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; or &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt; element, with attributes class and (optional) data-disqus-identifier or data-disqus-url.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Attributes are explained in more details at page above. In any case, Disqus script will find these elements and replace their innerHTML (readable text) with labels you edited previously.&lt;/p&gt;
+&lt;p&gt;In my opinion, the second choice offers more possibilities for a better result, especially &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;. Consider also that you could be in the situation to want the comment counter from a disqus_url (specified in post front matter) and a link pointing to post comment section at real URL; getting this with a simple &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag is quite difficult, I think.&lt;/p&gt;
+&lt;p&gt;Another consideration to do: apparently, in Hugo i18n seems to refer always to current page language (home/section that is listing posts), and I has not been able to find a way to force it differently. So, for getting the correct localization, you have to use the .Site.Params.param mechanism, that relies on [languages] section described in &lt;a href=&#34;https://gohugo.io/content-management/multilingual/&#34; target=&#34;_blank&#34;&gt;Hugo multilingual mode.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;So, here is a first, combined solution.&lt;/p&gt;
+&lt;p&gt;Find the correct template to override in your theme (in Ananke it is &amp;ldquo;layouts/partials/summary.html&amp;rdquo;), and add:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;a href=&amp;quot;{{ .Permalink }}#disqus_thread&amp;quot;&amp;gt;
+  &amp;lt;span class=&amp;quot;disqus-comment-count&amp;quot; data-disqus-url=&amp;quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;
+  {{ .Site.Params.commentCounter }}
+&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Once filled commentCounter param for all languages in your config (i.e.: with &amp;ldquo;comments&amp;rdquo; for English), you finally put online all changes (verifying locally requires another workaround, see below), and get link with text &amp;ldquo;0 comments&amp;rdquo;, &amp;ldquo;1 comments&amp;rdquo;, &amp;ldquo;42 comments&amp;rdquo; and so on, correctly localized and pointing to post comment section. Very basic, but working.&lt;/p&gt;
+&lt;p&gt;But you want more, much more than this, right? 😉&lt;/p&gt;
+&lt;h3 id=&#34;my-javascript-solution&#34;&gt;My JavaScript solution&lt;/h3&gt;
+&lt;p&gt;If you have read me up to here (if not, do it), you have already the basic code to proceed.&lt;/p&gt;
+&lt;p&gt;At this point, my idea has been to hide Disqus &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;, but taking advantage of it via JavaScript, to dinamically change the link text according to (internal) counter value.&lt;/p&gt;
+&lt;p&gt;In addition, I removed whitespace between &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;/a&amp;gt;&lt;/code&gt;, that seems to create problems to childNodes method, and replaced commentCounter with a noCounter param message (i.e.: &amp;ldquo;Comment counter not available&amp;rdquo;) displayed when Disqus temporarily fails or JavaScript is disabled.&lt;/p&gt;
+&lt;p&gt;So, previous code becomes:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;a id=&amp;quot;disqus_comments&amp;quot; href=&amp;quot;{{ .Permalink }}#disqus_thread&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;display:none!important;&amp;quot; class=&amp;quot;disqus-comment-count&amp;quot; data-disqus-url=&amp;quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;{{ .Site.Params.noCounter }}&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note the id for &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt;, needed for JavaScript below, and the style for hiding &lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Now, you have to add a reference to your .js in theme template, probably under the Disqus script added previously. So, insert:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;script src=&amp;quot;/js/yourJavaScript.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Create (if you have not it yet) the file yourJavaScript.js under static/js/, and adapt the following code to your language needs:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;// get &amp;lt;body&amp;gt; of page
+var body = document.getElementsByTagName(&amp;quot;body&amp;quot;)[0];
+
+// define the function to run after loading
+body.onload = (function() {
+  // get all &amp;lt;a&amp;gt; tags with id=&amp;quot;disqus_comments&amp;quot;
+  aComments = document.querySelectorAll(&amp;quot;a#disqus_comments&amp;quot;);
+  // and pass them to function for setting their text
+  for (i=0; i&amp;lt;aComments.length; i++) {
+    setCommentCounterText(aComments[i]);
+  }
+});
+
+function setCommentCounterText(a) {
+  // get hidden Disqus &amp;lt;span&amp;gt;
+  disqusSpan = a.childNodes[0];
+  // get its text, hopefully set by Disqus in the meantime
+  count = disqusSpan.textContent;
+  // if something went wrong, return (keeping the &amp;lt;a&amp;gt; default label)
+  if (count == &amp;quot;&amp;quot;) {return;}
+  // get real URL of comment counter link
+  href = a.getAttribute(&amp;quot;href&amp;quot;);
+  // check for specific non-default language(s)
+  if (href.indexOf(&amp;quot;/en/&amp;quot;) != -1) {
+    // and set the new label accordingly
+    switch(count) {
+      case &amp;quot;0&amp;quot;:
+        text = &amp;quot;No comment yet, sigh&amp;quot;; break; 
+      case &amp;quot;1&amp;quot;:
+        text = &amp;quot;Wow, there is a comment here!&amp;quot;; break;
+      default:
+        text = `Even ${count} comments!`;
+    }
+  } else { // default language (Italian, for me)
+    switch(count) {
+      case &amp;quot;0&amp;quot;:
+        text = &amp;quot;Ancora nessun commento, sigh&amp;quot;; break; 
+      case &amp;quot;1&amp;quot;:
+        text = &amp;quot;Wow, qualcuno ha commentato!&amp;quot;; break;
+      default:
+        text = `Addirittura ${count} commenti!`;
+    }
+  }
+  // set new &amp;lt;a&amp;gt; label
+  a.textContent = text;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And voila! Your comment counters are translated and customized 😀&lt;/p&gt;
+&lt;p&gt;Ok, code is not so beautiful, I know, I never wrote JavaScript before this blog&amp;hellip; but it works. And, if you have suggestions for improving it, you are welcome 🙂&lt;/p&gt;
+&lt;h3 id=&#34;counters-on-localhost&#34;&gt;Counters on localhost&lt;/h3&gt;
+&lt;p&gt;I don&amp;rsquo;t know exactly if it&amp;rsquo;s a good idea, but if you want to see counters locally (running &amp;ldquo;hugo server&amp;rdquo;), you can do easily.&lt;/p&gt;
+&lt;p&gt;To avoid rendering of baseURL to localhost (even by absURL and so on), create a param (i.e.: &amp;ldquo;remoteBaseURL&amp;rdquo;) under site non-localized params in your config, setting it to baseURL value without trailing slash. In my case:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;[params]
+  remoteBaseURL = &amp;quot;https://albumblog.github.io&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now, modify the last HTML code like:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;a id=&amp;quot;disqus_comments&amp;quot; href=&amp;quot;{{ .Permalink }}#disqus_thread&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;display:none!important;&amp;quot; class=&amp;quot;disqus-comment-count&amp;quot; data-disqus-url=&amp;quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Site.Params.remoteBaseURL }}{{ .RelPermalink }}{{ end }}&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;{{ .Site.Params.noCounter }}&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&amp;hellip;and finally enjoy the magic. 🎉&lt;/p&gt;
+&lt;h3 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Cons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;time: our JavaScript must wait the document loading has finished;&lt;/li&gt;
+&lt;li&gt;scattering: the majority of strings are hard-coded into JavaScript or config, instead of i18n files;&lt;/li&gt;
+&lt;li&gt;management: with more languages, code should be broken in smaller functions, to better readability and maintenance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;goal: multilanguage support (✌);&lt;/li&gt;
+&lt;li&gt;fault-tolerance: backup text if Disqus fails or JavaScript is disabled;&lt;/li&gt;
+&lt;li&gt;flexibility/customization: you easily catch many other numbers, for example adding &amp;ldquo;For zark, this post has many comments to answer to the Ultimate Question of Life, The Universe and Everything!&amp;rdquo; when counter reaches 42 😍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Well&amp;hellip; the evaluation is acceptable, I think 🙂&lt;/p&gt;
+&lt;p&gt;And now, let me know your thoughts increasing comment counter of this post! 😉&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Windows: some considerations (a very old joke)</title>
       <link>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>

@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>
+           Album.blog("Hugo HowTo: get localized comment counters with Disqus")
+    </title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="generator" content="Hugo 0.74.3" />
+    
+    
+      <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+    
+
+    
+    
+      <link href="../../../../../../dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
+    
+
+    
+      <link rel="stylesheet" href="../../../../../../css/albumblog.css">
+    
+
+    
+      
+
+    
+
+    
+    
+      <link href="../../../../../../en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/index.xml" rel="alternate" type="application/rss+xml" title="Album.blog()" />
+      <link href="../../../../../../en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/index.xml" rel="feed" type="application/rss+xml" title="Album.blog()" />
+      
+    
+    
+    <meta property="og:title" content="Hugo HowTo: get localized comment counters with Disqus" />
+<meta property="og:description" content="(playing with numbers, many languages and JavaScript)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/" />
+<meta property="article:published_time" content="2020-09-03T16:07:42+02:00" />
+<meta property="article:modified_time" content="2020-09-03T00:48:12+02:00" />
+<meta itemprop="name" content="Hugo HowTo: get localized comment counters with Disqus">
+<meta itemprop="description" content="(playing with numbers, many languages and JavaScript)">
+<meta itemprop="datePublished" content="2020-09-03T16:07:42+02:00" />
+<meta itemprop="dateModified" content="2020-09-03T00:48:12+02:00" />
+<meta itemprop="wordCount" content="1227">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Hugo HowTo: get localized comment counters with Disqus"/>
+<meta name="twitter:description" content="(playing with numbers, many languages and JavaScript)"/>
+
+      
+    
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white production">
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" 
+    src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v8.0&appId=3177301015720847&autoLogAppEvents=1" 
+    nonce="FOKrbAYI">
+  </script>
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="../../../../../../en/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Album.blog("Home")
+      
+    </a>
+    <div class="flex-l items-center">
+      <ul class="pl0 mr3">
+  
+    
+      
+        <li class="list f5 f4-ns fw4 dib pr3">
+          <a class="hover-white no-underline white-90" rel="alternate" href="../../../../../../it" hreflang="it" lang="it">
+            Passa al sito in italiano
+          </a>
+       </li>
+      
+    
+      
+    
+  
+</ul>
+
+      
+        <ul class="pl0 mr3">
+          
+          
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="../../../../../../en/tech/" title="Tech stuff page">
+              Tech stuff
+            </a>
+          </li>
+          
+        </ul>
+      
+    </div>
+  </div>
+</nav>
+<hr>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        <a href="https://albumblog.github.io/en/tech/">&larr; Tech stuff</a>
+      </aside>
+      <h1 class="f1 athelas mt3 mb1">Hugo HowTo: get localized comment counters with Disqus</h1>
+      
+        <h2 class="f2">
+          (playing with numbers, many languages and JavaScript)
+        </h2>
+      
+      
+        <div class="f6">
+          3 September 2020, Thursday
+        </div>
+      
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.</p>
+<p>The primary home lists posts from all languages, the secondary only from its one. In any case, a post must consistently show its information in the same language.</p>
+<p>So, for example:</p>
+<hr>
+
+
+<div class="relative w-100 mb4">
+  <div class="relative w-100 mb4 bg-white nested-copy-line-height">
+    <div class="bg-white mb3 pa4 gray overflow-hidden">
+      <h3 class="f3 near-black">
+        <a href="http://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/" class="link black dim">
+          Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)<br/>(from "Tech stuff")
+        </a>
+      </h3>
+
+      <div class="f6">
+        3 September 2020, Thursday
+      </div>
+
+      <div class="nested-links f5 lh-copy nested-copy-line-height">
+        This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart. <a href="http://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">[…continue…] &rarr;</a>
+        <a id="disqus_comments" href="http://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/#disqus_thread" class="link black dim"><span style="display:none!important;" class="disqus-comment-count" data-disqus-url="https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/"></span>Comment counter not available</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr>
+<p>that includes title, description, date, summary, link to read more and, finally, our comment counter.</p>
+<p>Hugo documentation <a href="https://gohugo.io/content-management/multilingual/" target="_blank">about multilingual mode</a> is quite accurate, but says nothing about comment counters. And nothing also in Disqus help <a href="https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page" target="_blank">here.</a> <a href="https://help.disqus.com/en/articles/1717203-multi-lingual-websites" target="_blank">Here,</a> instead, you discover how to embed Disqus according to language page (and this is ok, even you have to override default Disqus template), and that you can translate/customize counters, true, but not for all languages in your static site (and this is not ok, right?).</p>
+<p>Thus, let me to illustrate my solution.</p>
+<h3 id="a-first-trivial-intermediate-attempt">A first, trivial intermediate attempt</h3>
+<p>The obvious (and substantially unique) prerequisite is that you are already using <a href="https://gohugo.io/content-management/comments/" target="_blank">Disqus for comments</a> (have got disqusShortname, set it in config, etc).</p>
+<p>Now, go to:</p>
+<p>https://[your_disqusShortname].disqus.com/admin/settings/community/</p>
+<p>or, alternatively, find the section of settings where you can customize the comment counter labels.</p>
+<p>As you see, there are three options, for 0, 1 and {num} (&gt;1) comments respectively. Simply edit each label keeping only the associated number, that is, &ldquo;0&rdquo;, &ldquo;1&rdquo;, and &ldquo;{num}&rdquo;, without quotes and other text. Save and close that page.</p>
+<p>At this point, follow instructions <a href="https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page" target="_blank">in this page</a> to include Disqus count.js in your Hugo site, according to the theme you use.</p>
+<p>As you read, there are practically two ways to include comment counters:</p>
+<ol>
+<li>by an <code>&lt;a&gt;</code> element, with attributes href and (optional) data-disqus-identifier;</li>
+<li>by a <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code> element, with attributes class and (optional) data-disqus-identifier or data-disqus-url.</li>
+</ol>
+<p>Attributes are explained in more details at page above. In any case, Disqus script will find these elements and replace their innerHTML (readable text) with labels you edited previously.</p>
+<p>In my opinion, the second choice offers more possibilities for a better result, especially <code>&lt;span&gt;</code>. Consider also that you could be in the situation to want the comment counter from a disqus_url (specified in post front matter) and a link pointing to post comment section at real URL; getting this with a simple <code>&lt;a&gt;</code> tag is quite difficult, I think.</p>
+<p>Another consideration to do: apparently, in Hugo i18n seems to refer always to current page language (home/section that is listing posts), and I has not been able to find a way to force it differently. So, for getting the correct localization, you have to use the .Site.Params.param mechanism, that relies on [languages] section described in <a href="https://gohugo.io/content-management/multilingual/" target="_blank">Hugo multilingual mode.</a></p>
+<p>So, here is a first, combined solution.</p>
+<p>Find the correct template to override in your theme (in Ananke it is &ldquo;layouts/partials/summary.html&rdquo;), and add:</p>
+<pre><code>&lt;a href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;
+  &lt;span class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&quot;&gt;&lt;/span&gt;
+  {{ .Site.Params.commentCounter }}
+&lt;/a&gt;
+</code></pre><p>Once filled commentCounter param for all languages in your config (i.e.: with &ldquo;comments&rdquo; for English), you finally put online all changes (verifying locally requires another workaround, see below), and get link with text &ldquo;0 comments&rdquo;, &ldquo;1 comments&rdquo;, &ldquo;42 comments&rdquo; and so on, correctly localized and pointing to post comment section. Very basic, but working.</p>
+<p>But you want more, much more than this, right? 😉</p>
+<h3 id="my-javascript-solution">My JavaScript solution</h3>
+<p>If you have read me up to here (if not, do it), you have already the basic code to proceed.</p>
+<p>At this point, my idea has been to hide Disqus <code>&lt;span&gt;</code>, but taking advantage of it via JavaScript, to dinamically change the link text according to (internal) counter value.</p>
+<p>In addition, I removed whitespace between <code>&lt;a&gt;</code> and <code>&lt;/a&gt;</code>, that seems to create problems to childNodes method, and replaced commentCounter with a noCounter param message (i.e.: &ldquo;Comment counter not available&rdquo;) displayed when Disqus temporarily fails or JavaScript is disabled.</p>
+<p>So, previous code becomes:</p>
+<pre><code>&lt;a id=&quot;disqus_comments&quot; href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;&lt;span style=&quot;display:none!important;&quot; class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&quot;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
+</code></pre><p>Note the id for <code>&lt;a&gt;</code>, needed for JavaScript below, and the style for hiding <code>&lt;span&gt;</code>.</p>
+<p>Now, you have to add a reference to your .js in theme template, probably under the Disqus script added previously. So, insert:</p>
+<pre><code>&lt;script src=&quot;/js/yourJavaScript.js&quot;&gt;&lt;/script&gt;
+</code></pre><p>Create (if you have not it yet) the file yourJavaScript.js under static/js/, and adapt the following code to your language needs:</p>
+<pre><code>// get &lt;body&gt; of page
+var body = document.getElementsByTagName(&quot;body&quot;)[0];
+
+// define the function to run after loading
+body.onload = (function() {
+  // get all &lt;a&gt; tags with id=&quot;disqus_comments&quot;
+  aComments = document.querySelectorAll(&quot;a#disqus_comments&quot;);
+  // and pass them to function for setting their text
+  for (i=0; i&lt;aComments.length; i++) {
+    setCommentCounterText(aComments[i]);
+  }
+});
+
+function setCommentCounterText(a) {
+  // get hidden Disqus &lt;span&gt;
+  disqusSpan = a.childNodes[0];
+  // get its text, hopefully set by Disqus in the meantime
+  count = disqusSpan.textContent;
+  // if something went wrong, return (keeping the &lt;a&gt; default label)
+  if (count == &quot;&quot;) {return;}
+  // get real URL of comment counter link
+  href = a.getAttribute(&quot;href&quot;);
+  // check for specific non-default language(s)
+  if (href.indexOf(&quot;/en/&quot;) != -1) {
+    // and set the new label accordingly
+    switch(count) {
+      case &quot;0&quot;:
+        text = &quot;No comment yet, sigh&quot;; break; 
+      case &quot;1&quot;:
+        text = &quot;Wow, there is a comment here!&quot;; break;
+      default:
+        text = `Even ${count} comments!`;
+    }
+  } else { // default language (Italian, for me)
+    switch(count) {
+      case &quot;0&quot;:
+        text = &quot;Ancora nessun commento, sigh&quot;; break; 
+      case &quot;1&quot;:
+        text = &quot;Wow, qualcuno ha commentato!&quot;; break;
+      default:
+        text = `Addirittura ${count} commenti!`;
+    }
+  }
+  // set new &lt;a&gt; label
+  a.textContent = text;
+}
+</code></pre><p>And voila! Your comment counters are translated and customized 😀</p>
+<p>Ok, code is not so beautiful, I know, I never wrote JavaScript before this blog&hellip; but it works. And, if you have suggestions for improving it, you are welcome 🙂</p>
+<h3 id="counters-on-localhost">Counters on localhost</h3>
+<p>I don&rsquo;t know exactly if it&rsquo;s a good idea, but if you want to see counters locally (running &ldquo;hugo server&rdquo;), you can do easily.</p>
+<p>To avoid rendering of baseURL to localhost (even by absURL and so on), create a param (i.e.: &ldquo;remoteBaseURL&rdquo;) under site non-localized params in your config, setting it to baseURL value without trailing slash. In my case:</p>
+<pre><code>[params]
+  remoteBaseURL = &quot;https://albumblog.github.io&quot;
+</code></pre><p>Now, modify the last HTML code like:</p>
+<pre><code>&lt;a id=&quot;disqus_comments&quot; href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;&lt;span style=&quot;display:none!important;&quot; class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Site.Params.remoteBaseURL }}{{ .RelPermalink }}{{ end }}&quot;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
+</code></pre><p>&hellip;and finally enjoy the magic. 🎉</p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Cons:</p>
+<ul>
+<li>time: our JavaScript must wait the document loading has finished;</li>
+<li>scattering: the majority of strings are hard-coded into JavaScript or config, instead of i18n files;</li>
+<li>management: with more languages, code should be broken in smaller functions, to better readability and maintenance.</li>
+</ul>
+<p>Advantages:</p>
+<ul>
+<li>goal: multilanguage support (✌);</li>
+<li>fault-tolerance: backup text if Disqus fails or JavaScript is disabled;</li>
+<li>flexibility/customization: you easily catch many other numbers, for example adding &ldquo;For zark, this post has many comments to answer to the Ultimate Question of Life, The Universe and Everything!&rdquo; when counter reaches 42 😍</li>
+</ul>
+<p>Well&hellip; the evaluation is acceptable, I think 🙂</p>
+<p>And now, let me know your thoughts increasing comment counter of this post! 😉</p>
+
+      <p class="tracked">
+          Output by <strong>Album</strong>
+           at 16:07:42
+      </p>
+      
+      <div class="fb-like" 
+     data-href="https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/"
+     data-colorscheme="dark"
+     data-layout="button_count" 
+     data-action="like" 
+     data-size="small"  
+     data-share="false">
+</div>
+
+
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/" class="facebook no-underline" aria-label="Share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/&amp;text=Hugo%20HowTo:%20get%20localized%20comment%20counters%20with%20Disqus" class="twitter no-underline" aria-label="Share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+  </div>
+
+
+<div class="mt6 instapaper_ignoref">
+        <h4>Comments</h4>
+        
+          <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function() {
+    this.language = 'en';
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Sorry, Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "albumblog-github-io" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+        
+        
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://albumblog.github.io/" >
+    &copy; 2012-2020++  Alberto "Album" Buffolino 
+  </a>
+    <div>
+      
+
+<ul class="list horizontalList socialList">
+<li><a href="../../../../../../bridge2me/" target="_blank" class="link-transition bridge2me link dib z-999 pt3 pt0-l mr1" title="Write me" rel="noopener" aria-label="Write me">
+  
+  <svg class="icon icon-mail" width="32px" height="32px" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a></li>
+
+
+<li><a href="https://fb.me/pages.Album.blog" target="_blank" class="link-transition facebook link dib z-999 pt3 pt0-l mr1" title="Facebook" rel="noopener" aria-label="Follow me on Facebook">
+  <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a></li>
+
+
+
+
+
+
+<li><a href="https://github.com/ABuffEr" target="_blank" class="link-transition github link dib z-999 pt3 pt0-l mr1" title="Github" rel="noopener" aria-label="Follow me on Github">
+  <svg  height="32px"  style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+  <path d="M256,32C132.3,32,32,134.8,32,261.7c0,101.5,64.2,187.5,153.2,217.9c11.2,2.1,15.3-5,15.3-11.1   c0-5.5-0.2-19.9-0.3-39.1c-62.3,13.9-75.5-30.8-75.5-30.8c-10.2-26.5-24.9-33.6-24.9-33.6c-20.3-14.3,1.5-14,1.5-14   c22.5,1.6,34.3,23.7,34.3,23.7c20,35.1,52.4,25,65.2,19.1c2-14.8,7.8-25,14.2-30.7c-49.7-5.8-102-25.5-102-113.5   c0-25.1,8.7-45.6,23-61.6c-2.3-5.8-10-29.2,2.2-60.8c0,0,18.8-6.2,61.6,23.5c17.9-5.1,37-7.6,56.1-7.7c19,0.1,38.2,2.6,56.1,7.7   c42.8-29.7,61.5-23.5,61.5-23.5c12.2,31.6,4.5,55,2.2,60.8c14.3,16.1,23,36.6,23,61.6c0,88.2-52.4,107.6-102.3,113.3   c8,7.1,15.2,21.1,15.2,42.5c0,30.7-0.3,55.5-0.3,63c0,6.1,4,13.3,15.4,11C415.9,449.1,480,363.1,480,261.7   C480,134.8,379.7,32,256,32z"/>
+</svg>
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a></li>
+
+
+
+
+
+
+
+<li><a href="index.xml" target="_blank" class="link-transition rss link dib z-999 pt3 pt0-l mr1" title="RSS" rel="noopener" aria-label="RSS">
+  <svg xmlns="http://www.w3.org/2000/svg" height="32px" width="32px" viewBox="0 0 24 24">
+    <circle cx="6.18" cy="17.82" r="2.18"/>
+    <path id="scale" d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/>
+</svg>
+
+
+<span class="new-window"><svg  height="8px"  style="enable-background:new 0 0 1000 1000;" version="1.1" viewBox="0 0 1000 1000" width="8px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+</span></a></li>
+
+</ul>
+
+    </div>
+    <p class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3">Weblog proudly generated by <a href="https://gohugo.io">Hugo</a> &amp; <a href="https://themes.gohugo.io/gohugo-theme-ananke/">Ananke</a></p>
+  </div>
+</footer>
+    
+
+  <script src="../../../../../../dist/js/app.3fc0f988d21662902933.js"></script>
+
+<script id="dsq-count-scr" src="//albumblog-github-io.disqus.com/count.js" async></script>
+<script src="../../../../../../js/albumblog.js"></script>
+
+  </body>
+</html>
