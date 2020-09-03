@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lo spigolo del libro su Album.blog()</title>
+    <title>Lo spigolo del libro on Album.blog()</title>
     <link>https://albumblog.github.io/libri/</link>
-    <description>Contenuti recenti in "Lo spigolo del libro" su Album.blog()</description>
+    <description>Recent content in Lo spigolo del libro on Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 21:37:13</lastBuildDate><atom:link href="https://albumblog.github.io/libri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jul 2020 19:23:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://albumblog.github.io/libri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
-      <title>Michael Ende - La storia infinita (non-recensione con spoiler)</title>
+      <title>Michael Ende - La storia infinita</title>
       <link>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
-      <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
+      <pubDate>Wed, 19 Aug 2020 15:35:42 +0200</pubDate>
       
       <guid>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</guid>
       <description>Il libro, voglio sperare, non ha bisogno di presentazioni. Con la celebrazione, nel 2019, del quarantennale dalla prima pubblicazione tedesca, è oltretutto uscita - finalmente!</description>
@@ -20,7 +24,7 @@
     <item>
       <title>Terry Pratchett - Il tristo mietitore</title>
       <link>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
-      <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
+      <pubDate>Fri, 20 Mar 2015 00:00:42 +0200</pubDate>
       
       <guid>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</guid>
       <description>&lt;p&gt;&amp;ldquo;Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. [&amp;hellip;] Non c&amp;rsquo;è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell&amp;rsquo;è stato.&lt;/p&gt;
@@ -32,7 +36,7 @@
     <item>
       <title>Italo Calvino - Le città invisibili</title>
       <link>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
-      <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
+      <pubDate>Sun, 25 Jan 2015 14:52:42 +0200</pubDate>
       
       <guid>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
       <description>&lt;p&gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi &amp;ldquo;Se una notte d&amp;rsquo;inverno un viaggiatore&amp;rdquo;, fatto di continui inizi, e &amp;ldquo;Il castello dei destini incrociati&amp;rdquo;, costruito invece giocando (letteralmente) coi tarocchi.&lt;/p&gt;

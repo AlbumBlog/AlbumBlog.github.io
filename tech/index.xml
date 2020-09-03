@@ -3,10 +3,13 @@
   <channel>
     <title>Album.blog()</title>
     <link>https://albumblog.github.io/tech/</link>
-    <description>Contenuti recenti su Album.blog()</description>
+    <description>Recent content on Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 21:37:13</lastBuildDate><atom:link href="https://albumblog.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://albumblog.github.io/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
