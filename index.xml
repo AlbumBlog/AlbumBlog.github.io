@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 23:14:52</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Prova con Zap via RSS</title>
-      <link>https://albumblog.github.io/post/2020/09/03/prova-con-zap-via-rss/</link>
-      <pubDate>Thu, 03 Sep 2020 23:13:42</pubDate>
-      
-      <guid>https://albumblog.github.io/post/2020/09/03/prova-con-zap-via-rss/</guid>
-      <description>Visto che ci ho perso ore ed ore&amp;hellip; appunto qui la possibile vittoria!</description>
-    </item>
-    
+    <lastBuildDate>Fri, 04 Sep 2020 00:46:22</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
       <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
