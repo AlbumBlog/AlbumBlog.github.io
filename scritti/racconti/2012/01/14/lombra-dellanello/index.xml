@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 16:30:58</lastBuildDate><atom:link href="https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Sep 2020 21:37:13</lastBuildDate><atom:link href="https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
       <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
@@ -32,54 +32,7 @@
       <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
       
       <guid>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</guid>
-      <description>
-&lt;span class=&#34;neverending-red&#34;&gt;&lt;p&gt;Il libro, voglio sperare, non ha bisogno di presentazioni. Con la celebrazione, nel 2019, del quarantennale dalla prima pubblicazione tedesca, è oltretutto uscita - finalmente! - anche &lt;a href=&#34;https://www.amazon.it/storia-infinita-Michael-Ende-ebook/dp/B07LBQLC11&#34;&gt;l&amp;rsquo;edizione e-book italiana&lt;/a&gt;, con tanto di capilettera e testo bicolore, ricalco della versione cartacea tanto  amata da svariati lettori&amp;hellip; perciò, be&amp;rsquo;, una vera e propria recensione sarebbe davvero tardiva.&lt;/p&gt;
-&lt;p&gt;Da piccolo, quando lo lessi per la prima volta, fu soprattutto la meraviglia delle molte creature e di alcuni luoghi a colpirmi: gli ambasciatori nel Bosco Frusciante, Ygramul Le Molte, Uyulala, la Torre d&amp;rsquo;Avorio, il Bosco Notturno di Perelun, indissolubilmente legato al Deserto Colorato di Goab, e ancora il Tempio delle Mille Porte, Donna Aiuola e la Casa che muta, la miniera delle immagini&amp;hellip; qualcosa riuscii anche a &lt;a href=&#34;https://www.facebook.com/Alb.Buff/media_set?set=a.1274622452556655&amp;amp;type=3&#34;&gt;disegnarlo&lt;/a&gt;, e sì che di scene me ne ero segnate parecchie, mi ricordo.&lt;/p&gt;
-&lt;p&gt;Oggi, dopo tantissimo tempo, l&amp;rsquo;ho riletto completamente. E davanti alle creazioni della fantasia, al dispiegarsi delle possibilità oltre il reale, alla varietà di dettagli anche solo accennati, quel piacere rimane immutato.&lt;/p&gt;
-&lt;p&gt;Ma, fra le righe, ora c&amp;rsquo;è anche molto altro, passi che mi lasciano assorto, che fanno riflettere più o meno in superficie. Perché, se è vero che la Grande Ricerca di Atreiu è una lunga avventura per trascinarci in Fantàsia, la seconda parte, con un Bastiano sempre più irriconoscibile, è un vero e proprio percorso di crescita, fra desideri e bisogni. E fa male, può fare dannatamente male, leggerlo ora da adulti, passo dopo passo:&lt;/p&gt;
-&lt;/span&gt;
-
-&lt;span class=&#34;neverending-green&#34;&gt;&lt;p&gt;&amp;ldquo;Senza che Bastiano se ne rendesse conto, sorse in lui un nuovo desiderio e a poco a poco prese forma sempre più chiara.&lt;/p&gt;
-&lt;p&gt;La solitudine, nella quale ormai camminava da molti giorni e da molte notti, fece sì che in lui nascesse il desiderio di appartenere a una comunità, di essere accolto in un gruppo, non come signore, capo o vincitore, o come qualcosa di speciale, ma soltanto come uno fra gli altri, fosse anche il più piccolo e meno importante, comunque come uno che fa naturalmente parte di un gruppo.&amp;rdquo;&lt;/p&gt;
-&lt;/span&gt;
-
-&lt;span class=&#34;neverending-red&#34;&gt;E ancora, qualche tempo dopo, fatta l&amp;rsquo;esperienza col popolo del Mare delle Nebbie:&lt;/span&gt;
-
-&lt;span class=&#34;neverending-green&#34;&gt;&lt;p&gt;&amp;ldquo;Insomma, per loro il singolo non contava nulla. E dal momento che non si distinguevano in alcun modo fra loro, nessuno era insostituibile. Ma Bastiano voleva essere un individuo, un qualcuno, non soltanto uno come tutti gli altri. [&amp;hellip;] Egli non voleva essere il più grande, il più forte, il più intelligente. Tutte queste cose le aveva ormai lasciate dietro di sé. Aveva una grande nostalgia di essere amato così com’era, buono O cattivo, bello o brutto, stupido o intelligente, con tutti i suoi difetti. o addirittura proprio per questi.&lt;/p&gt;
-&lt;p&gt;Ma lui com’era, in realtà?&lt;/p&gt;
-&lt;p&gt;Non lo sapeva più.&amp;rdquo;&lt;/p&gt;
-&lt;/span&gt;
-
-&lt;span class=&#34;neverending-red&#34;&gt;Infine, poco prima di smarrirsi del tutto, di dimenticare non solo il suo passato ma anche il suo nome, uno dei passaggi secondo me fondamentali:&lt;/span&gt;
-
-&lt;span class=&#34;neverending-green&#34;&gt;&lt;p&gt;&amp;ldquo;I giorni nella Casa che muta passavano e l’estate durava ancora. Bastiano continuava a lasciarsi viziare e coccolare da Donna Aiuola come un bambino piccolo. Anche i suoi frutti gli piacevano ancora come il primo giorno, ma a poco a poco anche quella grande fame si era saziata. Ora ne mangiava di meno. E lei se ne accorse, senza però dire una sola parola. Anche delle sue cure e della sua tenerezza ora si sentiva sazio. E a mano a mano che il suo bisogno diminuiva, si risvegliava in lui una nostalgia di tutt’altra natura, una bramosia che fino allora non aveva mai provato, completamente diversa da tutti i desideri che aveva conosciuto fino a quel momento: la nostalgia di essere lui ad amare. Con stupore e dolore dovette rendersi conto che non ne era capace. Ma il desiderio di poter amare diventava in lui ogni giorno più forte. E una sera, mentre di nuovo sedeva intorno al tavolo con Donna Aiuola, gliene parlò.&lt;/p&gt;
-&lt;p&gt;Lei lo ascoltò attentamente, rimase a lungo in silenzio, e il suo sguardo si posava su di lui con un’espressione ch’egli non riusciva a comprendere.&lt;/p&gt;
-&lt;p&gt;«Adesso hai trovato il tuo ultimo desiderio», disse lei, «la tua vera volontà è quella di amare.»&lt;/p&gt;
-&lt;p&gt;«Ma perché non ci riesco, Donna Aiuola?»&lt;/p&gt;
-&lt;p&gt;«Lo potrai soltanto quando avrai bevuto l’Acqua della Vita», rispose, «e non potrai tornare nel tuo mondo senza portarne un po’ a qualcuno.»&amp;rdquo;&lt;/p&gt;
-&lt;/span&gt;
-
-&lt;span class=&#34;neverending-red&#34;&gt;Ed è forse da qui, oltre all&amp;rsquo;affidarsi completamente all&amp;rsquo;amicizia di Atreiu, che trae forza la scena del ritorno:&lt;/span&gt;
-
-&lt;span class=&#34;neverending-green&#34;&gt;&lt;p&gt;&amp;ldquo;Bastiano raccolse nelle mani a coppa un po’ d’Acqua della Vita e corse rapido verso quella porta. Dietro c’era solo oscurità.&lt;/p&gt;
-&lt;p&gt;Bastiano vi si gettò dentro, e precipitò nel vuoto.&lt;/p&gt;
-&lt;p&gt;«Papà!» gridò. «Papà! Io… sono… Bastiano… Baldassarre… Bucci!»&amp;rdquo;&lt;/p&gt;
-&lt;/span&gt;
-
-&lt;span class=&#34;neverending-red&#34;&gt;&lt;p&gt;&amp;hellip;anche se, confesso, le auto-agnizioni mi emozionano sempre, pure in contesti diversissimi &lt;a href=&#34;https://www.youtube.com/watch?v=_BJiIdm7TNA&#34;&gt;come questa scena di &amp;ldquo;Frankenstein Junior&amp;rdquo;.&lt;/a&gt; Scena in cui, a ben guardare, si ripresenta anche la dimensione del &amp;ldquo;qualcuno&amp;rdquo; (il &amp;ldquo;mostro&amp;rdquo;), da un lato come destinatario di vita, e dall&amp;rsquo;altro come sostegno al riconoscimento e alla dichiarazione di sé. E, nonostante non mi sovvengano esempi cineletterari così evidenti, resto convinto che il punto cardine del &amp;ldquo;qualcuno&amp;rdquo;, rimasto indefinito nello stralcio più su, non risieda tanto nel rapporto figlio ↔ genitore, come in apparenza è per Bastiano, che è pur sempre un bambino di dieci, undici anni, o per il dottore e la sua &amp;ldquo;creatura&amp;rdquo;&amp;hellip; quanto, piuttosto, nel più ampio e generale &amp;ldquo;prendersi cura&amp;rdquo;. E rendersene conto, sì, è proprio questione di &amp;ldquo;stupore e dolore&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Sempre a proposito di paralleli, il risultato finale di questo percorso, il nuovo atteggiamento di Bastiano verso le paure, la sua nuova risolutezza, mi ha ricordato anche, per molti versi, quello del ragazzino protagonista di &lt;a href=&#34;https://it.wikipedia.org/wiki/Pagemaster_-_L%27avventura_meravigliosa&#34;&gt;&amp;ldquo;Pagemaster - L&amp;rsquo;avventura meravigliosa&amp;rdquo;&lt;/a&gt;, uno dei più bei film/cartoni sui libri che mi sia capitato di vedere, ambientato anch&amp;rsquo;esso a cavallo fra mondo reale e altrove fantastico (con un&amp;rsquo;impressionante biblioteca a fare da portale). Se avete bambini che non hanno ancora trovato la loro storia infinita, forse questo piccolo concentrato di classici merita una visione 😉&lt;/p&gt;
-&lt;p&gt;Che dire ancora?&lt;/p&gt;
-&lt;/span&gt;
-
-&lt;span class=&#34;neverending-green&#34;&gt;&amp;ldquo;«Jattura non dura», dice un antico motto dei Draghi della Fortuna.&amp;rdquo;&lt;/span&gt;
-
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;span class=&#34;neverending-red&#34;&gt;E in tanti, penso, ne abbiamo desiderato uno, dopo la lettura di questo indimenticabile metalibro 😍&lt;/span&gt;
-
-&lt;p&gt;P.S.: perdonate la presunzione del bicolore: voleva esser soltanto un piccolo tributo, per far sorridere chi sa coglierne il riferimento 🤗&lt;/p&gt;
-</description>
+      <description>Il libro, voglio sperare, non ha bisogno di presentazioni. Con la celebrazione, nel 2019, del quarantennale dalla prima pubblicazione tedesca, è oltretutto uscita - finalmente!</description>
     </item>
     
     <item>
@@ -88,8 +41,7 @@
       <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
       
       <guid>https://albumblog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
-      <description>&lt;p&gt;&amp;hellip;gentlemen at work&amp;hellip;&lt;/p&gt;
-</description>
+      <description>&amp;hellip;gentlemen at work&amp;hellip;</description>
     </item>
     
     <item>
@@ -98,8 +50,7 @@
       <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
       
       <guid>https://albumblog.github.io/post/2020/07/23/test-di-post/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Oggi dev&amp;rsquo;essere giovedì. Non son mai riuscito a capirli, i giovedì.&amp;rdquo; (cit.)&lt;/p&gt;
-</description>
+      <description>&amp;ldquo;Oggi dev&amp;rsquo;essere giovedì. Non son mai riuscito a capirli, i giovedì.&amp;rdquo; (cit.)</description>
     </item>
     
     <item>
@@ -110,19 +61,7 @@
       <guid>https://albumblog.github.io/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</guid>
       <description>&lt;p&gt;Ci ritroveremo, sì, io credo,&lt;/p&gt;
 &lt;p&gt;ad una bancarella di libri inediti,&lt;/p&gt;
-&lt;p&gt;all&amp;rsquo;angolo fra quella via e un prato blu,&lt;/p&gt;
-&lt;p&gt;ai tavolini all&amp;rsquo;aperto&lt;/p&gt;
-&lt;p&gt;di quel bar, chiuso da tempo,&lt;/p&gt;
-&lt;p&gt;davanti a un tè bollente, a ferragosto;&lt;/p&gt;
-&lt;p&gt;oppure saremo, semplicemente, io e te.&lt;/p&gt;
-&lt;p&gt;E potrò osservarti, finalmente,&lt;/p&gt;
-&lt;p&gt;per qualche infinito, cristallino&lt;/p&gt;
-&lt;p&gt;attimo di serenità.&lt;/p&gt;
-&lt;p&gt;La nostalgia morderà dopo, al risveglio,&lt;/p&gt;
-&lt;p&gt;nella tranquilla, razionale coscienza&lt;/p&gt;
-&lt;p&gt;del vissuto che non è mai successo,&lt;/p&gt;
-&lt;p&gt;e nella gioia di avere comunque&lt;/p&gt;
-&lt;p&gt;un simile, prezioso ricordo.&lt;/p&gt;</description>
+&lt;p&gt;all&amp;rsquo;angolo fra quella via e un prato blu,&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -133,17 +72,7 @@
       <guid>https://albumblog.github.io/scritti/poesie/2016/08/28/metametrica/</guid>
       <description>&lt;p&gt;La rima in &amp;ldquo;osa&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;si crede molto spiritosa,&lt;/p&gt;
-&lt;p&gt;a tratti pure coraggiosa,&lt;/p&gt;
-&lt;p&gt;ma è invero scandalosa,&lt;/p&gt;
-&lt;p&gt;banale, un po&amp;rsquo; noiosa.&lt;/p&gt;
-&lt;p&gt;E non sa, non osa,&lt;/p&gt;
-&lt;p&gt;mutar forma in altra cosa;&lt;/p&gt;
-&lt;p&gt;ci ha provato, ardimentosa,&lt;/p&gt;
-&lt;p&gt;ma si è scoperta - illusa! -&lt;/p&gt;
-&lt;p&gt;ancora e ancora più scontrosa.&lt;/p&gt;
-&lt;h3 id=&#34;postilla&#34;&gt;Postilla:&lt;/h3&gt;
-&lt;p&gt;Spesso, nel dormiveglia, in quei 30, 45 minuti prima di alzarmi, mi balenano in mente sequenze, accostamenti strani di parole. Qualcosa a volte resta lì, e tocca lavorarci su, o appuntarlo per tornarci in seguito, a distanza di giorni, mesi o anche anni (molti spunti di racconti son nati così).&lt;/p&gt;
-&lt;p&gt;Alla fine, la mia idea, scientificamente indimostrata, è che siano gli sprazzi colti dal riaffacciarsi della coscienza sul processo di deframmentazione e ricombinazione che la memoria opera sui neuroni, secondo schemi chimici e spaziali che ben poco hanno a che vedere col contenuto logico e semantico di quanto processato. Sì, lo so, suona molto informatico, forse cyberpunk, ma non è l&amp;rsquo;unico aspetto che, fra me e me, ho formalizzato nei termini di un sistema operativo; ci sarebbe anche quello stato di catalessi semi-cosciente, che io chiamo &amp;ldquo;stand-by&amp;rdquo;&amp;hellip; ma ve ne parlerò un&amp;rsquo;altra volta 😁&lt;/p&gt;</description>
+&lt;p&gt;a tratti pure coraggiosa,&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -154,20 +83,7 @@
       <guid>https://albumblog.github.io/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</guid>
       <description>&lt;p&gt;Se da me accetterai,&lt;/p&gt;
 &lt;p&gt;in dote, a corredo,&lt;/p&gt;
-&lt;p&gt;nei ricordi, in eredità,&lt;/p&gt;
-&lt;p&gt;parole,&lt;/p&gt;
-&lt;p&gt;in inchiostro, indelebile, stinto,&lt;/p&gt;
-&lt;p&gt;su strani, monotoni, impalpabili bit,&lt;/p&gt;
-&lt;p&gt;dette, sussurrate, gridate,&lt;/p&gt;
-&lt;p&gt;in momenti speciali, o qualunque,&lt;/p&gt;
-&lt;p&gt;spero poi saprai&lt;/p&gt;
-&lt;p&gt;cogliere, capire,&lt;/p&gt;
-&lt;p&gt;conservare, trasmettere forse,&lt;/p&gt;
-&lt;p&gt;con almeno un mezzo sorriso,&lt;/p&gt;
-&lt;p&gt;quello che hai visto, nascosto,&lt;/p&gt;
-&lt;p&gt;fra i gesti, tra le righe,&lt;/p&gt;
-&lt;p&gt;sbirciando nei riccioli&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;di un corsivo sghembo&lt;/em&gt;.&lt;/p&gt;</description>
+&lt;p&gt;nei ricordi, in eredità,&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -176,11 +92,7 @@
       <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</guid>
-      <description>&lt;p&gt;Specchio! Mi sa che questa volta l&amp;rsquo;ho fatta grossa. Quando tornano mamma e papà&amp;hellip; quante volte mi hanno detto che non devo mai aprire quando non c&amp;rsquo;è nessuno! Forse dovrei sembrare dispiaciuto, almeno un pochino. Dai, aiutami e proviamo! Aspetta, mi abbasso, così mi vedi meglio. Così&amp;hellip; no, no&amp;hellip; quasi! No, no, niente smorfie! La mamma lo ripete sempre, quando usciamo, niente smorfie! Ok, così va bene, penso, speriamo&amp;hellip; calma, sono agitato, Specchio, devo calmarmi, papà si accorge sempre quando nascondo qualcosa. Però quando hanno suonato alla porta, prima, ero troppo curioso, Specchio, è tanto che non vedo qualcuno&amp;hellip; Era un uomo piccolo, tutto grigio elegante, aveva pure la cravatta! Ha detto qualcosa che non ho capito, voleva fossimo sicuri, o forse sicurati, boh. Io non capivo, lui parlava parlava, mi guardava strano, poi voleva andare via e lasciarmi solo. Ma io non voglio restare solo, Specchio, e così gli ho preso la cravatta&amp;hellip; oh, mamma e papà non saranno contenti, no no e no! Ma se mi calmo sembrerà tutto a posto&amp;hellip; Devo pensare a qualcosa di bello. Vediamo&amp;hellip; ti ho raccontato del mio compleanno di domenica, Specchio? No? E&amp;rsquo; stato bellissimo, li vedi i regali? Eccoli là, sul comodino. C&amp;rsquo;era anche zio, e il vecchio dottore che mi visita da quando ero piccolo così, come dice lui. E dovevi vedere la torta! Mamma sa che mi piacciono le candeline da soffiare una per una, e ieri erano addirittura quaranta! Sono sicuro, le ho contate cinque volte, prima che zio le accendesse (non le fanno mai accendere a me, uffa). Non mi divertivo così da tanto&amp;hellip; quasi quanto quella volta a scuola, quella cosa con la rana. Aspetta, voglio provare uno dei regali, ti piacerà. Ecco! Bella questa luce blu, vero Specchio? E&amp;rsquo; a LED. Però&amp;hellip; no, no, non va bene! Mi ricorda quello grigio, lì dietro&amp;hellip; Aspetta, sai cosa vuol dire LED? Làig&amp;hellip; Làight emittin dàiod, ecco. Me l&amp;rsquo;ha spiegato papà, lui sa un sacco di cose del genere! Non ti sembra anche a te che questa luce ricordi quello grigio, là? Se mi giro di fianco lo vedi, guarda&amp;hellip; ora non si muove più, però. Non è buffo, tutto grigio e con quella faccia? Quasi come la luce, tutto blu, quasi viola&amp;hellip;&lt;/p&gt;
-&lt;h3 id=&#34;nota&#34;&gt;Nota:&lt;/h3&gt;
-&lt;p&gt;Si tratta di un piccolo racconto nato da una sfida di scrittura creativa, che prevedeva la presenza di uno specchio e delle parole &amp;ldquo;viola&amp;rdquo; e &amp;ldquo;rana&amp;rdquo; (quest&amp;rsquo;ultima compare qui come una citazione, un po&amp;rsquo; fuori luogo, in verità).&lt;/p&gt;
-&lt;p&gt;La malattia mentale ce l&amp;rsquo;ho messa io (mi viene bene, chissà perché 😛 ), ma non ho ancora ucciso nessuno, giuro. 🙂&lt;/p&gt;
-</description>
+      <description>Specchio! Mi sa che questa volta l&amp;rsquo;ho fatta grossa. Quando tornano mamma e papà&amp;hellip; quante volte mi hanno detto che non devo mai aprire quando non c&amp;rsquo;è nessuno!</description>
     </item>
     
     <item>
@@ -192,15 +104,7 @@
       <description>&lt;p&gt;&amp;ldquo;Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. [&amp;hellip;] Non c&amp;rsquo;è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell&amp;rsquo;è stato.&lt;/p&gt;
 &lt;p&gt;Ogni segnatempo ha un nome sopra.&lt;/p&gt;
 &lt;p&gt;E la stanza è piena del flebile fruscio delle persone che vivono.&lt;/p&gt;
-&lt;p&gt;Immaginate la scena&amp;hellip;&amp;rdquo; immaginate un&amp;rsquo;alta figura scura, uno scheletro con la falce, lo stereotipo di Morte, nel Mondo Disco&amp;hellip; che si muove fra gli scaffali di questa metafora, in un luogo fuori dal tempo, e recupera le clessidre che sono quasi al termine.&lt;/p&gt;
-&lt;p&gt;Badate bene, Morte non uccide, non c&amp;rsquo;è né volontà, né piacere, né giustizia in quello che fa, ovvero accogliere lo spirito di chi è appena morto, alla porta dell&amp;rsquo;eternità. Le cause del trapasso rimangono sullo zerbino, diciamo così. Dopo, be&amp;rsquo;&amp;hellip; reincarnazione, o Paradiso, o Inferno, non sono di sua competenza.&lt;/p&gt;
-&lt;p&gt;Anche Morte ha una clessidra. Vuota, da sempre.&lt;/p&gt;
-&lt;p&gt;O, almeno, finché qualcuno, più in alto, non gliene ha assegnata un&amp;rsquo;altra. Licenziandola.&lt;/p&gt;
-&lt;p&gt;Cosa può succedere in un mondo governato dalla magia, se improvvisamente Morte ha una sua breve vita da vivere? E nessuno più raccoglie l&amp;rsquo;essenza di ogni uomo, animale, o cosa, che prima semplicemente moriva?&lt;/p&gt;
-&lt;p&gt;Ovviamente, il caos. Un mago zombi suo malgrado, vampiri impacciati, lupi in crisi d&amp;rsquo;identità, strani carrelli semoventi in centri commerciali ostili&amp;hellip; e una inusuale quotidianità di fattoria, dove il nostro protagonista scheletrico prova a reinventarsi al servizio della signorina Flitworth. Nulla di così straordinario in questo, in fondo: Morte non è visibile nella sua vera forma a chi la incontra, a volte non appare neppure, tranne ai gatti, naturalmente&amp;hellip; ed è un mietitore &amp;ldquo;nato&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Il libro si intitola appunto &amp;ldquo;Il tristo mietitore&amp;rdquo;, autore Terry Pratchett, secondo del ciclo di Morte, ma leggibilissimo a sé. E&amp;rsquo; soprattutto un fantasy divertente, teatrale, demenziale, anche. Eppure&amp;hellip; arrivate quasi alla fine, a come si possa qui prestare il proprio tempo, ai tesori nascosti, a un ultimo ballo, a un incontro lungo la Storia, a una metafora che ne sostituisce un&amp;rsquo;altra&amp;hellip;&lt;/p&gt;
-&lt;p&gt;E poi ditemi.&lt;/p&gt;
-&lt;p&gt;P.S.: sì, io ho quasi pianto, ieri notte. Anche rileggendo, ora. Sir Pratchett, di lei non mi fido più. Ma continuerò a leggerla, di quando in quando.&lt;/p&gt;</description>
+&lt;p&gt;Immaginate la scena&amp;hellip;&amp;rdquo; immaginate un&amp;rsquo;alta figura scura, uno scheletro con la falce, lo stereotipo di Morte, nel Mondo Disco&amp;hellip; che si muove fra gli scaffali di questa metafora, in un luogo fuori dal tempo, e recupera le clessidre che sono quasi al termine.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -210,17 +114,7 @@
       
       <guid>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
       <description>&lt;p&gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi &amp;ldquo;Se una notte d&amp;rsquo;inverno un viaggiatore&amp;rdquo;, fatto di continui inizi, e &amp;ldquo;Il castello dei destini incrociati&amp;rdquo;, costruito invece giocando (letteralmente) coi tarocchi.&lt;/p&gt;
-&lt;p&gt;Eppure, come dovevo aspettarmi, &amp;ldquo;Le città invisibili&amp;rdquo; è qualcosa di ancora più strano e diverso.&lt;/p&gt;
-&lt;p&gt;Non si tratta di una storia vera e propria: esiste, certo, una cornice che fa da collante, in cui Marco Polo e Kublai Kan discutono di città possibili, o immaginate, o di come, da un modello generale con elementi comuni (i più realistici secondo l&amp;rsquo;imperatore, i più improbabili secondo il mercante veneziano), di come da un simile modello, dicevo, si possano derivare per addizione o sottrazione tutte le possibili città che si susseguono nel tempo. Ma tutto si confonde in un&amp;rsquo;atmosfera da sogno, nello sfumare delle possibilità espressive, prima dei simboli, poi delle parole e dei gesti, nel meditare silenzioso dei due che fumano lunghe pipe d&amp;rsquo;ambra, e immaginano di domandare all&amp;rsquo;altro, di rispondere, o di sentirsi rispondere o chiedere o venire interrotti&amp;hellip; o ancora di essere loro stessi immaginati (quel che, in effetti, succede nella realtà del lettore). E d&amp;rsquo;altronde, è chiaro come la cornice stessa sia fuori dal tempo, o meglio vi si muova all&amp;rsquo;interno, avanti e indietro, con sprazzi di futuro che fanno capolino qua e là&amp;hellip;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;quot;Kublai domanda a Marco: - Quando ritornerai al Ponente, ripeterai alla tua gente gli stessi racconti che fai a me?
-- Io parlo parlo, - dice Marco, - ma chi m&#39;ascolta ritiene solo le parole che aspetta. Altra è la descrizione del mondo cui tu presti benigno orecchio, altra quella che farà il giro dei capannelli di scaricatori e gondolieri sulle fondamenta di casa mia il giorno del mio ritorno, altra ancora quella che potrei dettare in tarda età, se venissi fatto prigioniero da pirati genovesi e messo in ceppi nella stessa cella con uno scrivano di romanzi d&#39;avventura. Chi comanda al racconto non è la voce: è l&#39;orecchio.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&amp;hellip;quando non proprio di modernità:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;quot;La città di Leonia rifà se stessa tutti i giorni: ogni mattina la popolazione si risveglia tra lenzuola fresche, si lava con saponette appena sgusciate dall&#39;involucro, indossa vestaglie nuove fiammanti, estrae dal più perfezionato frigorifero barattoli di latta ancora intonsi, ascoltando le ultime filastrocche dall&#39;ultimo modello d&#39;apparecchio.
-Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d&#39;ieri aspettano il carro dello spazzaturaio. Non solo tubi di dentifricio schiacciati, lampadine fulminate, giornali, contenitori, materiali d&#39;imballaggio, ma anche scaldabagni, enciclopedie, pianoforti, servizi di porcellana: più che dalle cose che ogni giorno vengono fabbricate vendute comprate, l&#39;opulenza di Leonia si misura dalle cose che ogni giorno vengono buttate via per far posto alle nuove.&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Questo è un incipit delle molte città descritte, fra un dialogo e l&amp;rsquo;altro dell&amp;rsquo;imperatore e del suo ambasciatore straniero. Si tratta di piccoli quadretti, visioni a volte poetiche e sorprendenti, a volte drammatiche, opprimenti, quasi da civiltà allo sbando (ricordate &amp;ldquo;Putrìo, putrìo&amp;rdquo; in &amp;ldquo;Noi marziani&amp;rdquo; di Philip K. Dick?). E così leggiamo di una città semi-itinerante, la cui metà stabile non è quella che vi aspettereste, di un&amp;rsquo;altra definita da simboli e rimandi, di una che si oppone a due diversi &amp;ldquo;deserti&amp;rdquo;, e da essi è definita agli occhi del marinaio e del cammelliere lontani; e ancora una città che si eleva dal terreno su alte palafitte, con case di &amp;ldquo;bambù e di zinco, con molti ballatoi e balconi, [&amp;hellip;], collegate da scale a pioli e marciapiedi pensili&amp;rdquo;; e un&amp;rsquo;altra costruita su, o forse da, una città speculare sotterranea, in continuo divenire, abitata dai morti; oppure completamente rispecchiata in ogni suo frontone, stanza e azione nel lago al suo centro, o ancora ispirata a un modello celeste contrapposto a uno sotterraneo, di cui però si travisano le vere essenze, lasciando un &amp;ldquo;solo atto libero e felice di cui sono capaci gli abitanti di Bersabea&amp;rdquo;&amp;hellip; atto che non vi svelerò, sappiate soltanto che ho applaudito. 😃&lt;/p&gt;
-&lt;p&gt;Non pensiate che vi abbia svelato tutto di questo libro. Anzi, scordatevelo. Anche se avessi provato a raccontarvi di ogni singola città, il piacere della prosa di Calvino resterebbe quasi immutato. Va letto, una visione o due alla volta, eventualmente, ma soprattutto va riletto, meglio ancora se aprendolo a caso e trovandosi davanti a una città dimenticata, che stavolta potrebbe impressionarvi. Lo dico dopo averlo iniziato, mollato per studio, quindi ripreso dal principio e finito in due giorni, perciò fidatevi.  🙂&lt;/p&gt;
-&lt;p&gt;Ah, e se, legittimamente, pensate che sia tutto un gran volo pindarico psichedelico&amp;hellip; una curiosità: mentre scrivevo questa recensione, mi hanno raccontato del film &amp;ldquo;Si accettano miracoli&amp;rdquo;, in cui, a quanto ho capito, la Sant&amp;rsquo;Agata dei Goti in cui è stato girato non solo ha altro nome, ma è ribaltata, il paese alto è quello basso, e viceversa. Ecco, pensate solo a quante città composte di frammenti di altre città, esistenti o inventate sul posto, avete visto, consapevolmente o meno, nei film&amp;hellip;&lt;/p&gt;
-&lt;p&gt;E poi ditemi. 😜&lt;/p&gt;</description>
+&lt;p&gt;Eppure, come dovevo aspettarmi, &amp;ldquo;Le città invisibili&amp;rdquo; è qualcosa di ancora più strano e diverso.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -231,8 +125,7 @@ Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d
       <guid>https://albumblog.github.io/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</guid>
       <description>&lt;p&gt;Ogni mattina mi sveglio,&lt;/p&gt;
 &lt;p&gt;con in testa un cespuglio,&lt;/p&gt;
-&lt;p&gt;e creo una nuova sinfonia&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&amp;hellip;contro porte, battiscopa e compagnia.&lt;/p&gt;</description>
+&lt;p&gt;e creo una nuova sinfonia&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -241,81 +134,7 @@ Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d
       <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</guid>
-      <description>&lt;p&gt;C&amp;rsquo;era una volta&amp;hellip; DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un &amp;ldquo;fiero condottiero&amp;rdquo; che, invece della scomoda e pesante armatura, vestisse un bell&amp;rsquo;abito di D&amp;amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e&amp;hellip;&lt;/p&gt;
-&lt;p&gt;C&amp;rsquo;era un&amp;hellip; - scrisse.&lt;/p&gt;
-&lt;p&gt;NO! - quasi gridò subito dopo, cancellando furiosamente a penna quell&amp;rsquo;incipit maledetto, - Precisione, perdio! Dettagli, date, collocazioni esatte!&lt;/p&gt;
-&lt;p&gt;Nell&amp;rsquo;anno 92327.66, detto poi del Grande Drago Sfigato, il re di Roccapendente, Sigerlando de Nativiziati, decise di indire un grande torneo in cui avrebbero gareggiato i campioni inviati dai vari villaggi del piccolo regno.&lt;/p&gt;
-&lt;p&gt;Così facendo, il re sperava di far leva sull&amp;rsquo;orgoglio di combattente dei partecipanti, per poi dare in sposa al vincitore, volente o nolente, la principessa Dominanna, che il padre disperava ormai di riuscire a maritare, dato il suo caratteraccio, così esuberante e tempestoso da aver messo in fuga svariati pretendenti.&lt;/p&gt;
-&lt;p&gt;La notizia del torneo si sparse veloce come il vento, e ben presto nella città di Smog (oggi Smaug), la capitale di Roccapendente, gli abitanti, dimenticati i loro problemi, fremettero d&amp;rsquo;eccitazione e aspettativa; la folla si ammassava alle porte e nella piazza principale, invasa da ambulanti d&amp;rsquo;ogni sorta, dai giocolieri ai friggitori di ciambelle, dai mangiafuoco ai venditori di croccante, che non possono mai mancare in simili occasioni.&lt;/p&gt;
-&lt;p&gt;Ma ecco! Uno squillo di tromba, dall&amp;rsquo;alto delle mura!&lt;/p&gt;
-&lt;p&gt;Il primo campione giunse su un grande stallone nero, come nera era la pesante e lucente armatura che portava. Un drappo purpureo gli scendeva dalle spalle, intonato al rubino che scintillava sull&amp;rsquo;elsa della pesante spada al suo fianco.&lt;/p&gt;
-&lt;p&gt;Il suo nome, annunciato a gran voce dallo strillone che lo precedeva, era Odoracre de Bagnovecchio, proveniente dal glorioso villaggio di Gascon Nades.&lt;/p&gt;
-&lt;p&gt;La folla fece rispettosamente ala, e l&amp;rsquo;eroe nerovestito cavalcò, lento e impettito, fino al recinto allestito per il torneo, mentre lo strillone andava raccontando le sue incredibili e numerose gesta.&lt;/p&gt;
-&lt;p&gt;Poco tempo, ed ecco&amp;hellip; nuovo squillo di tromba!&lt;/p&gt;
-&lt;p&gt;Il secondo campione non poteva essere più diverso dal primo: sfoggiava un immacolato completo D&amp;amp;G bianco avorio, perfettamente intonato al fodero dell&amp;rsquo;elegante sciabola sul fianco, e avanzava lentamente, senza sollevare il minimo sbuffo di polvere, su un destriero con ferri e bardature d&amp;rsquo;oro, dal manto eburneo e lucente.&lt;/p&gt;
-&lt;p&gt;Il nome del bianco cavaliere passò fra la folla, mormorato di bocca in bocca: Lindo de Petròniodi, vanto e onore del villaggio di Clean Est!&lt;/p&gt;
-&lt;p&gt;Anch&amp;rsquo;egli sfilò orgogliosamente fino in piazza, guardò con disprezzo Odoracre, quindi entrò nel recinto del torneo.&lt;/p&gt;
-&lt;p&gt;Il re osservava l&amp;rsquo;arena dal suo trono su un&amp;rsquo;alta tribuna, e viveva momenti di profondo sconforto: difatti, non si erano avute notizie di altri cavalieri interessati, certamente a causa della scellerata condotta di Dominanna. Stava perciò per ordinare che i combattimenti avessero inizio, quando&amp;hellip;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Il beniamino dei contadini e dei pastori!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&amp;hellip;Artemis, dal villaggio di Estragon, dove è benvoluto da tutti!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;si sentì gridare in lontananza, fra urla e applausi.&lt;/p&gt;
-&lt;p&gt;Non sarebbe neppure un cattivo partito, - pensò il re, piacevolmente stupito da quello che sembrava l&amp;rsquo;arrivo di un gareggiante inatteso, - se è così benvoluto dal popolo&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Ed ecco che, preceduto da un corteo festante e da sbuffi di fumo, nella piazza fece il suo ingresso&amp;hellip; un drago! Un vero, autentico drago. Verde scuro, con qualche striatura gialla, fiammelle che gli uscivano a tratti dalle fauci&amp;hellip; insomma, se non fosse già chiaro, indiscutibilmente un drago, sputafuoco per giunta.&lt;/p&gt;
-&lt;p&gt;Artemis si fece avanti, rivolse un inchino al re (Che educazione! - pensò questi), quindi proclamò:&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Se nessuno dei presenti ha obiezioni, vorrei partecipare anch&amp;rsquo;io al torneo, per poter ambire alla mano della principessa&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Il re applaudì col resto della folla, poi si alzò in piedi e annunciò:&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Nessuna obiezione. Che la sfida abbia inizio!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Fu deciso che il drago, in quanto ultimo arrivato, si sarebbe scontrato per primo con uno dei due cavalieri.&lt;/p&gt;
-&lt;p&gt;Il primo a farsi baldanzosamente avanti fu Odoracre, roteando a due mani la pesante spada dal pomolo di rubino. &amp;ldquo;Fatti sotto, sacco ambulante di cacca di drago!&amp;rdquo;, gridò, lanciandosi avanti in un affondo.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Ehi, ehi, piano con gli insulti!&amp;rdquo;, rispose da parte sua Artemis, scansando l&amp;rsquo;affondo con una piroetta, &amp;ldquo;Da quale pulpito, poi!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Il cavaliere, appesantito dall&amp;rsquo;armatura, rischiò di cadere in avanti per lo slancio, ma, all&amp;rsquo;ultimo momento, la spada conficcata nel recinto glielo impedì. Proferendo terribili improperi, riuscì ad estrarla, e si voltò di nuovo verso il drago.&lt;/p&gt;
-&lt;p&gt;Senza dargli il tempo di rimettersi in posizione, Artemis passò al contrattacco, emettendo una bella fiammata dimostrativa.&lt;/p&gt;
-&lt;p&gt;Odoracre arretrò così in fretta che si diede da solo il piatto della spada sul naso. &amp;ldquo;Ahia!&amp;rdquo;, gridò infatti con voce acutissima, &amp;ldquo;che diavol&amp;hellip;&amp;rdquo;. In quel momento vide il suo sangue sulla mano che si era portato al viso, e svenne.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Avanti un altro!&amp;rdquo;, disse allegramente il drago alla folla, che applaudì.&lt;/p&gt;
-&lt;p&gt;Con qualche titubanza, si fece avanti Lindo, agitando cautamente la sciabola da sinistra a destra. Non sembrava molto ansioso di attaccare, come lo era stato il suo compagno sconfitto.&lt;/p&gt;
-&lt;p&gt;I due iniziarono a girarsi intorno; il drago tranquillo e intento a studiare il suo avversario, il cavaliere sempre più nervoso e indeciso.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Tieni i tuoi sudici artigli lontano da me!&amp;rdquo;, gridò infatti Lindo, quando Artemis rischiò di pestargli un piede.&lt;/p&gt;
-&lt;p&gt;Un po&amp;rsquo; offeso da quella uscita, visto che ai suoi artigli teneva parecchio, e avendo osservato a sufficienza il suo avversario, Artemis decise di darci un taglio: &amp;ldquo;Non mi sognerei mai di toccarti coi miei preziosi artigli, lurido spaventapasseri!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Lindo arrossì dalla rabbia per quell&amp;rsquo;insulto alla sua eleganza. Stava per ribattere a tono, ma le parole gli morirono in gola quando il drago, calibrando perfettamente un sottile getto di fiamme, vaporizzò il suo completo D&amp;amp;G, lasciandolo in mutande (di pizzo, per giunta!) in mezzo all&amp;rsquo;arena.&lt;/p&gt;
-&lt;p&gt;Mentre il cavaliere fuggiva precipitosamente, la folla invase il recinto, acclamando e trascinando Artemis di fronte al re. Sigerlando, da parte sua, più che mai vergognandosi per i due cavalieri sconfitti, non poté far altro che alzarsi, stringere la zampa al drago e proclamarlo il vincitore del torneo.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;E ora&amp;rdquo;, concluse, &amp;ldquo;potrai avere in sposa la principessa. Spero che ti dimostrerai&amp;hellip; alla sua altezza&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;Principessa che però risultò irreperibile.&lt;/p&gt;
-&lt;p&gt;Dopo aver interrogato tutta la servitù, si riuscì a scoprire che la figlia del re era scappata di nascosto dal palazzo, snobbando totalmente il torneo e preferendogli come suo solito un concerto (&amp;ldquo;Qualcosa sulla durezza del metallo e gli uomini di guerra&amp;rdquo;, disse una vecchia governante). Così il drago spiccò il volo, lanciandosi pancia a terra (si fa per dire) alla ricerca della sua promessa sposa.&lt;/p&gt;
-&lt;p&gt;Trovare il concerto fu meno difficile del previsto, dato il volume estremamente alto delle canzoni. Artemis atterrò proprio sul palco, in mezzo ai famosi &amp;ldquo;uomini di guerra&amp;rdquo;, aspettandosi di dover combattere per trovare la principessa&amp;hellip; ma cambiando immediatamente idea quando il cantante annunciò:&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;E ora, in onore del nostro ospite inatteso, suoneremo&amp;hellip; cavalca il drago, con veri effetti di fuoco!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Artemis diede il meglio di sé, eruttando colonne di fumo e fiamme ogni volta che nella canzone comparivano le parole adatte. Gli spettatori andarono in visibilio, e con loro la principessa, che il drago adocchiò in prima fila, anfibi, shorts di pelle e top borchiato.&lt;/p&gt;
-&lt;p&gt;Il concerto finì. Stanco per i numerosi bis, per Artemis non fu comunque difficile convincere Dominanna a seguirlo, anzi! Fu lei stessa a saltargli in groppa, dove cantò &amp;ldquo;cavalca il drago&amp;rdquo; per tutto il volo di ritorno.&lt;/p&gt;
-&lt;p&gt;I due si sposarono e, come si suol dire, da allora vissero tutti felici e contenti.&lt;/p&gt;
-&lt;p&gt;Almeno per la prima settimana.&lt;/p&gt;
-&lt;p&gt;Il lunedì della seconda, infatti, Dominanna si era già stufata di Artemis, di farsi scarrozzare in giro per aria e per terra sulla sua schiena, e, insomma, anche il fuoco cominciava a venirle a noia (era estate, per giunta). Così, con la crudeltà della gioventù (e forse un pizzico di quella di un tiranno fuori di senno), comandò al grande chef reale Agliosottile (Tit per gli amici) di spennarle il marito e servirlo arrosto per cena.&lt;/p&gt;
-&lt;p&gt;Niente di cui stupirsi troppo, in fondo. Voi, finora, avrete sicuramente pensato, parlando del povero drago, ad un animale nobile e possente, il solito incrocio fra un serpente e una grossa lucertola, o altro rettile; ebbene, nel regno di Roccapendente i draghi erano sì animali rari e rispettati, ma assomigliavano piuttosto a un collage fra un grosso gallo e, diciamo, un velociraptor; quindi con tanto di coda, cresta, bargigli e piume.&lt;/p&gt;
-&lt;p&gt;Solo sacrificando queste ultime il nostro Artemis riuscì a sfuggire al suo arrostito destino, e la sua prima preoccupazione fu di darsela a gambe (pardon, ad ali) verso le lontane montagne, per godersi un po&amp;rsquo; di solitudine.&lt;/p&gt;
-&lt;p&gt;Fu proprio qui, in una grotta semibuia, che trovò Crisotta, una gallina dalle uova d&amp;rsquo;oro; la quale, vedendolo così spennato e stanco, subito s&amp;rsquo;intenerì.&lt;/p&gt;
-&lt;p&gt;Quel che accadde dopo non è per voi bambini, non posso certo spiegarvi il ruolo del DNA di gallo e perché Artemis e Crisotta fecero come i ricci, per rimanere nella zoologia. Vi basti sapere che vi fu qualche piccolo sconvolgimento a Roccapendente l&amp;rsquo;anno seguente, detto poi del Grande Drago d&amp;rsquo;Oro Vendicatore&amp;hellip; ma questa è un&amp;rsquo;altra storia, e si dovrà raccontare un&amp;rsquo;altra volta.&lt;/p&gt;
-&lt;p&gt;Morimero posò la penna, sogghignando soddisfatto: ora sì che i bambini avrebbero avuto qualcosa di completamente diverso!&lt;/p&gt;
-&lt;p&gt;Guardò l&amp;rsquo;ora, e sussultò: caspita, ben tre ore di stesura! Certo, non che avesse molto altro da fare, uscendo di rado la sera&amp;hellip; e per andar dove, poi? A mangiare al solito ristorante, da solo, così come viveva.&lt;/p&gt;
-&lt;p&gt;Ad avere un drago come amico, forse&amp;hellip; chissà&amp;hellip;&lt;/p&gt;
-&lt;h3 id=&#34;note&#34;&gt;Note:&lt;/h3&gt;
-&lt;p&gt;Questa storia nasce nel 2014 per un gioco letterario, sviluppandosi a partire da uno dei vari incipit proposti. Il mio discutibile contributo inizia da &amp;ldquo;C&amp;rsquo;era un&amp;hellip;&amp;quot;; il risultato non sarà granché, tanto è vero che lo avevo completamente rimosso, e tuttavia rileggerlo  dopo vari anni mi ha fatto sinceramente ridere, quindi&amp;hellip; voilà! 🙂&lt;/p&gt;
-&lt;p&gt;Doveva poi essere un racconto per bambini, ma come resistere alla tentazione di qualche collegamento o gioco di parole? Ecco qua tutti quelli presenti, almeno volontariamente:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;92327.66: data stellare di fine stesura della favola, almeno secondo &lt;a href=&#34;https://tinyurl.com/startrekdate&#34; target=&#34;_blank&#34;&gt;uno dei numerosi modelli di calcolo;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Roccapendente: a ogni nome &lt;a href=&#34;https://tinyurl.com/roccapendente&#34; target=&#34;_blank&#34;&gt;il suo libro,&lt;/a&gt; difficile ormai essere originali;&lt;/li&gt;
-&lt;li&gt;Sigerlando de Nativiziati: normalmente &amp;ldquo;Gerlando&amp;rdquo;, ma, appena nato, i genitori si rassegnarono subito a dirgli sempre di sì, come da tradizione di famiglia;&lt;/li&gt;
-&lt;li&gt;Dominanna: in parte da &amp;ldquo;Domina&amp;rdquo;, la padrona di casa nell&amp;rsquo;antica Roma; in questo caso, però, vale soprattutto la radice comune con &amp;ldquo;dominatrice&amp;rdquo;;&lt;/li&gt;
-&lt;li&gt;Smaug: il drago ne &amp;ldquo;Lo Hobbit&amp;rdquo; di J.R.R. Tolkien; il nome anticipa in qualche modo quel che viene lasciato in sospeso alla fine della storia;&lt;/li&gt;
-&lt;li&gt;Odoracre de Bagnovecchio: be&amp;rsquo;&amp;hellip; &amp;ldquo;nomen omen&amp;rdquo;, dicevano i latini; un tizio da tenere a una certa distanza;&lt;/li&gt;
-&lt;li&gt;Gascon Nades: da &amp;ldquo;gasconnade&amp;rdquo;, guasconata, spacconata (da gascon: guascone), degno villaggio d&amp;rsquo;origine per un cavaliere le cui imprese si perdono nella leggenda&amp;hellip; e che sviene alla vista di un po&amp;rsquo; di sangue;&lt;/li&gt;
-&lt;li&gt;Lindo de Petròniodi: un tipetto molto pulito, da una famiglia molto sensibile &lt;a href=&#34;https://tinyurl.com/elegantia&#34; target=&#34;_blank&#34;&gt;in fatto d&amp;#39;eleganza;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Clean Est: cleanest, &amp;ldquo;il più pulito&amp;rdquo;, degno villaggio per i natali del cavaliere Lindo de Petròniodi;&lt;/li&gt;
-&lt;li&gt;Artemis&amp;hellip; Estragon: gioco di rimandi &lt;a href=&#34;https://tinyurl.com/estragone&#34; target=&#34;_blank&#34;&gt;da erborista,&lt;/a&gt; collegato anche ai colori del drago, più avanti;&lt;/li&gt;
-&lt;li&gt;Durezza del metallo&amp;hellip; uomini di guerra: non era pane per i denti della vecchia governante, poveretta; più esattamente, &amp;ldquo;heavy metal&amp;rdquo; e &lt;a href=&#34;https://tinyurl.com/uominidiguerra&#34; target=&#34;_blank&#34;&gt;“Manowar”;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Cavalca il drago: &lt;a href=&#34;https://tinyurl.com/cavalcaildrago&#34; target=&#34;_blank&#34;&gt;canzone&lt;/a&gt; dei suddetti Manowar;&lt;/li&gt;
-&lt;li&gt;Tit Agliosottile: chef dai lunghi trascorsi di macellaio;&lt;/li&gt;
-&lt;li&gt;Crisotta: l&amp;rsquo;unico nome plausibile per una gallina venutomi in mente con la radice &amp;ldquo;chrysòs&amp;rdquo;, oro in greco;&lt;/li&gt;
-&lt;li&gt;Ma questa&amp;hellip; un&amp;rsquo;altra volta: tipica espressione usata &lt;a href=&#34;../../../../../../libri/2020/08/19/michael-ende-la-storia-infinita/&#34;&gt;da Michael Ende ne “La storia infinita”,&lt;/a&gt; per interrompere un filone secondario;&lt;/li&gt;
-&lt;li&gt;Qualcosa&amp;hellip; diverso: parte del titolo del famoso lungometraggio &lt;a href=&#34;https://tinyurl.com/lungometraggio&#34; target=&#34;_blank&#34;&gt;dei Monty Python&lt;/a&gt; del 1971.&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;C&amp;rsquo;era una volta&amp;hellip; DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un &amp;ldquo;fiero condottiero&amp;rdquo; che, invece della scomoda e pesante armatura, vestisse un bell&amp;rsquo;abito di D&amp;amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -335,41 +154,7 @@ Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d
       <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</guid>
-      <description>&lt;p&gt;Riuscì a trattenersi finché l&amp;rsquo;altro non se ne fu andato, a testa bassa, come il cane che era. Dopo, improvvisa, la diga si ruppe. Fu invaso da una rabbia violentissima, travolgente, inarrestabile. Udiva solo i tonfi dei pugni sul corpo della donna, che a malapena, adesso, ricordava chi fosse.&lt;/p&gt;
-&lt;p&gt;Poi, senza neppure sapere come l&amp;rsquo;avesse preso, forse da un cassetto di cucina, forse dalla tasca della giacca, si ritrovò in mano un coltello.&lt;/p&gt;
-&lt;p&gt;Non udì le urla, né le preghiere; la sua attenzione era tutta concentrata sulla traiettoria della lama che squarciò la gola della donna, sul caldo zampillo di sangue che gli investì la mano, che schizzò sul vestito, che tinse le tende.&lt;/p&gt;
-&lt;p&gt;Il cadavere cadde ai piedi del letto, inzuppando di rosso il lenzuolo rovesciato sul pavimento. L&amp;rsquo;uomo si chinò e strappò da una mano ancora calda la fede nuziale, che gettò via con rabbia.&lt;/p&gt;
-&lt;p&gt;Si aggirò per la stanza come un leone in gabbia, ancora sconvolto da quella tempesta di sentimenti. Osservava ciò che gli stava intorno come se avesse voluto stritolarlo con la sola forza dello sguardo, tanta era l&amp;rsquo;energia, la rabbia e la furia che gli ribollivano nel sangue. Ad un tratto, con un gesto fulmineo, afferrò il quadro poggiato su uno dei comodini e lo scagliò a terra, rompendone il vetro. Lo calpestò più e più volte, finché la fotografia non si ridusse a brandelli irriconoscibili, il vetro a frammenti impalpabili. La stessa sorte toccò agli altri quadri, distrutti con metodica e spietata sistematicità.&lt;/p&gt;
-&lt;p&gt;Dopo quell&amp;rsquo;esplosione di violenza e di collera, l&amp;rsquo;adrenalina richiese il suo tributo, e la stanchezza, improvvisa, si fece sentire. L&amp;rsquo;uomo sedette, quasi cadde sul letto, fissando, senza vederla, la devastazione intorno a sé, illuminata dalla luce di metà pomeriggio che filtrava fra le tende accostate. Pian piano, senza che ne avesse piena coscienza, il suo corpo si reclinò all&amp;rsquo;indietro, ed egli cadde in un sonno profondo e agitato.&lt;/p&gt;
-&lt;p&gt;Quando si svegliò, molto più tardi, doveva essere già quasi il crepuscolo; un obliquo raggio di sole, in cui danzavano minuscoli granelli di polvere, illuminava ancora la stanza, scintillando e rifrangendosi sui frammenti di vetro sparsi a terra.&lt;/p&gt;
-&lt;p&gt;Poi, per qualche istante, un&amp;rsquo;ombra lo cancellò. Quindi, improvvisa e inspiegabile com&amp;rsquo;era venuta, scomparve, e la luce invase di nuovo la stanza.&lt;/p&gt;
-&lt;p&gt;Incuriosito dal fenomeno, l&amp;rsquo;uomo guardò più attentamente, e un riflesso dorato attrasse il suo sguardo: si trattava della fede nuziale, a terra in un angolo della camera. Gli occhi gli corsero istintivamente al proprio anello, ma la vista delle mani, ancora incrostate di sangue rappreso, gli fece correre un freddo brivido lungo la spina dorsale.&lt;/p&gt;
-&lt;p&gt;Si alzò di scatto dal letto, quindi, evitando di guardare il corpo che ancora giaceva sul pavimento, si diresse barcollando verso il bagno. Qui s&amp;rsquo;insaponò in fretta le mani, quasi con furia, più e più volte, e le mise sotto il getto d&amp;rsquo;acqua del lavandino, aperto al massimo. Ripeté l&amp;rsquo;operazione due volte, poi di nuovo, e ancora.&lt;/p&gt;
-&lt;p&gt;E ancora.&lt;/p&gt;
-&lt;p&gt;Infine, con la pelle delle dita ormai stropicciata, afferrò un asciugamano da uno dei sostegni fissati al muro, e si asciugò. L&amp;rsquo;acqua, assorbita, lasciò degli aloni umidi sul tessuto sottile.&lt;/p&gt;
-&lt;p&gt;Poi, sotto gli occhi sgranati dell&amp;rsquo;uomo, vi apparvero, inequivocabili, delle macchie di sangue.&lt;/p&gt;
-&lt;p&gt;Lasciato cadere a terra l&amp;rsquo;asciugamano, le mani tremanti, la mente in subbuglio, l&amp;rsquo;uomo fuggì dalla stanza, camminò, corse per la casa, infranse dei vasi, rovesciò un tavolinetto, quasi inciampò sul telefono caduto; chiuse ogni porta dietro di sé, esplorò ogni angolo con sguardo febbrile, mentre la ragione andava in pezzi, e la sua mente vacillava sull&amp;rsquo;orlo della follia.&lt;/p&gt;
-&lt;p&gt;Confusamente, si rendeva conto di correre in cerchio&amp;hellip; e ne ebbe conferma quando, infine, si ritrovò nel breve corridoio che portava alla stanza da letto.&lt;/p&gt;
-&lt;p&gt;Mentre si avvicinava, un&amp;rsquo;ombra, al limite del suo campo visivo, si mosse nella camera, quindi ne oscurò la soglia.&lt;/p&gt;
-&lt;p&gt;Un&amp;rsquo;ombra stranamente densa, che risaltava contro la debole luce dietro di sé, rimanendo compatta e impenetrabile.&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;uomo avanzò ancora, a passo lento e sempre più malfermo, finché non l&amp;rsquo;ebbe proprio davanti.&lt;/p&gt;
-&lt;p&gt;La fissò a lungo, tentando di dare un senso a ciò che vedeva. Ne osservò i tratti e, mentre la sua mente, stretta in un gelido terrore, precipitava nel baratro, continuò a guardare.&lt;/p&gt;
-&lt;p&gt;Continuò a guardare, affascinato, quel che a una prima occhiata era sembrata solo un&amp;rsquo;ombra.&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;ombra di sua moglie.&lt;/p&gt;
-&lt;p&gt;Con un grido, l&amp;rsquo;uomo barcollò in avanti, le braccia tese, tentando di allontanare quel che la sua mente gli mostrava. Invano.&lt;/p&gt;
-&lt;p&gt;L&amp;rsquo;ombra si limitò a passargli attraverso.&lt;/p&gt;
-&lt;p&gt;Il corpo cadde con un tonfo sordo, pesante, e giacque immobile vicino al cadavere della donna.&lt;/p&gt;
-&lt;p&gt;Polvere e frammenti di vetro, sollevati in aria, ricaddero. L&amp;rsquo;oscurità, a poco a poco, avvolse la stanza. Il silenzio calò su ogni cosa.&lt;/p&gt;
-&lt;p&gt;Fu la sorella dell&amp;rsquo;uomo a chiamare la polizia, la mattina del giorno seguente. Aveva telefonato a casa della coppia, la sera prima, per invitare entrambi a una cena, ma aveva trovato occupato. Aveva insistito, ma il segnale era rimasto immutato per ore. Si era recata all&amp;rsquo;abitazione, trovandola buia e in apparenza deserta. Aveva chiesto ai vicini e ad amici, ma nessuno era stato in grado di dirle nulla. Alla fine, preoccupata che la già precaria salute del fratello, che soffriva di nervi, fosse sfociata in conseguenze spiacevoli, non le era rimasto che chiamare le forze dell&amp;rsquo;ordine.&lt;/p&gt;
-&lt;p&gt;La polizia, ricevuti i referti del medico legale e ascoltata la testimonianza dell&amp;rsquo;amante, archiviò il caso di Elizabeth e John Richardson come omicidio passionale, seguito dalla morte dell&amp;rsquo;assassino per infarto.&lt;/p&gt;
-&lt;p&gt;O, almeno, questa fu la versione ufficiale, per certi aspetti incredibile, ma mai quanto l&amp;rsquo;attenta lettura del referto dell&amp;rsquo;autopsia effettuata su John Richardson.&lt;/p&gt;
-&lt;p&gt;Un referto apparentemente normale, con una causa di morte in sé perfettamente normale. Ma nessuno sarebbe riuscito a considerare normale quanto scritto in una nota, a caratteri minuscoli, posta in calce alla descrizione dello stato del corpo, che solo due persone, il medico che eseguì l&amp;rsquo;autopsia e il capo della polizia, ebbero mai occasione di leggere.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;&amp;hellip; l&amp;rsquo;organo non sembra essere mai stato utilizzato. Non esiste spiegazione a questo in medicina, non può esistere, e tuttavia né negli atri, né nei ventricoli rimane una sola, minima traccia che vi sia circolato del sangue. Inoltre&amp;hellip; ma non è assolutamente possibile&amp;hellip; per quanto il cadavere non presenti segni di sutura di alcun genere, al centro del cuore, incastonata esattamente a metà fra i setti interatriale e interventricolare, è stata trovata&amp;hellip; una fede, una fede nuziale&amp;rdquo;.&lt;/p&gt;
-&lt;h3 id=&#34;postilla&#34;&gt;Postilla:&lt;/h3&gt;
-&lt;p&gt;Se la memoria non mi tradisce, iniziai questo racconto nel lontano 2009, terminandolo soltanto il 14 gennaio 2012 (all&amp;rsquo;una di notte, fra l&amp;rsquo;altro). Il fattore scatenante fu, e di questo sono sicuro, la lettura in traduzione del ritratto di Catilina, un passo del Bellum Catilinae di Sallustio (un passo spettacolare, dovrei aggiungere, anche se l&amp;rsquo;intera opera, molto breve, ne presenta altri molto notevoli). Mi colpì a tal punto lo stile, la rapidità delle frasi, il ritmo incalzante, che decisi che, per quanto male, dovevo tentare di scrivere qualcosa allo stesso modo. E&amp;rsquo; probabile che, a causa dei tempi diversi di stesura, l&amp;rsquo;effetto sia andato un po&amp;rsquo; perso, se mai c&amp;rsquo;è stato&amp;hellip; ma non mi sembra un tentativo da buttare.&lt;/p&gt;
-&lt;p&gt;Non ricordo con esattezza da dove presi invece lo spunto per la trama, che avevo già deciso all&amp;rsquo;epoca, ben prima di scrivere e concludere la seconda metà della storia, ma immagino di aver finito di leggere proprio in quel periodo una raccolta di racconti del grande, oscuro e intramontabile Edgar Allan Poe. Come non farsi influenzare? 🙂&lt;/p&gt;
-&lt;p&gt;Detto ciò, rileggendo ora il prodotto di sì nobili origini, non lo trovo poi così apprezzabile come pensavo (&amp;ldquo;Show, don&amp;rsquo;t tell&amp;rdquo;? Anche no, probabilmente). Confesso, tuttavia, che mentre scrivevo l&amp;rsquo;evento culminante, forse per l&amp;rsquo;ora, forse per la partecipazione&amp;hellip; ebbene sì, avevo paura! 😳&lt;/p&gt;
-</description>
+      <description>Riuscì a trattenersi finché l&amp;rsquo;altro non se ne fu andato, a testa bassa, come il cane che era.</description>
     </item>
     
     <item>
@@ -380,10 +165,7 @@ Sui marciapiedi, avviluppati in tersi sacchi di plastica, i resti della Leonia d
       <guid>https://albumblog.github.io/scritti/poesie/2012/01/02/inferno-tech-version/</guid>
       <description>&lt;p&gt;Nel mezzo del camin di nostra vita,&lt;/p&gt;
 &lt;p&gt;mi ritrovai per una selva oscura,&lt;/p&gt;
-&lt;p&gt;ché la diritta via era smarrita.&lt;/p&gt;
-&lt;p&gt;Ma con me ho l&amp;rsquo;iPhone, niente paura,&lt;/p&gt;
-&lt;p&gt;pensai, quand&amp;rsquo;ecco la rete, ahimè, svanita!&lt;/p&gt;
-&lt;p&gt;e il GPS senza segnale, oh gran sventura!&lt;/p&gt;</description>
+&lt;p&gt;ché la diritta via era smarrita.&lt;/p&gt;</description>
     </item>
     
   </channel>
