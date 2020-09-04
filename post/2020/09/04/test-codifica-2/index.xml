@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Codifica 2 on Album.blog()</title>
+    <link>https://albumblog.github.io/post/2020/09/04/test-codifica-2/</link>
+    <description>Recent content in Test Codifica 2 on Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Fri, 04 Sep 2020 15:48:12 +0200</lastBuildDate>
+    
+	<atom:link href="https://albumblog.github.io/post/2020/09/04/test-codifica-2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
