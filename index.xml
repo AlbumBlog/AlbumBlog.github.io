@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Fri, 04 Sep 2020 13:11:26</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2020 15:37:38</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>New Test for Zap</title>
-      <link>https://albumblog.github.io/post/2020/09/04/new-test-for-zap/</link>
-      <pubDate>Fri, 04 Sep 2020 13:10:20</pubDate>
+      <title>Prova Codifica Zap</title>
+      <link>https://albumblog.github.io/post/2020/09/04/prova-codifica-zap/</link>
+      <pubDate>Fri, 04 Sep 2020 15:35:17</pubDate>
       
-      <guid>https://albumblog.github.io/post/2020/09/04/new-test-for-zap/</guid>
-      <description>Un altro test per Zap, a day after&amp;amp;hellip;</description>
+      <guid>https://albumblog.github.io/post/2020/09/04/prova-codifica-zap/</guid>
+      <description>Non c&amp;amp;rsquo;è molto da dire&amp;amp;hellip; però vediamo se Zapier non fa storie (cosa possibilissima, se ho sbagliato il layout).</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
       <guid>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
-      <description>This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.</description>
+      <description>&amp;lt;p&amp;gt;This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
       <guid>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
-      <description>Poor Windows&amp;hellip; with 10 has become a quite stable system, but its reputation remains unchanged, at least since the infamous BSOD during Windows 98 presentation (another very old, organized joke, indeed).</description>
+      <description>&amp;lt;p&amp;gt;Poor Windows&amp;amp;hellip; with 10 has become a quite stable system, but its reputation remains unchanged, at least since &amp;lt;a href=&amp;#34;https://www.youtube.com/watch?v=IW7Rqwwth84&amp;#34;&amp;gt;the infamous BSOD during Windows 98 presentation&amp;lt;/a&amp;gt; (another very old, organized joke, indeed).&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
