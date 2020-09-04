@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Fri, 04 Sep 2020 00:46:22</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2020 10:14:15</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
       <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
       <guid>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
-      <description>(Open link to read)</description>
+      <description>This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
       <guid>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
-      <description>(Open link to read)</description>
+      <description>Poor Windows&amp;hellip; with 10 has become a quite stable system, but its reputation remains unchanged, at least since the infamous BSOD during Windows 98 presentation (another very old, organized joke, indeed).</description>
     </item>
     
     <item>
