@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Fri, 04 Sep 2020 10:14:15</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Sep 2020 13:11:26</lastBuildDate><atom:link href="https://albumblog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Test for Zap</title>
+      <link>https://albumblog.github.io/post/2020/09/04/new-test-for-zap/</link>
+      <pubDate>Fri, 04 Sep 2020 13:10:20</pubDate>
+      
+      <guid>https://albumblog.github.io/post/2020/09/04/new-test-for-zap/</guid>
+      <description>Un altro test per Zap, a day after&amp;amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
       <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
@@ -41,7 +50,7 @@
       <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
       
       <guid>https://albumblog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
-      <description>&amp;hellip;gentlemen at work&amp;hellip;</description>
+      <description>&amp;amp;hellip;gentlemen at work&amp;amp;hellip;</description>
     </item>
     
     <item>
@@ -50,7 +59,7 @@
       <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
       
       <guid>https://albumblog.github.io/post/2020/07/23/test-di-post/</guid>
-      <description>&amp;ldquo;Oggi dev&amp;rsquo;essere giovedì. Non son mai riuscito a capirli, i giovedì.&amp;rdquo; (cit.)</description>
+      <description>&amp;amp;ldquo;Oggi dev&amp;amp;rsquo;essere giovedì. Non son mai riuscito a capirli, i giovedì.&amp;amp;rdquo; (cit.)</description>
     </item>
     
     <item>
@@ -59,9 +68,9 @@
       <pubDate>Sun, 12 Jan 2020 09:09:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</guid>
-      <description>&lt;p&gt;Ci ritroveremo, sì, io credo,&lt;/p&gt;
-&lt;p&gt;ad una bancarella di libri inediti,&lt;/p&gt;
-&lt;p&gt;all&amp;rsquo;angolo fra quella via e un prato blu,&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;Ci ritroveremo, sì, io credo,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;ad una bancarella di libri inediti,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;all&amp;amp;rsquo;angolo fra quella via e un prato blu,&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -70,9 +79,9 @@
       <pubDate>Sun, 28 Aug 2016 12:03:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/poesie/2016/08/28/metametrica/</guid>
-      <description>&lt;p&gt;La rima in &amp;ldquo;osa&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;si crede molto spiritosa,&lt;/p&gt;
-&lt;p&gt;a tratti pure coraggiosa,&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;La rima in &amp;amp;ldquo;osa&amp;amp;rdquo;&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;si crede molto spiritosa,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;a tratti pure coraggiosa,&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -81,9 +90,9 @@
       <pubDate>Thu, 27 Aug 2015 08:45:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</guid>
-      <description>&lt;p&gt;Se da me accetterai,&lt;/p&gt;
-&lt;p&gt;in dote, a corredo,&lt;/p&gt;
-&lt;p&gt;nei ricordi, in eredità,&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;Se da me accetterai,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;in dote, a corredo,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;nei ricordi, in eredità,&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -92,7 +101,7 @@
       <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</guid>
-      <description>Specchio! Mi sa che questa volta l&amp;rsquo;ho fatta grossa. Quando tornano mamma e papà&amp;hellip; quante volte mi hanno detto che non devo mai aprire quando non c&amp;rsquo;è nessuno!</description>
+      <description>Specchio! Mi sa che questa volta l&amp;amp;rsquo;ho fatta grossa. Quando tornano mamma e papà&amp;amp;hellip; quante volte mi hanno detto che non devo mai aprire quando non c&amp;amp;rsquo;è nessuno!</description>
     </item>
     
     <item>
@@ -101,10 +110,10 @@
       <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
       
       <guid>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. [&amp;hellip;] Non c&amp;rsquo;è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell&amp;rsquo;è stato.&lt;/p&gt;
-&lt;p&gt;Ogni segnatempo ha un nome sopra.&lt;/p&gt;
-&lt;p&gt;E la stanza è piena del flebile fruscio delle persone che vivono.&lt;/p&gt;
-&lt;p&gt;Immaginate la scena&amp;hellip;&amp;rdquo; immaginate un&amp;rsquo;alta figura scura, uno scheletro con la falce, lo stereotipo di Morte, nel Mondo Disco&amp;hellip; che si muove fra gli scaffali di questa metafora, in un luogo fuori dal tempo, e recupera le clessidre che sono quasi al termine.&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;&amp;amp;ldquo;Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. [&amp;amp;hellip;] Non c&amp;amp;rsquo;è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell&amp;amp;rsquo;è stato.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Ogni segnatempo ha un nome sopra.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;E la stanza è piena del flebile fruscio delle persone che vivono.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Immaginate la scena&amp;amp;hellip;&amp;amp;rdquo; immaginate un&amp;amp;rsquo;alta figura scura, uno scheletro con la falce, lo stereotipo di Morte, nel Mondo Disco&amp;amp;hellip; che si muove fra gli scaffali di questa metafora, in un luogo fuori dal tempo, e recupera le clessidre che sono quasi al termine.&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -113,8 +122,8 @@
       <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
       
       <guid>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
-      <description>&lt;p&gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi &amp;ldquo;Se una notte d&amp;rsquo;inverno un viaggiatore&amp;rdquo;, fatto di continui inizi, e &amp;ldquo;Il castello dei destini incrociati&amp;rdquo;, costruito invece giocando (letteralmente) coi tarocchi.&lt;/p&gt;
-&lt;p&gt;Eppure, come dovevo aspettarmi, &amp;ldquo;Le città invisibili&amp;rdquo; è qualcosa di ancora più strano e diverso.&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi &amp;amp;ldquo;Se una notte d&amp;amp;rsquo;inverno un viaggiatore&amp;amp;rdquo;, fatto di continui inizi, e &amp;amp;ldquo;Il castello dei destini incrociati&amp;amp;rdquo;, costruito invece giocando (letteralmente) coi tarocchi.&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;Eppure, come dovevo aspettarmi, &amp;amp;ldquo;Le città invisibili&amp;amp;rdquo; è qualcosa di ancora più strano e diverso.&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -123,9 +132,9 @@
       <pubDate>Thu, 09 Oct 2014 09:49:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</guid>
-      <description>&lt;p&gt;Ogni mattina mi sveglio,&lt;/p&gt;
-&lt;p&gt;con in testa un cespuglio,&lt;/p&gt;
-&lt;p&gt;e creo una nuova sinfonia&amp;hellip;&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;Ogni mattina mi sveglio,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;con in testa un cespuglio,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;e creo una nuova sinfonia&amp;amp;hellip;&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -134,7 +143,7 @@
       <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</guid>
-      <description>&lt;p&gt;C&amp;rsquo;era una volta&amp;hellip; DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un &amp;ldquo;fiero condottiero&amp;rdquo; che, invece della scomoda e pesante armatura, vestisse un bell&amp;rsquo;abito di D&amp;amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e&amp;hellip;&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;C&amp;amp;rsquo;era una volta&amp;amp;hellip; DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un &amp;amp;ldquo;fiero condottiero&amp;amp;rdquo; che, invece della scomoda e pesante armatura, vestisse un bell&amp;amp;rsquo;abito di D&amp;amp;amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e&amp;amp;hellip;&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -143,9 +152,9 @@
       <pubDate>Tue, 30 Oct 2012 19:38:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</guid>
-      <description>&lt;p&gt;Ognuno studia da solo nel cuor del meriggio&lt;/p&gt;
-&lt;p&gt;afflitto da una botta di sonno:&lt;/p&gt;
-&lt;p&gt;ed è subito sera.&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;Ognuno studia da solo nel cuor del meriggio&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;afflitto da una botta di sonno:&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;ed è subito sera.&amp;lt;/p&amp;gt;</description>
     </item>
     
     <item>
@@ -154,7 +163,7 @@
       <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</guid>
-      <description>Riuscì a trattenersi finché l&amp;rsquo;altro non se ne fu andato, a testa bassa, come il cane che era.</description>
+      <description>Riuscì a trattenersi finché l&amp;amp;rsquo;altro non se ne fu andato, a testa bassa, come il cane che era.</description>
     </item>
     
     <item>
@@ -163,9 +172,9 @@
       <pubDate>Mon, 02 Jan 2012 23:25:42</pubDate>
       
       <guid>https://albumblog.github.io/scritti/poesie/2012/01/02/inferno-tech-version/</guid>
-      <description>&lt;p&gt;Nel mezzo del camin di nostra vita,&lt;/p&gt;
-&lt;p&gt;mi ritrovai per una selva oscura,&lt;/p&gt;
-&lt;p&gt;ché la diritta via era smarrita.&lt;/p&gt;</description>
+      <description>&amp;lt;p&amp;gt;Nel mezzo del camin di nostra vita,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;mi ritrovai per una selva oscura,&amp;lt;/p&amp;gt;
+&amp;lt;p&amp;gt;ché la diritta via era smarrita.&amp;lt;/p&amp;gt;</description>
     </item>
     
   </channel>

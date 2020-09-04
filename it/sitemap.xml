@@ -38,6 +38,13 @@
   </url>
   
   <url>
+    <loc>https://albumblog.github.io/post/2020/09/04/new-test-for-zap/</loc>
+    <lastmod>2020-09-04T13:10:20+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://albumblog.github.io/bridge2me/</loc>
     <lastmod>2020-08-28T20:49:28+02:00</lastmod>
     <changefreq>monthly</changefreq>
