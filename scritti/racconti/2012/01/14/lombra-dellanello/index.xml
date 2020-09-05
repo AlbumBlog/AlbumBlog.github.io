@@ -1,16 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L&#39;ombra dell&#39;anello on Album.blog()</title>
+    <title>Racconti (o qualcosa di completamente diverso) su Album.blog()</title>
     <link>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</link>
-    <description>Recent content in L&#39;ombra dell&#39;anello on Album.blog()</description>
+    <description>Contenuti recenti in "Racconti (o qualcosa di completamente diverso)" su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sat, 14 Jan 2012 01:00:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 12:16:54</lastBuildDate><atom:link href="https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Confessioni di riflesso (racconto n. 3)</title>
+      <link>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
+      <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
+      
+      <guid>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</guid>
+      <description>Specchio! Mi sa che questa volta l’ho fatta grossa. Quando tornano mamma e papà… quante volte mi hanno detto che non devo mai aprire quando non c’è nessuno!</description>
+    </item>
     
-	<atom:link href="https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il drago che sposò la principessa (racconto n. 2)</title>
+      <link>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</link>
+      <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
+      
+      <guid>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</guid>
+      <description>&lt;p&gt;C’era una volta… DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un “fiero condottiero” che, invece della scomoda e pesante armatura, vestisse un bell’abito di D&amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e…&lt;/p&gt;</description>
+    </item>
     
+    <item>
+      <title>L&#39;ombra dell&#39;anello (racconto n. 1)</title>
+      <link>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</link>
+      <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
+      
+      <guid>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</guid>
+      <description>Riuscì a trattenersi finché l’altro non se ne fu andato, a testa bassa, come il cane che era.</description>
+    </item>
     
   </channel>
 </rss>

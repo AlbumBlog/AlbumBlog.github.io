@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Ende - La storia infinita on Album.blog()</title>
+    <title>Lo spigolo del libro su Album.blog()</title>
     <link>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
-    <description>Recent content in Michael Ende - La storia infinita on Album.blog()</description>
+    <description>Contenuti recenti in "Lo spigolo del libro" su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Wed, 19 Aug 2020 15:35:42 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 12:16:54</lastBuildDate><atom:link href="https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Michael Ende - La storia infinita (non-recensione con spoiler)</title>
+      <link>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
+      <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
+      
+      <guid>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</guid>
+      <description>Il libro, voglio sperare, non ha bisogno di presentazioni. Con la celebrazione, nel 2019, del quarantennale dalla prima pubblicazione tedesca, è oltretutto uscita - finalmente!</description>
+    </item>
     
-	<atom:link href="https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terry Pratchett - Il tristo mietitore</title>
+      <link>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
+      <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
+      
+      <guid>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</guid>
+      <description>&lt;p&gt;“Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. […] Non c’è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell’è stato.&lt;/p&gt;
+&lt;p&gt;Ogni segnatempo ha un nome sopra.&lt;/p&gt;
+&lt;p&gt;E la stanza è piena del flebile fruscio delle persone che vivono.&lt;/p&gt;
+&lt;p&gt;Immaginate la scena…” immaginate un’alta figura scura, uno scheletro con la falce, lo stereotipo di Morte, nel Mondo Disco… che si muove fra gli scaffali di questa metafora, in un luogo fuori dal tempo, e recupera le clessidre che sono quasi al termine.&lt;/p&gt;</description>
+    </item>
     
+    <item>
+      <title>Italo Calvino - Le città invisibili</title>
+      <link>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
+      <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
+      
+      <guid>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
+      <description>&lt;p&gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi “Se una notte d’inverno un viaggiatore”, fatto di continui inizi, e “Il castello dei destini incrociati”, costruito invece giocando (letteralmente) coi tarocchi.&lt;/p&gt;
+&lt;p&gt;Eppure, come dovevo aspettarmi, “Le città invisibili” è qualcosa di ancora più strano e diverso.&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
