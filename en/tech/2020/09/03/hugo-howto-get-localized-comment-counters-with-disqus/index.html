@@ -46,7 +46,7 @@
 <meta itemprop="description" content="(playing with numbers, many languages and JavaScript)">
 <meta itemprop="datePublished" content="2020-09-03T16:07:42+02:00" />
 <meta itemprop="dateModified" content="2020-09-03T16:30:58+02:00" />
-<meta itemprop="wordCount" content="1227">
+<meta itemprop="wordCount" content="1232">
 
 
 
@@ -171,23 +171,23 @@
 
 <hr>
 <p>that includes title, description, date, summary, link to read more and, finally, our comment counter.</p>
-<p>Hugo documentation <a href="https://gohugo.io/content-management/multilingual/" target="_blank">about multilingual mode</a> is quite accurate, but says nothing about comment counters. And nothing also in Disqus help <a href="https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page" target="_blank">here.</a> <a href="https://help.disqus.com/en/articles/1717203-multi-lingual-websites" target="_blank">Here,</a> instead, you discover how to embed Disqus according to language page (and this is ok, even you have to override default Disqus template), and that you can translate/customize counters, true, but not for all languages in your static site (and this is not ok, right?).</p>
-<p>Thus, let me to illustrate my solution.</p>
+<p>Hugo documentation <a href="https://gohugo.io/content-management/multilingual/" target="_blank">about the multilingual mode</a> is quite accurate, but says nothing about comment counters. And nothing also in Disqus help <a href="https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page" target="_blank">here.</a> <a href="https://help.disqus.com/en/articles/1717203-multi-lingual-websites" target="_blank">Here,</a> instead, you discover how to embed Disqus according to page language (and this is ok, even you have to override the default Disqus template), and that you can translate/customize counters, true, but not for all languages in your static site (and this is not ok, right?).</p>
+<p>Thus, let me illustrate my solution.</p>
 <h3 id="a-first-trivial-intermediate-attempt">A first, trivial intermediate attempt</h3>
 <p>The obvious (and substantially unique) prerequisite is that you are already using <a href="https://gohugo.io/content-management/comments/" target="_blank">Disqus for comments</a> (have got disqusShortname, set it in config, etc).</p>
 <p>Now, go to:</p>
 <p>https://[your_disqusShortname].disqus.com/admin/settings/community/</p>
 <p>or, alternatively, find the section of settings where you can customize the comment counter labels.</p>
 <p>As you see, there are three options, for 0, 1 and {num} (&gt;1) comments respectively. Simply edit each label keeping only the associated number, that is, &ldquo;0&rdquo;, &ldquo;1&rdquo;, and &ldquo;{num}&rdquo;, without quotes and other text. Save and close that page.</p>
-<p>At this point, follow instructions <a href="https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page" target="_blank">in this page</a> to include Disqus count.js in your Hugo site, according to the theme you use.</p>
+<p>At this point, follow instructions <a href="https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page" target="_blank">on this page</a> to include Disqus count.js in your Hugo site, according to the theme you use.</p>
 <p>As you read, there are practically two ways to include comment counters:</p>
 <ol>
 <li>by an <code>&lt;a&gt;</code> element, with attributes href and (optional) data-disqus-identifier;</li>
 <li>by a <code>&lt;div&gt;</code> or <code>&lt;span&gt;</code> element, with attributes class and (optional) data-disqus-identifier or data-disqus-url.</li>
 </ol>
-<p>Attributes are explained in more details at page above. In any case, Disqus script will find these elements and replace their innerHTML (readable text) with labels you edited previously.</p>
+<p>Attributes are explained in more detail on the page above. In any case, Disqus script will find these elements and replace their innerHTML (readable text) with labels you edited previously.</p>
 <p>In my opinion, the second choice offers more possibilities for a better result, especially <code>&lt;span&gt;</code>. Consider also that you could be in the situation to want the comment counter from a disqus_url (specified in post front matter) and a link pointing to post comment section at real URL; getting this with a simple <code>&lt;a&gt;</code> tag is quite difficult, I think.</p>
-<p>Another consideration to do: apparently, in Hugo i18n seems to refer always to current page language (home/section that is listing posts), and I has not been able to find a way to force it differently. So, for getting the correct localization, you have to use the .Site.Params.param mechanism, that relies on [languages] section described in <a href="https://gohugo.io/content-management/multilingual/" target="_blank">Hugo multilingual mode.</a></p>
+<p>Another consideration to do: apparently, in Hugo i18n seems to refer always to current page language (home/section that is listing posts), and I have not been able to find a way to force it differently. So, to get the correct localization, you have to use the .Site.Params.param mechanism, that relies on [languages] section described in <a href="https://gohugo.io/content-management/multilingual/" target="_blank">Hugo multilingual mode.</a></p>
 <p>So, here is a first, combined solution.</p>
 <p>Find the correct template to override in your theme (in Ananke it is &ldquo;layouts/partials/summary.html&rdquo;), and add:</p>
 <pre><code>&lt;a href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;
@@ -198,8 +198,8 @@
 <p>But you want more, much more than this, right? 😉</p>
 <h3 id="my-javascript-solution">My JavaScript solution</h3>
 <p>If you have read me up to here (if not, do it), you have already the basic code to proceed.</p>
-<p>At this point, my idea has been to hide Disqus <code>&lt;span&gt;</code>, but taking advantage of it via JavaScript, to dinamically change the link text according to (internal) counter value.</p>
-<p>In addition, I removed whitespace between <code>&lt;a&gt;</code> and <code>&lt;/a&gt;</code>, that seems to create problems to childNodes method, and replaced commentCounter with a noCounter param message (i.e.: &ldquo;Comment counter not available&rdquo;) displayed when Disqus temporarily fails or JavaScript is disabled.</p>
+<p>At this point, my idea has been to hide Disqus <code>&lt;span&gt;</code>, but taking advantage of it via JavaScript, to dynamically change the link text according to the (internal) counter value.</p>
+<p>Besides, I removed whitespace between <code>&lt;a&gt;</code> and <code>&lt;/a&gt;</code>, which seems to create problems to childNodes method, and replaced commentCounter with a noCounter param message (i.e.: &ldquo;Comment counter not available&rdquo;) displayed when Disqus temporarily fails or JavaScript is disabled.</p>
 <p>So, previous code becomes:</p>
 <pre><code>&lt;a id=&quot;disqus_comments&quot; href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;&lt;span style=&quot;display:none!important;&quot; class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&quot;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
 </code></pre><p>Note the id for <code>&lt;a&gt;</code>, needed for JavaScript below, and the style for hiding <code>&lt;span&gt;</code>.</p>
@@ -255,7 +255,7 @@ function setCommentCounterText(a) {
 </code></pre><p>And voila! Your comment counters are translated and customized 😀</p>
 <p>Ok, code is not so beautiful, I know, I never wrote JavaScript before this blog&hellip; but it works. And, if you have suggestions for improving it, you are welcome 🙂</p>
 <h3 id="counters-on-localhost">Counters on localhost</h3>
-<p>I don&rsquo;t know exactly if it&rsquo;s a good idea, but if you want to see counters locally (running &ldquo;hugo server&rdquo;), you can do easily.</p>
+<p>I don&rsquo;t know exactly if it&rsquo;s a good idea, but if you want to see counters locally (running &ldquo;hugo server&rdquo;), you can do it easily.</p>
 <p>To avoid rendering of baseURL to localhost (even by absURL and so on), create a param (i.e.: &ldquo;remoteBaseURL&rdquo;) under site non-localized params in your config, setting it to baseURL value without trailing slash. In my case:</p>
 <pre><code>[params]
   remoteBaseURL = &quot;https://albumblog.github.io&quot;
@@ -273,10 +273,10 @@ function setCommentCounterText(a) {
 <ul>
 <li>goal: multilanguage support (✌);</li>
 <li>fault-tolerance: backup text if Disqus fails or JavaScript is disabled;</li>
-<li>flexibility/customization: you easily catch many other numbers, for example adding &ldquo;For zark, this post has many comments to answer to the Ultimate Question of Life, The Universe and Everything!&rdquo; when counter reaches 42 😍</li>
+<li>flexibility/customization: you easily catch many other numbers, for example adding &ldquo;For zark, this post has many comments to answer to the Ultimate Question of Life, The Universe and Everything!&rdquo; when the counter reaches 42 😍</li>
 </ul>
 <p>Well&hellip; the evaluation is acceptable, I think 🙂</p>
-<p>And now, let me know your thoughts increasing comment counter of this post! 😉</p>
+<p>And now, let me know your thoughts increasing the comment counter of this post! 😉</p>
 
       <p class="tracked">
           Output by <strong>Album</strong>
