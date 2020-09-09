@@ -62,7 +62,7 @@ function setCommentCounterText(a) {
 }
 
 function discourageText() {
-  badge = document.getElementById("GuideTribute");
+  badge = document.getElementById("guide-tribute");
   if (badgeClicked) {
     badge.style.visibility = "hidden";
   } else {
