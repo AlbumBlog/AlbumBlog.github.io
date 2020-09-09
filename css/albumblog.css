@@ -73,7 +73,6 @@
   vertical-align: baseline
 }
 
-//  visibility: hidden;
 #fastSearch { 
   position: absolute;
   right: 0px;
@@ -138,8 +137,20 @@ ul.socialList > li {
 }
 
 button#GuideTribute {
+  display: inline-block;
+  cursor: help;
   background-color: #f44336; // red
-  font-size: 42px;
-  border: 2px solid #4CAF50; // green
-  border-radius: 25%;
+  font-size: larger;
+  -webkit-font-size-adjust: none;
+  -moz-font-size-adjust: none;
+  text-align: center;
+  border: 12px solid #4CAF50; // green
+  -moz-border: 12px solid #4CAF50; // green
+  -webkit-border: 12px solid #4CAF50; // green
+  border-radius: 50%
+}
+
+button#GuideTribute:active {
+  cursor: crosshair;
+  color: #B1FB17 !important
 }
