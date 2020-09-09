@@ -156,5 +156,5 @@ button#guide-tribute {
 button#guide-tribute:focus {
   cursor: crosshair;
   background-color: white;
-  color: #B1FB17
+  color: green;
 }
