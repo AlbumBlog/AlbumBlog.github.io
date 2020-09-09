@@ -137,9 +137,10 @@ ul.socialList > li {
 }
 
 div.guide-badge {
+  overflow: hidden;
+  perspective: 1px;
+  border-collapse: separate;
   border: 12px solid #4CAF50; // green
-  -moz-border: 12px solid #4CAF50; // green
-  -webkit-border: 12px solid #4CAF50; // green
   border-radius: 50%;
   font-size: larger !important;
   -webkit-font-size-adjust: none;
@@ -150,7 +151,8 @@ button#guide-tribute {
   display: inline-block;
   cursor: help;
   background-color: red; // #f44336;
-  text-align: center
+  text-align: center;
+  text-decoration: none
 }
 
 button#guide-tribute:focus {
