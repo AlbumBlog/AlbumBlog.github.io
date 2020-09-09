@@ -136,3 +136,10 @@ ul.socialList > li {
 .bridge2me {
   fill: #BABABA;
 }
+
+button#GuideTribute {
+  background-color: #f44336; // red
+  font-size: 42px;
+  border: 2px solid #4CAF50; // green
+  border-radius: 25%;
+}

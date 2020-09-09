@@ -1,5 +1,6 @@
 // get <body> of page
 var body = document.getElementsByTagName("body")[0];
+var badgeClicked = false;
 
 // define the function to run after loading
 body.onload = (function() {
@@ -58,4 +59,15 @@ function setCommentCounterText(a) {
   }
   // set new <a> label
   a.textContent = text;
+}
+
+function discourageText() {
+  badge = document.getElementById("GuideTribute");
+  if (badgeClicked) {
+    badge.style.visibility = "hidden";
+  } else {
+    newText = badge.getAttribute("data-value");
+    badge.textContent = newText;
+    badgeClicked = true;
+  }
 }
