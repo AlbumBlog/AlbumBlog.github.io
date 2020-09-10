@@ -184,11 +184,12 @@ Vedi una cassetta delle lettere (che è chiusa).<br/>
   <div class="guide-badge">
     <button id="guide-tribute" onclick="discourageText()" data-value="SI PREGA DI NON PREMERE PIÙ QUESTO BOTTONE">Consulta la Guida</button>
   </div>
-  <div id="fastSearch">
-    <label for="searchInput">Cerca nel blog (sperimentale):</label>
-    <input type="search" id="searchInput" tabindex="0">
-    <ul id="searchResults">
-    </ul>
+  <div id="search-container">
+    <div id="fast-search">
+      <label for="search-input">Cerca nel blog (sperimentale):</label>
+      <input type="search" id="search-input" tabindex="0">
+      <ul id="search-results"></ul>
+    </div>
   </div>
   <script src="./js/fuse.min.js"></script> 
   <script src="./js/fastsearch.js"></script>

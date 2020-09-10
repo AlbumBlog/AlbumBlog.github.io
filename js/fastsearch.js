@@ -1,10 +1,10 @@
 // original credits to https://gist.github.com/cmod/5410eae147e4318164258742dd053993
 var fuse; // holds our search engine
 var firstRun = true; // allow us to delay loading json data unless search activated
-var list = document.getElementById('searchResults'); // targets the <ul>
+var list = document.getElementById("search-results"); // targets the <ul>
 var first = list.firstChild; // first child of search list
 var last = list.lastChild; // last child of search list
-var maininput = document.getElementById('searchInput'); // input box for search
+var maininput = document.getElementById("search-input"); // input box for search
 var resultsAvailable = false; // Did we get any search results?
 
 // replace original keyboard shortcut mechanism,
@@ -17,7 +17,7 @@ maininput.onfocus = function() {
 }
 
 // The main keyboard event listener running the show
-document.addEventListener('keydown', function(event) {
+document.addEventListener("keydown", function(event) {
   // DOWN (40) arrow
   if (event.keyCode == 40) {
     if (resultsAvailable) {
@@ -33,12 +33,11 @@ document.addEventListener('keydown', function(event) {
     if (resultsAvailable) {
       event.preventDefault(); // stop window from scrolling
       if (document.activeElement == maininput) { maininput.focus(); } // If we're in the input box, do nothing
-      else if ( document.activeElement == first) { maininput.focus(); } // If we're at the first item, go to input box
+      else if (document.activeElement == first) { maininput.focus(); } // If we're at the first item, go to input box
       else { document.activeElement.parentElement.previousSibling.firstElementChild.focus(); } // Otherwise, select the search result above the current active one
     }
   }
 });
-
 
 // execute search as each character is typed
 maininput.oninput = function(e) { 
@@ -56,14 +55,14 @@ function fetchJSONFile(path, callback) {
       }
     }
   };
-  httpRequest.open('GET', path);
-  httpRequest.send(); 
+  httpRequest.open("GET", path);
+  httpRequest.send();
 }
 
 // load our search index, only executed once
 // on first call of search box
 function loadSearch() { 
-  fetchJSONFile('/en/index.json', function(data){
+  fetchJSONFile("/en/index.json", function(data){
     var options = { // fuse.js options; check fuse.js website for details
       isCaseSensitive: false,
       shouldSort: true,
@@ -96,7 +95,7 @@ function executeSearch(term) {
     }
     resultsAvailable = true;
   }
-  document.getElementById("searchResults").innerHTML = searchitems;
+  list.innerHTML = searchitems;
   if (results.length > 0) {
     first = list.firstChild.firstElementChild; // first result container — used for checking against keyboard up/down location
     last = list.lastChild.firstElementChild; // last result container — used for checking against keyboard up/down location
