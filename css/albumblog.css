@@ -145,7 +145,7 @@ div.guide-badge {
   perspective: -25%;
   border-collapse: separate;
   border: 12px solid #4CAF50; // green
-  border-radius: 100%;
+  border-radius: 30px;
   font-size: larger !important;
   -webkit-font-size-adjust: none;
   -moz-font-size-adjust: none
@@ -159,7 +159,7 @@ button#guide-tribute {
   text-decoration: none;
   border-collapse: separate;
   border: 12px solid #4CAF50; // green
-  border-radius: 100%;
+  border-radius: 30px;
   font-size: larger !important;
   -webkit-font-size-adjust: none;
   -moz-font-size-adjust: none

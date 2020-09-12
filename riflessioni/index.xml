@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riflessioni &amp; depressioni su Album.blog()</title>
+    <link>https://albumblog.github.io/riflessioni/</link>
+    <description>Contenuti recenti in "Riflessioni &amp; depressioni" su Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 13:38:15</lastBuildDate><atom:link href="https://albumblog.github.io/riflessioni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post delle domande consuete</title>
+      <link>https://albumblog.github.io/riflessioni/domande-consuete/</link>
+      <pubDate>Fri, 11 Sep 2020 06:47:42</pubDate>
+      
+      <guid>https://albumblog.github.io/riflessioni/domande-consuete/</guid>
+      <description>&lt;p&gt;Ci vorrebbe un preambolo, ma non credo serva davvero. Minime osservazioni generali a partire da tre domande, che chiunque sia stato male - in una spirale di pensieri ossessivi o in una situazione percepita senza uscita - conosce probabilmente benissimo. E sì, il titolo è rubato a Guccini, ma &lt;a href=&#34;https://www.youtube.com/watch?v=borCx61paiE&#34; target=&#34;_blank&#34;&gt;la canzone&lt;/a&gt; è senz’altro più bella.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
