@@ -1,6 +1,6 @@
 // get <body> of page
 var body = document.getElementsByTagName("body")[0];
-var badgeClicked = false;
+var badgeButtonClicked = false;
 
 // define the function to run after loading
 body.onload = (function() {
@@ -62,12 +62,19 @@ function setCommentCounterText(a) {
 }
 
 function discourageText() {
-  badge = document.getElementById("guide-tribute");
-  if (badgeClicked) {
-    badge.style.visibility = "hidden";
+  button = document.getElementById("badge-button");
+  panel = document.getElementById("badge-panel");
+  if (badgeButtonClicked) {
+    button.style.visibility = "hidden";
+    panel.style.backgroundColor = "black";
+    panel.style.color = "black";
+    panel.textContent = "";
   } else {
-    newText = badge.getAttribute("data-value");
-    badge.textContent = newText;
-    badgeClicked = true;
+    newText = panel.getAttribute("data-value");
+    panel.textContent = newText;
+    panel.style.backgroundColor = "white";
+    panel.style.color = "green";
+    panel.setAttribute("role", "alert");
+    badgeButtonClicked = true;
   }
 }

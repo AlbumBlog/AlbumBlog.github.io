@@ -132,12 +132,15 @@ I&rsquo;m sorry, this is primarily an Italian blog. The only English pages/secti
 
   </article>
   <div class="guide-badge">
-    <button id="guide-tribute" onclick="discourageText()" data-value="PLEASE DO NOT PRESS THIS BUTTON AGAIN">Consult the Guide</button>
+    <div id="badge-panel" data-value="PLEASE DO NOT PRESS THIS BUTTON AGAIN"></div>
+    <div id="badge-button-container">
+      <button id="badge-button" onclick="discourageText()">42</button>
+    </div>
   </div>
   <div id="search-container">
     <div id="fast-search">
-      <label for="search-input">Blog search (experimental):</label>
-      <input type="search" id="search-input" tabindex="0">
+      <label id="search-label" for="search-input">Blog search (experimental):</label>
+      <input type="search" id="search-input" tabindex="0" aria-labelledby="search-label">
       <ul id="search-results"></ul>
     </div>
   </div>

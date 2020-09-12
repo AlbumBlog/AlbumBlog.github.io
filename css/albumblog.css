@@ -139,7 +139,15 @@ ul.socialList > li {
   fill: #BABABA;
 }
 
-div.guide-badge {
+div#badge-panel {
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  background-color: black;
+  color: black
+}
+
+div#badge-button-container {
   text-align: center;
   overflow: hidden;
   perspective: -25%;
@@ -151,22 +159,16 @@ div.guide-badge {
   -moz-font-size-adjust: none
 }
 
-button#guide-tribute {
+button#badge-button {
   display: inline-block;
-  cursor: help;
   background-color: red; // #f44336;
   text-align: center;
   text-decoration: none;
+  font-weight: bold;
   border-collapse: separate;
   border: 12px solid #4CAF50; // green
   border-radius: 30px;
   font-size: larger !important;
   -webkit-font-size-adjust: none;
   -moz-font-size-adjust: none
-}
-
-button#guide-tribute:focus {
-  cursor: crosshair;
-  background-color: white;
-  color: green;
 }

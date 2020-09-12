@@ -190,12 +190,15 @@ Vedi una cassetta delle lettere (che è chiusa).<br/>
 
   </article>
   <div class="guide-badge">
-    <button id="guide-tribute" onclick="discourageText()" data-value="SI PREGA DI NON PREMERE PIÙ QUESTO BOTTONE">Consulta la Guida</button>
+    <div id="badge-panel" data-value="SI PREGA DI NON PREMERE PIÙ QUESTO BOTTONE"></div>
+    <div id="badge-button-container">
+      <button id="badge-button" onclick="discourageText()">42</button>
+    </div>
   </div>
   <div id="search-container">
     <div id="fast-search">
-      <label for="search-input">Cerca nel blog (sperimentale):</label>
-      <input type="search" id="search-input" tabindex="0">
+      <label id="search-label" for="search-input">Cerca nel blog (sperimentale):</label>
+      <input type="search" id="search-input" tabindex="0" aria-labelledby="search-label">
       <ul id="search-results"></ul>
     </div>
   </div>
