@@ -135,11 +135,13 @@ ul.socialList > li {
   height: 36px
 }
 
-.bridge2me {
+.bridge2me, .whatsapp {
   fill: #BABABA;
 }
 
 div#badge-panel {
+  width: 10em;
+  height: 10em;
   border-style: solid;
   border-color: black;
   text-align: center;
@@ -159,7 +161,7 @@ div#badge-button-container {
   -moz-font-size-adjust: none
 }
 
-button#badge-button {
+button#badge-button, button#badge-button:focus {
   display: inline-block;
   background-color: red; // #f44336;
   text-align: center;
