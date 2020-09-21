@@ -140,37 +140,43 @@ ul.socialList > li {
 }
 
 div#badge-panel {
+  margin: auto;
   width: 10em;
   height: 10em;
   border-style: solid;
   border-color: black;
   text-align: center;
   background-color: black;
-  color: black
+  color: black;
+  font-family: consolas, monospace;
+  font-size: x-large
 }
 
 div#badge-button-container {
+  background: red;
+  border-style: solid;
+  border-color: green;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  color: black;
+  font-weight: bold;
+  font-size: xx-large;
   text-align: center;
-  overflow: hidden;
-  perspective: -25%;
-  border-collapse: separate;
-  border: 12px solid #4CAF50; // green
-  border-radius: 30px;
-  font-size: larger !important;
-  -webkit-font-size-adjust: none;
-  -moz-font-size-adjust: none
+  display: table
 }
 
 button#badge-button, button#badge-button:focus {
-  display: inline-block;
-  background-color: red; // #f44336;
-  text-align: center;
-  text-decoration: none;
+  display: table-cell;
+  vertical-align: middle;
+  margin-top: 50%;
+  background: red;
+  border-style: solid;
+  border-color: green;
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  color: black;
   font-weight: bold;
-  border-collapse: separate;
-  border: 12px solid #4CAF50; // green
-  border-radius: 30px;
-  font-size: larger !important;
-  -webkit-font-size-adjust: none;
-  -moz-font-size-adjust: none
+  text-align: center
 }
