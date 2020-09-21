@@ -153,15 +153,6 @@ div#badge-panel {
 }
 
 div#badge-button-container {
-  background: red;
-  border-style: solid;
-  border-color: green;
-  border-radius: 50%;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  color: black;
-  font-weight: bold;
-  font-size: xx-large;
   text-align: center;
   display: table
 }
@@ -178,5 +169,6 @@ button#badge-button, button#badge-button:focus {
   -webkit-border-radius: 50%;
   color: black;
   font-weight: bold;
+  font-size: xx-large;
   text-align: center
 }
