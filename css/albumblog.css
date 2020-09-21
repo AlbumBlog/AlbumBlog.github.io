@@ -161,6 +161,8 @@ button#badge-button, button#badge-button:focus {
   display: table-cell;
   vertical-align: middle;
   margin-top: 50%;
+  width: 55px;
+  height: 55px;
   background: red;
   border-style: solid;
   border-color: green;
