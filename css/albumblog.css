@@ -154,7 +154,8 @@ div#badge-panel {
 
 div#badge-button-container {
   text-align: center;
-  display: table
+  display: table;
+  margin: 0 auto
 }
 
 button#badge-button, button#badge-button:focus {
