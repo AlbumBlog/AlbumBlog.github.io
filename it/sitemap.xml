@@ -153,8 +153,15 @@
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/scritti/poesie/2018/10/16/sgomento-metaciclico/</loc>
+    <loc>https://albumblog.github.io/scritti/poesie/2019/05/09/mal-di-social/</loc>
     <lastmod>2020-09-25T13:57:34+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://albumblog.github.io/scritti/poesie/2018/10/16/sgomento-metaciclico/</loc>
+    <lastmod>2020-10-16T08:49:03+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
