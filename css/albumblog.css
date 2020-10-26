@@ -175,3 +175,7 @@ button#badge-button, button#badge-button:focus {
   font-size: xx-large;
   text-align: center
 }
+
+img.w100 {
+  height: 50%
+}
