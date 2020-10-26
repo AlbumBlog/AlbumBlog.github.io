@@ -176,6 +176,6 @@ button#badge-button, button#badge-button:focus {
   text-align: center
 }
 
-img.w100 {
-  height: 50%
+img.logo {
+  max-width: 10rem !important
 }
