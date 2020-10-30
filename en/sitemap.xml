@@ -3,94 +3,94 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</loc>
+    <loc>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</loc>
     <lastmod>2020-09-07T16:07:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/tags/jokes/</loc>
+    <loc>https://album.sh/en/tags/jokes/</loc>
     <lastmod>2020-10-29T17:15:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/tags/</loc>
+    <loc>https://album.sh/en/tags/</loc>
     <lastmod>2020-10-29T17:15:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://albumblog.github.io/tags/"
+                href="https://album.sh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albumblog.github.io/en/tags/"
+                href="https://album.sh/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/tags/virus/</loc>
+    <loc>https://album.sh/en/tags/virus/</loc>
     <lastmod>2020-10-29T17:15:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/tags/windows/</loc>
+    <loc>https://album.sh/en/tags/windows/</loc>
     <lastmod>2020-10-29T17:15:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</loc>
+    <loc>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</loc>
     <lastmod>2020-10-29T17:15:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/tech/</loc>
+    <loc>https://album.sh/en/tech/</loc>
     <lastmod>2020-08-26T19:21:39+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/</loc>
+    <loc>https://album.sh/en/</loc>
     <lastmod>2020-10-26T18:33:24+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://albumblog.github.io/"
+                href="https://album.sh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albumblog.github.io/en/"
+                href="https://album.sh/en/"
                 />
   </url>
   
   <url>
-    <loc>https://albumblog.github.io/en/categories/</loc>
+    <loc>https://album.sh/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://albumblog.github.io/categories/"
+                href="https://album.sh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://albumblog.github.io/en/categories/"
+                href="https://album.sh/en/categories/"
                 />
   </url>
   

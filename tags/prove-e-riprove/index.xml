@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags su Album.blog()</title>
-    <link>https://albumblog.github.io/tags/prove-e-riprove/</link>
+    <link>https://album.sh/tags/prove-e-riprove/</link>
     <description>Contenuti recenti in "Tags" su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 21:39:06</lastBuildDate><atom:link href="https://albumblog.github.io/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 13:43:41</lastBuildDate><atom:link href="https://album.sh/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trauma del giorno</title>
-      <link>https://albumblog.github.io/post/2020/09/24/trauma-del-giorno/</link>
+      <link>https://album.sh/post/2020/09/24/trauma-del-giorno/</link>
       <pubDate>Thu, 24 Sep 2020 17:49:42</pubDate>
       
-      <guid>https://albumblog.github.io/post/2020/09/24/trauma-del-giorno/</guid>
+      <guid>https://album.sh/post/2020/09/24/trauma-del-giorno/</guid>
       <description>&lt;p&gt;Intervistatore: “Abbiamo oggi con noi tre ospiti d’eccezione, per una nuova, emozionante puntata di «Trauma del giorno»! Ebbene, chi vuole iniziare?”&lt;/p&gt;
 &lt;p&gt;Album: “Io, grazie. M’ero svegliato da poco, stamane, e stavo recuperando una batteria del nuovo impianto, ancora imbustata, quando…”&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Il prezzo della lettura (no, non dei libri)</title>
-      <link>https://albumblog.github.io/libri/2020/09/22/il-prezzo-della-lettura/</link>
+      <link>https://album.sh/libri/2020/09/22/il-prezzo-della-lettura/</link>
       <pubDate>Tue, 22 Sep 2020 13:15:42</pubDate>
       
-      <guid>https://albumblog.github.io/libri/2020/09/22/il-prezzo-della-lettura/</guid>
+      <guid>https://album.sh/libri/2020/09/22/il-prezzo-della-lettura/</guid>
       <description>&lt;p&gt;Credo che a tutti, lettori forti o meno, sia capitato, almeno una volta, di immedesimarsi moltissimo in alcuni personaggi. Nella gioia, nel dolore, nella beatitudine di un innamoramento, nello spaesamento davanti a continui imprevisti, nella frenesia dell’azione…&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>La costruzione di un ricordo (no, non spezza le vene delle mani, ma non ci andiamo lontani)</title>
-      <link>https://albumblog.github.io/riflessioni/2020/09/16/la-costruzione-di-un-ricordo/</link>
+      <link>https://album.sh/riflessioni/2020/09/16/la-costruzione-di-un-ricordo/</link>
       <pubDate>Wed, 16 Sep 2020 10:50:42</pubDate>
       
-      <guid>https://albumblog.github.io/riflessioni/2020/09/16/la-costruzione-di-un-ricordo/</guid>
+      <guid>https://album.sh/riflessioni/2020/09/16/la-costruzione-di-un-ricordo/</guid>
       <description>&lt;p&gt;Stamani, appena alzato, sono uscito di camera e ho pensato: “nel mondo esterno c’è odore di caffè”.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Post delle domande consuete</title>
-      <link>https://albumblog.github.io/riflessioni/2020/09/11/post-delle-domande-consuete/</link>
+      <link>https://album.sh/riflessioni/2020/09/11/post-delle-domande-consuete/</link>
       <pubDate>Fri, 11 Sep 2020 06:47:42</pubDate>
       
-      <guid>https://albumblog.github.io/riflessioni/2020/09/11/post-delle-domande-consuete/</guid>
+      <guid>https://album.sh/riflessioni/2020/09/11/post-delle-domande-consuete/</guid>
       <description>&lt;p&gt;Ci vorrebbe un preambolo, ma non credo serva davvero. Minime osservazioni generali a partire da tre domande, che chiunque sia stato male - in una spirale di pensieri ossessivi o in una situazione percepita senza uscita - conosce probabilmente benissimo. E sì, il titolo è rubato a Guccini, ma &lt;a href=&#34;https://www.youtube.com/watch?v=borCx61paiE&#34; target=&#34;_blank&#34;&gt;la canzone&lt;/a&gt; è senz’altro più bella.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Seppellirà una risata mi (…invero bislacca, la notazione polacca…)</title>
-      <link>https://albumblog.github.io/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</link>
+      <link>https://album.sh/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</link>
       <pubDate>Sun, 06 Sep 2020 11:55:42</pubDate>
       
-      <guid>https://albumblog.github.io/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</guid>
+      <guid>https://album.sh/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</guid>
       <description>&lt;p&gt;E voi vi chiederete: perché oggi Album parla come uno Yoda ubriaco? E ancora, dopo Hitler e Woody Allen, non potremmo lasciare in pace la Polonia? E infine, questa cosa bislacca: cazz’è la notazione polacca?&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
-      <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
+      <link>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
-      <guid>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
+      <guid>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
       <description>&lt;p&gt;This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Windows: some considerations (a very old joke)</title>
-      <link>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>
+      <link>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</link>
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
-      <guid>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
+      <guid>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</guid>
       <description>&lt;p&gt;Poor Windows… with 10 has become a quite stable system, but its reputation remains unchanged, at least since &lt;a href=&#34;https://www.youtube.com/watch?v=IW7Rqwwth84&#34;&gt;the infamous BSOD during Windows 98 presentation&lt;/a&gt; (another very old, organized joke, indeed).&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Michael Ende - La storia infinita (non-recensione con spoiler)</title>
-      <link>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
+      <link>https://album.sh/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
       <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
       
-      <guid>https://albumblog.github.io/libri/2020/08/19/michael-ende-la-storia-infinita/</guid>
+      <guid>https://album.sh/libri/2020/08/19/michael-ende-la-storia-infinita/</guid>
       <description>Il libro, voglio sperare, non ha bisogno di presentazioni. Con la celebrazione, nel 2019, del quarantennale dalla prima pubblicazione tedesca, è oltretutto uscita - finalmente!</description>
     </item>
     
     <item>
       <title>Tipi di tè</title>
-      <link>https://albumblog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
+      <link>https://album.sh/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
       <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
       
-      <guid>https://albumblog.github.io/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
+      <guid>https://album.sh/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</guid>
       <description>…gentlemen at work…</description>
     </item>
     
     <item>
       <title>Test di post</title>
-      <link>https://albumblog.github.io/post/2020/07/23/test-di-post/</link>
+      <link>https://album.sh/post/2020/07/23/test-di-post/</link>
       <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
       
-      <guid>https://albumblog.github.io/post/2020/07/23/test-di-post/</guid>
+      <guid>https://album.sh/post/2020/07/23/test-di-post/</guid>
       <description>“Oggi dev’essere giovedì. Non son mai riuscito a capirli, i giovedì.” (cit.)</description>
     </item>
     
     <item>
       <title>Un fatto nebuloso e inammissibile</title>
-      <link>https://albumblog.github.io/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</link>
+      <link>https://album.sh/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</link>
       <pubDate>Sat, 09 May 2020 21:37:42</pubDate>
       
-      <guid>https://albumblog.github.io/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</guid>
+      <guid>https://album.sh/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</guid>
       <description>&lt;p&gt;Arriva, a volte, un momento in cui il malessere prevale su tutto, e la solitudine, percepita o effettiva, diventa intollerabile.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Timespam machine (love delivery failed, n. 2)</title>
-      <link>https://albumblog.github.io/post/2020/02/05/timespam-machine/</link>
+      <link>https://album.sh/post/2020/02/05/timespam-machine/</link>
       <pubDate>Wed, 05 Feb 2020 19:08:42</pubDate>
       
-      <guid>https://albumblog.github.io/post/2020/02/05/timespam-machine/</guid>
+      <guid>https://album.sh/post/2020/02/05/timespam-machine/</guid>
       <description>&lt;p&gt;Cara Olivia,&lt;/p&gt;
 &lt;p&gt;è con autentico dolore che rinvengo, alfine, questa tua. Nello spam.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Ci ritroveremo, sì, io credo (poesia seria n. 2)</title>
-      <link>https://albumblog.github.io/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</link>
+      <link>https://album.sh/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</link>
       <pubDate>Sun, 12 Jan 2020 09:09:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</guid>
+      <guid>https://album.sh/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</guid>
       <description>&lt;p&gt;Ci ritroveremo, sì, io credo,&lt;/p&gt;
 &lt;p&gt;ad una bancarella di libri inediti,&lt;/p&gt;
 &lt;p&gt;all’angolo fra quella via e un prato blu,&lt;/p&gt;</description>
@@ -131,10 +131,10 @@
     
     <item>
       <title>Mal di social</title>
-      <link>https://albumblog.github.io/scritti/poesie/2019/05/09/mal-di-social/</link>
+      <link>https://album.sh/scritti/poesie/2019/05/09/mal-di-social/</link>
       <pubDate>Thu, 09 May 2019 12:44:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2019/05/09/mal-di-social/</guid>
+      <guid>https://album.sh/scritti/poesie/2019/05/09/mal-di-social/</guid>
       <description>&lt;p&gt;E&#39; autunno su Twitter,&lt;/p&gt;
 &lt;p&gt;mesto tace Messenger;&lt;/p&gt;
 &lt;p&gt;io per Facebook vagolo,&lt;/p&gt;</description>
@@ -142,10 +142,10 @@
     
     <item>
       <title>Sgomento metaciclico</title>
-      <link>https://albumblog.github.io/scritti/poesie/2018/10/16/sgomento-metaciclico/</link>
+      <link>https://album.sh/scritti/poesie/2018/10/16/sgomento-metaciclico/</link>
       <pubDate>Tue, 16 Oct 2018 11:18:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2018/10/16/sgomento-metaciclico/</guid>
+      <guid>https://album.sh/scritti/poesie/2018/10/16/sgomento-metaciclico/</guid>
       <description>&lt;p&gt;Una sottile inquietudine io provo,&lt;/p&gt;
 &lt;p&gt;allorché, seduto al computer,&lt;/p&gt;
 &lt;p&gt;questo gira, e macina, e lavora…&lt;/p&gt;</description>
@@ -153,10 +153,10 @@
     
     <item>
       <title>Metametrica</title>
-      <link>https://albumblog.github.io/scritti/poesie/2016/08/28/metametrica/</link>
+      <link>https://album.sh/scritti/poesie/2016/08/28/metametrica/</link>
       <pubDate>Sun, 28 Aug 2016 12:03:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2016/08/28/metametrica/</guid>
+      <guid>https://album.sh/scritti/poesie/2016/08/28/metametrica/</guid>
       <description>&lt;p&gt;La rima in “osa”&lt;/p&gt;
 &lt;p&gt;si crede molto spiritosa,&lt;/p&gt;
 &lt;p&gt;a tratti pure coraggiosa,&lt;/p&gt;</description>
@@ -164,20 +164,20 @@
     
     <item>
       <title>Divagazioni sul filo (o delle metarealtà letterarie)</title>
-      <link>https://albumblog.github.io/libri/2016/06/13/divagazioni-sul-filo/</link>
+      <link>https://album.sh/libri/2016/06/13/divagazioni-sul-filo/</link>
       <pubDate>Mon, 13 Jun 2016 22:34:42</pubDate>
       
-      <guid>https://albumblog.github.io/libri/2016/06/13/divagazioni-sul-filo/</guid>
+      <guid>https://album.sh/libri/2016/06/13/divagazioni-sul-filo/</guid>
       <description>&lt;p&gt;Qualche giorno fa ho finito di leggere &lt;a href=&#34;https://www.amazon.it/Laltro-capo-filo-commissario-Montalbano-ebook/dp/B01FFT19XW/&#34; target=&#34;_blank&#34;&gt;“L&#39;altro capo del filo”&lt;/a&gt;, di Camilleri, l’ultimo uscito con protagonista Montalbano.&lt;/p&gt;
 &lt;p&gt;Tralasciando quel che si trova nella nota finale, che ho inavvertitamente visto prima della lettura, e che un po&#39; si avverte nel romanzo, sia in un dialogo sia in un dettaglio “sospetto”, c’è stata una cosa che mi ha fatto divagare un po&#39;.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Nascono e sfumano, nel dormiveglia, parole… (poesia seria n. 1)</title>
-      <link>https://albumblog.github.io/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</link>
+      <link>https://album.sh/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</link>
       <pubDate>Thu, 27 Aug 2015 08:45:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</guid>
+      <guid>https://album.sh/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</guid>
       <description>&lt;p&gt;Se da me accetterai,&lt;/p&gt;
 &lt;p&gt;in dote, a corredo,&lt;/p&gt;
 &lt;p&gt;nei ricordi, in eredità,&lt;/p&gt;</description>
@@ -185,28 +185,28 @@
     
     <item>
       <title>Metaspam (love delivery failed, n. 1)</title>
-      <link>https://albumblog.github.io/post/2015/07/16/metaspam/</link>
+      <link>https://album.sh/post/2015/07/16/metaspam/</link>
       <pubDate>Thu, 16 Jul 2015 13:04:42</pubDate>
       
-      <guid>https://albumblog.github.io/post/2015/07/16/metaspam/</guid>
+      <guid>https://album.sh/post/2015/07/16/metaspam/</guid>
       <description>&lt;p&gt;Fermi tutti. Credo di essermi innamorato.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Confessioni di riflesso (racconto n. 3)</title>
-      <link>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
+      <link>https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
       <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/racconti/2015/06/01/confessioni-di-riflesso/</guid>
+      <guid>https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/</guid>
       <description>Specchio! Mi sa che questa volta l’ho fatta grossa. Quando tornano mamma e papà… quante volte mi hanno detto che non devo mai aprire quando non c’è nessuno!</description>
     </item>
     
     <item>
       <title>Terry Pratchett - Il tristo mietitore</title>
-      <link>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
+      <link>https://album.sh/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
       <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
       
-      <guid>https://albumblog.github.io/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</guid>
+      <guid>https://album.sh/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</guid>
       <description>&lt;p&gt;“Lungo le pareti sono allineati dei segnatempo. Non clessidre, anche se ne hanno la forma. […] Non c’è nemmeno della sabbia dentro. Ci sono dei secondi, che trasformano incessantemente il forse nell’è stato.&lt;/p&gt;
 &lt;p&gt;Ogni segnatempo ha un nome sopra.&lt;/p&gt;
 &lt;p&gt;E la stanza è piena del flebile fruscio delle persone che vivono.&lt;/p&gt;
@@ -215,20 +215,20 @@
     
     <item>
       <title>Italo Calvino - Le città invisibili</title>
-      <link>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
+      <link>https://album.sh/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
       <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
       
-      <guid>https://albumblog.github.io/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
+      <guid>https://album.sh/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</guid>
       <description>&lt;p&gt;Avevo letto vari libri di Calvino, anni fa, inclusi i particolarissimi “Se una notte d’inverno un viaggiatore”, fatto di continui inizi, e “Il castello dei destini incrociati”, costruito invece giocando (letteralmente) coi tarocchi.&lt;/p&gt;
 &lt;p&gt;Eppure, come dovevo aspettarmi, “Le città invisibili” è qualcosa di ancora più strano e diverso.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Inno al nuovo giorno</title>
-      <link>https://albumblog.github.io/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</link>
+      <link>https://album.sh/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</link>
       <pubDate>Thu, 09 Oct 2014 09:49:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</guid>
+      <guid>https://album.sh/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</guid>
       <description>&lt;p&gt;Ogni mattina mi sveglio,&lt;/p&gt;
 &lt;p&gt;con in testa un cespuglio,&lt;/p&gt;
 &lt;p&gt;e creo una nuova sinfonia…&lt;/p&gt;</description>
@@ -236,19 +236,19 @@
     
     <item>
       <title>Il drago che sposò la principessa (racconto n. 2)</title>
-      <link>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</link>
+      <link>https://album.sh/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</link>
       <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</guid>
+      <guid>https://album.sh/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</guid>
       <description>&lt;p&gt;C’era una volta… DIO! Come odiava questo inizio! Lui, Morimero De Pascali lettore di favole di professione, era annoiato di sorbirsi sempre quella frase malefica. No, perché poi lo sapeva come andava a finire. E le principesse sdolcinate, e i draghi che venivano uccisi dal fiero cavaliere (insomma! Poveri draghi!). Non capiva proprio perché i bambini non potessero apprezzare chessò, una principessa che se ne va al concerto degli Arcade Fire o un “fiero condottiero” che, invece della scomoda e pesante armatura, vestisse un bell’abito di D&amp;G. Poi vacci a sconfiggere un drago con un abito che ti è costato un occhio della testa! Insomma, Morimero De Pascali lettore di favole di professione, era stufo e arcistufo. E proprio quel giorno, circondato da tanta stufaggine, decise che avrebbe cambiato il corso della storia. Prese in mano un quaderno e una penna e…&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Tempi morti (versi di disappunto studiando Reti)</title>
-      <link>https://albumblog.github.io/scritti/poesie/2014/09/07/tempi-morti/</link>
+      <link>https://album.sh/scritti/poesie/2014/09/07/tempi-morti/</link>
       <pubDate>Sun, 07 Sep 2014 22:22:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2014/09/07/tempi-morti/</guid>
+      <guid>https://album.sh/scritti/poesie/2014/09/07/tempi-morti/</guid>
       <description>&lt;p&gt;Spesso il male di Internet ho incontrato:&lt;/p&gt;
 &lt;p&gt;era il downstream strozzato che gorgoglia,&lt;/p&gt;
 &lt;p&gt;era l’incartocciarsi del valore soglia&lt;/p&gt;
@@ -257,10 +257,10 @@
     
     <item>
       <title>Sulla caducità della concentrazione (🦋)</title>
-      <link>https://albumblog.github.io/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</link>
+      <link>https://album.sh/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</link>
       <pubDate>Tue, 30 Oct 2012 19:38:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</guid>
+      <guid>https://album.sh/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</guid>
       <description>&lt;p&gt;Ognuno studia da solo nel cuor del meriggio&lt;/p&gt;
 &lt;p&gt;afflitto da una botta di sonno:&lt;/p&gt;
 &lt;p&gt;ed è subito sera.&lt;/p&gt;</description>
@@ -268,19 +268,19 @@
     
     <item>
       <title>L&#39;ombra dell&#39;anello (racconto n. 1)</title>
-      <link>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</link>
+      <link>https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/</link>
       <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/racconti/2012/01/14/lombra-dellanello/</guid>
+      <guid>https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/</guid>
       <description>Riuscì a trattenersi finché l’altro non se ne fu andato, a testa bassa, come il cane che era.</description>
     </item>
     
     <item>
       <title>Inferno (tech version)</title>
-      <link>https://albumblog.github.io/scritti/poesie/2012/01/02/inferno-tech-version/</link>
+      <link>https://album.sh/scritti/poesie/2012/01/02/inferno-tech-version/</link>
       <pubDate>Mon, 02 Jan 2012 23:25:42</pubDate>
       
-      <guid>https://albumblog.github.io/scritti/poesie/2012/01/02/inferno-tech-version/</guid>
+      <guid>https://album.sh/scritti/poesie/2012/01/02/inferno-tech-version/</guid>
       <description>&lt;p&gt;Nel mezzo del camin di nostra vita,&lt;/p&gt;
 &lt;p&gt;mi ritrovai per una selva oscura,&lt;/p&gt;
 &lt;p&gt;ché la diritta via era smarrita.&lt;/p&gt;</description>

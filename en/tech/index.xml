@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech stuff on Album.blog()</title>
-    <link>https://albumblog.github.io/en/tech/</link>
+    <link>https://album.sh/en/tech/</link>
     <description>Recent contents in "Tech stuff" on Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 21:39:06</lastBuildDate><atom:link href="https://albumblog.github.io/en/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 13:43:41</lastBuildDate><atom:link href="https://album.sh/en/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
-      <link>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
+      <link>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
-      <guid>https://albumblog.github.io/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
+      <guid>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
       <description>This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.</description>
     </item>
     
     <item>
       <title>Windows: some considerations (a very old joke)</title>
-      <link>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</link>
+      <link>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</link>
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
-      <guid>https://albumblog.github.io/en/tech/2020/08/25/windows-some-considerations/</guid>
+      <guid>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</guid>
       <description>Poor Windows… with 10 has become a quite stable system, but its reputation remains unchanged, at least since the infamous BSOD during Windows 98 presentation (another very old, organized joke, indeed).</description>
     </item>
     

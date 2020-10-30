@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Album.blog()</title>
-    <link>https://albumblog.github.io/bridge2me/</link>
+    <link>https://album.sh/bridge2me/</link>
     <description>Contenuti recenti su Album.blog()</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 21:39:06</lastBuildDate><atom:link href="https://albumblog.github.io/bridge2me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Oct 2020 13:43:41</lastBuildDate><atom:link href="https://album.sh/bridge2me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chi sono (dove alla mia neonata  carriera di blogger servì farsi coraggio)</title>
-      <link>https://albumblog.github.io/whoami/</link>
+      <link>https://album.sh/whoami/</link>
       <pubDate>Sat, 01 Aug 2020 19:29:42</pubDate>
       
-      <guid>https://albumblog.github.io/whoami/</guid>
+      <guid>https://album.sh/whoami/</guid>
       <description>$ whoami
 Uh, io? 42! No? Hem, allora, io, io… io sono un elaboratore HAL9000…</description>
     </item>
     
     <item>
       <title>Come contattarmi</title>
-      <link>https://albumblog.github.io/bridge2me/</link>
+      <link>https://album.sh/bridge2me/</link>
       <pubDate>Mon, 24 Aug 2020 03:08:42</pubDate>
       
-      <guid>https://albumblog.github.io/bridge2me/</guid>
+      <guid>https://album.sh/bridge2me/</guid>
       <description>Se, per motivi a me imperscrutabili, volessi scrivermi direttamente… ecco alcuni metodi possibili:
  via mail; via Messenger; tramite un commento, più sotto in questa pagina… sarai ricontattato in qualche modo, promesso!</description>
     </item>
