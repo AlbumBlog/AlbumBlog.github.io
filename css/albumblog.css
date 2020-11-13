@@ -1,3 +1,18 @@
+.rth {
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-right: 1em;
+  font-family: consolas, monospace;
+  font-size: 500% !important;
+  -webkit-font-size-adjust: none;
+  -moz-font-size-adjust: none;
+  -khtml-font-size-adjust: none;
+  -ms-font-size-adjust: none;
+  background-color: black;
+  color: #B1FB17
+}
+
 .retroterminal {
   padding-left: 1em;
   padding-top: 1em;
