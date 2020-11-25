@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 16 Nov 2020 17:07:23</lastBuildDate><atom:link href="https://album.sh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 15:54:34</lastBuildDate><atom:link href="https://album.sh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trauma del giorno</title>
       <link>https://album.sh/post/2020/09/24/trauma-del-giorno/</link>
@@ -128,6 +128,15 @@
     </item>
     
     <item>
+      <title>Consigli (perché a volte serve un libro, o forse no)</title>
+      <link>https://album.sh/libri/2020/04/19/consigli/</link>
+      <pubDate>Sun, 19 Apr 2020 21:03:42</pubDate>
+      
+      <guid>https://album.sh/libri/2020/04/19/consigli/</guid>
+      <description>Mi consigliate un libro dalla prosa frizzante, che rinfranchi lo spirito e che, una volta finito, lasci per un po&#39; una sensazione di straniamento da tutto?</description>
+    </item>
+    
+    <item>
       <title>Giù nel cabinet</title>
       <link>https://album.sh/riflessioni/2020/02/17/gi%C3%B9-nel-cabinet/</link>
       <pubDate>Mon, 17 Feb 2020 10:39:42</pubDate>
@@ -167,6 +176,15 @@
     </item>
     
     <item>
+      <title>Interruttori</title>
+      <link>https://album.sh/riflessioni/2019/11/24/interruttori/</link>
+      <pubDate>Sun, 24 Nov 2019 23:52:42</pubDate>
+      
+      <guid>https://album.sh/riflessioni/2019/11/24/interruttori/</guid>
+      <description>Non si dovrebbe mai essere (o sentirsi) così soli e stanchi da non avere nessuna, nessuna voglia di andare a letto.</description>
+    </item>
+    
+    <item>
       <title>Mal di social</title>
       <link>https://album.sh/scritti/poesie/2019/05/09/mal-di-social/</link>
       <pubDate>Thu, 09 May 2019 12:44:42</pubDate>
@@ -175,6 +193,26 @@
       <description>&lt;p&gt;E&#39; autunno su Twitter,&lt;/p&gt;
 &lt;p&gt;mesto tace Messenger;&lt;/p&gt;
 &lt;p&gt;io per Facebook vagolo,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contromisure antinfuenzali (no pasaran!)</title>
+      <link>https://album.sh/post/2018/11/25/contromisure-antinfuenzali/</link>
+      <pubDate>Sun, 25 Nov 2018 12:05:42</pubDate>
+      
+      <guid>https://album.sh/post/2018/11/25/contromisure-antinfuenzali/</guid>
+      <description>&lt;p&gt;Il babbo ha deciso di fare una torta di mele.&lt;/p&gt;
+&lt;p&gt;Ier sera a mezzanotte.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dolci indizi (o testimonianze in briciole)</title>
+      <link>https://album.sh/post/2018/11/14/dolci-indizi/</link>
+      <pubDate>Wed, 14 Nov 2018 11:22:42</pubDate>
+      
+      <guid>https://album.sh/post/2018/11/14/dolci-indizi/</guid>
+      <description>&lt;p&gt;Il babbo ha deciso di fare una torta di mele.&lt;/p&gt;
+&lt;p&gt;Ier sera a mezzanotte.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -195,6 +233,36 @@
       
       <guid>https://album.sh/riflessioni/2018/09/14/sopravvivenza/</guid>
       <description>&lt;p&gt;Pilastri occasionali ma fondamentali della sopravvivenza sono, fra gli altri, avere fiducia nel potere della parola (o mancare della percezione precisa, tagliente, della banalità o futilità delle proprie), e credere di poter fare una qualche differenza, per qualcuno o qualcosa.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Neuroni in fuga (studiando Informatica Teorica)</title>
+      <link>https://album.sh/scritti/poesie/2018/01/09/neuroni-in-fuga/</link>
+      <pubDate>Tue, 09 Jan 2018 17:26:42</pubDate>
+      
+      <guid>https://album.sh/scritti/poesie/2018/01/09/neuroni-in-fuga/</guid>
+      <description>&lt;p&gt;…e sento il rumore dei neuroni che se ne vanno&lt;/p&gt;
+&lt;p&gt;a sguazzare coi dendriti su una riva caraibica.&lt;/p&gt;
+&lt;p&gt;Nulla da decidere, nessuna complessità,&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Notevoli questioni marginali di stile</title>
+      <link>https://album.sh/libri/2017/09/21/notevoli-questioni-marginali-di-stile/</link>
+      <pubDate>Thu, 21 Sep 2017 12:05:42</pubDate>
+      
+      <guid>https://album.sh/libri/2017/09/21/notevoli-questioni-marginali-di-stile/</guid>
+      <description>&lt;p&gt;“Imperciocchè, essendo cosa evidente, e da verun negata non essere i nomi se non puri purissimi accidenti…”&lt;/p&gt;
+&lt;p&gt;(Alessandro Manzoni, - I promessi sposi)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ricordo, e non mi sovviene… (o dei caotici mondi della memoria)</title>
+      <link>https://album.sh/libri/2016/11/06/ricordo-e-non-mi-sovviene/</link>
+      <pubDate>Sun, 06 Nov 2016 11:26:42</pubDate>
+      
+      <guid>https://album.sh/libri/2016/11/06/ricordo-e-non-mi-sovviene/</guid>
+      <description>Fra gli otto Mondi Alterei di una mappa nootica - fra i mari di Poseidon, solcati dai pirati, e Protoplas, popolato dai maldestri tentativi di Ermete Trismegisto di dar corso alla Creazione su istruzioni del Supremo Manovratore… fra questi, dicevamo, c’è anche Mnemonia.</description>
     </item>
     
     <item>
@@ -260,6 +328,17 @@
     </item>
     
     <item>
+      <title>Risveglio</title>
+      <link>https://album.sh/scritti/poesie/2015/03/16/risveglio/</link>
+      <pubDate>Mon, 16 Mar 2015 08:23:42</pubDate>
+      
+      <guid>https://album.sh/scritti/poesie/2015/03/16/risveglio/</guid>
+      <description>&lt;p&gt;A volte è un dormedì,&lt;/p&gt;
+&lt;p&gt;a volte un anagramma,&lt;/p&gt;
+&lt;p&gt;a volte non si sa, ed è meglio così.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Italo Calvino - Le città invisibili</title>
       <link>https://album.sh/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
       <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
@@ -310,6 +389,17 @@
       <description>&lt;p&gt;Ognuno studia da solo nel cuor del meriggio&lt;/p&gt;
 &lt;p&gt;afflitto da una botta di sonno:&lt;/p&gt;
 &lt;p&gt;ed è subito sera.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Il passero accaldato (e che Leopardi mi perdoni)</title>
+      <link>https://album.sh/scritti/poesie/2012/06/19/il-passero-accaldato/</link>
+      <pubDate>Tue, 19 Jun 2012 23:08:42</pubDate>
+      
+      <guid>https://album.sh/scritti/poesie/2012/06/19/il-passero-accaldato/</guid>
+      <description>&lt;p&gt;Del dì presente più caldo e afoso,&lt;/p&gt;
+&lt;p&gt;che parrà di tal spiaggia?&lt;/p&gt;
+&lt;p&gt;Che di quest’esami miei? Che di me stesso?&lt;/p&gt;</description>
     </item>
     
     <item>
