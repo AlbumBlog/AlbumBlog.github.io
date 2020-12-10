@@ -7,9 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 17:28:58</lastBuildDate><atom:link href="https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 18:12:35</lastBuildDate><atom:link href="https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Confessioni di riflesso (racconto n. 3)</title>
+      <category>Racconti (o qualcosa di completamente diverso)</category>
       <link>https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
       <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
       
@@ -19,6 +20,7 @@
     
     <item>
       <title>Il drago che sposò la principessa (racconto n. 2)</title>
+      <category>Racconti (o qualcosa di completamente diverso)</category>
       <link>https://album.sh/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</link>
       <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
       
@@ -28,6 +30,7 @@
     
     <item>
       <title>L&#39;ombra dell&#39;anello (racconto n. 1)</title>
+      <category>Racconti (o qualcosa di completamente diverso)</category>
       <link>https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/</link>
       <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
       

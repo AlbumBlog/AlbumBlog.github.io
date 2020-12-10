@@ -7,9 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 17:28:58</lastBuildDate><atom:link href="https://album.sh/post/2020/12/03/test-di-post-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 18:12:35</lastBuildDate><atom:link href="https://album.sh/post/2020/12/03/test-di-post-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La famosa invasione delle talpe in Sant&#39;Elena (novità, aggiornamenti, varie ed eventuali)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/12/07/la-famosa-invasione-delle-talpe-in-santelena/</link>
       <pubDate>Mon, 07 Dec 2020 17:17:42</pubDate>
       
@@ -20,6 +21,7 @@
     
     <item>
       <title>Test di post 2 (prove di ripresa)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/12/03/test-di-post-2/</link>
       <pubDate>Thu, 03 Dec 2020 22:12:42</pubDate>
       
@@ -29,6 +31,7 @@
     
     <item>
       <title>Trauma del giorno</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/09/24/trauma-del-giorno/</link>
       <pubDate>Thu, 24 Sep 2020 17:49:42</pubDate>
       
@@ -39,6 +42,7 @@
     
     <item>
       <title>Seppellirà una risata mi (…invero bislacca, la notazione polacca…)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</link>
       <pubDate>Sun, 06 Sep 2020 11:55:42</pubDate>
       
@@ -48,6 +52,7 @@
     
     <item>
       <title>Test di post</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/07/23/test-di-post/</link>
       <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
       
@@ -57,6 +62,7 @@
     
     <item>
       <title>Timespam machine (love delivery failed, n. 2)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/02/05/timespam-machine/</link>
       <pubDate>Wed, 05 Feb 2020 19:08:42</pubDate>
       
@@ -67,6 +73,7 @@
     
     <item>
       <title>Contromisure antinfuenzali (no pasaran!)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2018/11/25/contromisure-antinfuenzali/</link>
       <pubDate>Sun, 25 Nov 2018 12:05:42</pubDate>
       
@@ -77,6 +84,7 @@
     
     <item>
       <title>Dolci indizi (o testimonianze in briciole)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2018/11/14/dolci-indizi/</link>
       <pubDate>Wed, 14 Nov 2018 11:22:42</pubDate>
       
@@ -87,6 +95,7 @@
     
     <item>
       <title>Metaspam (love delivery failed, n. 1)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2015/07/16/metaspam/</link>
       <pubDate>Thu, 16 Jul 2015 13:04:42</pubDate>
       

@@ -7,9 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 17:28:58</lastBuildDate><atom:link href="https://album.sh/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 18:12:35</lastBuildDate><atom:link href="https://album.sh/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La famosa invasione delle talpe in Sant&#39;Elena (novità, aggiornamenti, varie ed eventuali)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/12/07/la-famosa-invasione-delle-talpe-in-santelena/</link>
       <pubDate>Mon, 07 Dec 2020 17:17:42</pubDate>
       
@@ -20,6 +21,7 @@
     
     <item>
       <title>Test di post 2 (prove di ripresa)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/12/03/test-di-post-2/</link>
       <pubDate>Thu, 03 Dec 2020 22:12:42</pubDate>
       
@@ -29,6 +31,7 @@
     
     <item>
       <title>Metaopere</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/11/27/metaopere/</link>
       <pubDate>Fri, 27 Nov 2020 21:21:42</pubDate>
       
@@ -38,6 +41,7 @@
     
     <item>
       <title>Cosa manca</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/11/26/cosa-manca/</link>
       <pubDate>Thu, 26 Nov 2020 14:33:42</pubDate>
       
@@ -48,6 +52,7 @@
     
     <item>
       <title>Trauma del giorno</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/09/24/trauma-del-giorno/</link>
       <pubDate>Thu, 24 Sep 2020 17:49:42</pubDate>
       
@@ -58,6 +63,7 @@
     
     <item>
       <title>Il prezzo della lettura (no, non dei libri)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/09/22/il-prezzo-della-lettura/</link>
       <pubDate>Tue, 22 Sep 2020 13:15:42</pubDate>
       
@@ -67,6 +73,7 @@
     
     <item>
       <title>La costruzione di un ricordo (no, non spezza le vene delle mani, ma non ci andiamo lontani)</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/09/16/la-costruzione-di-un-ricordo/</link>
       <pubDate>Wed, 16 Sep 2020 10:50:42</pubDate>
       
@@ -76,6 +83,7 @@
     
     <item>
       <title>Post delle domande consuete</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/09/11/post-delle-domande-consuete/</link>
       <pubDate>Fri, 11 Sep 2020 06:47:42</pubDate>
       
@@ -85,6 +93,7 @@
     
     <item>
       <title>Seppellirà una risata mi (…invero bislacca, la notazione polacca…)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</link>
       <pubDate>Sun, 06 Sep 2020 11:55:42</pubDate>
       
@@ -94,6 +103,7 @@
     
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
+      <category>Tech stuff</category>
       <link>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
@@ -103,6 +113,7 @@
     
     <item>
       <title>Windows: some considerations (a very old joke)</title>
+      <category>Tech stuff</category>
       <link>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</link>
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
@@ -112,6 +123,7 @@
     
     <item>
       <title>Michael Ende - La storia infinita (non-recensione con spoiler)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
       <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
       
@@ -121,6 +133,7 @@
     
     <item>
       <title>Tipi di tè</title>
+      <category>Tè, infusi e dintorni</category>
       <link>https://album.sh/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</link>
       <pubDate>Thu, 30 Jul 2020 17:05:42</pubDate>
       
@@ -130,6 +143,7 @@
     
     <item>
       <title>Test di post</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/07/23/test-di-post/</link>
       <pubDate>Thu, 23 Jul 2020 12:33:42</pubDate>
       
@@ -139,6 +153,7 @@
     
     <item>
       <title>Basterebbe</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/07/11/basterebbe/</link>
       <pubDate>Sat, 11 Jul 2020 22:16:42</pubDate>
       
@@ -148,6 +163,7 @@
     
     <item>
       <title>Fine settimana (con la rincorsa)</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/07/10/fine-settimana/</link>
       <pubDate>Fri, 10 Jul 2020 11:11:42</pubDate>
       
@@ -158,6 +174,7 @@
     
     <item>
       <title>Un fatto nebuloso e inammissibile</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</link>
       <pubDate>Sat, 09 May 2020 21:37:42</pubDate>
       
@@ -167,6 +184,7 @@
     
     <item>
       <title>Consigli (perché a volte serve un libro, o forse no)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/04/19/consigli/</link>
       <pubDate>Sun, 19 Apr 2020 21:03:42</pubDate>
       
@@ -176,6 +194,7 @@
     
     <item>
       <title>Giù nel cabinet</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/02/17/gi%C3%B9-nel-cabinet/</link>
       <pubDate>Mon, 17 Feb 2020 10:39:42</pubDate>
       
@@ -185,6 +204,7 @@
     
     <item>
       <title>Timespam machine (love delivery failed, n. 2)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2020/02/05/timespam-machine/</link>
       <pubDate>Wed, 05 Feb 2020 19:08:42</pubDate>
       
@@ -195,6 +215,7 @@
     
     <item>
       <title>Ci ritroveremo, sì, io credo (poesia seria n. 2)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</link>
       <pubDate>Sun, 12 Jan 2020 09:09:42</pubDate>
       
@@ -206,6 +227,7 @@
     
     <item>
       <title>Premesse</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2020/01/07/premesse/</link>
       <pubDate>Tue, 07 Jan 2020 22:55:42</pubDate>
       
@@ -215,6 +237,7 @@
     
     <item>
       <title>Interruttori</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2019/11/24/interruttori/</link>
       <pubDate>Sun, 24 Nov 2019 23:52:42</pubDate>
       
@@ -225,6 +248,7 @@
     
     <item>
       <title>Mal di social</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2019/05/09/mal-di-social/</link>
       <pubDate>Thu, 09 May 2019 12:44:42</pubDate>
       
@@ -236,6 +260,7 @@
     
     <item>
       <title>Contromisure antinfuenzali (no pasaran!)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2018/11/25/contromisure-antinfuenzali/</link>
       <pubDate>Sun, 25 Nov 2018 12:05:42</pubDate>
       
@@ -246,6 +271,7 @@
     
     <item>
       <title>Dolci indizi (o testimonianze in briciole)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2018/11/14/dolci-indizi/</link>
       <pubDate>Wed, 14 Nov 2018 11:22:42</pubDate>
       
@@ -256,6 +282,7 @@
     
     <item>
       <title>Sgomento metaciclico</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2018/10/16/sgomento-metaciclico/</link>
       <pubDate>Tue, 16 Oct 2018 11:18:42</pubDate>
       
@@ -267,6 +294,7 @@
     
     <item>
       <title>Sopravvivenza</title>
+      <category>Riflessioni &amp; depressioni</category>
       <link>https://album.sh/riflessioni/2018/09/14/sopravvivenza/</link>
       <pubDate>Fri, 14 Sep 2018 12:58:42</pubDate>
       
@@ -276,6 +304,7 @@
     
     <item>
       <title>Neuroni in fuga (studiando Informatica Teorica)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2018/01/09/neuroni-in-fuga/</link>
       <pubDate>Tue, 09 Jan 2018 17:26:42</pubDate>
       
@@ -287,6 +316,7 @@
     
     <item>
       <title>Notevoli questioni marginali di stile</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2017/09/21/notevoli-questioni-marginali-di-stile/</link>
       <pubDate>Thu, 21 Sep 2017 12:05:42</pubDate>
       
@@ -297,6 +327,7 @@
     
     <item>
       <title>Ricordo, e non mi sovviene… (o dei caotici mondi della memoria)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2016/11/06/ricordo-e-non-mi-sovviene/</link>
       <pubDate>Sun, 06 Nov 2016 11:26:42</pubDate>
       
@@ -306,6 +337,7 @@
     
     <item>
       <title>Metametrica</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2016/08/28/metametrica/</link>
       <pubDate>Sun, 28 Aug 2016 12:03:42</pubDate>
       
@@ -317,6 +349,7 @@
     
     <item>
       <title>Divagazioni sul filo (o delle metarealtà letterarie)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2016/06/13/divagazioni-sul-filo/</link>
       <pubDate>Mon, 13 Jun 2016 22:34:42</pubDate>
       
@@ -327,6 +360,7 @@
     
     <item>
       <title>Nascono e sfumano, nel dormiveglia, parole… (poesia seria n. 1)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</link>
       <pubDate>Thu, 27 Aug 2015 08:45:42</pubDate>
       
@@ -338,6 +372,7 @@
     
     <item>
       <title>Metaspam (love delivery failed, n. 1)</title>
+      <category>Post sfusi</category>
       <link>https://album.sh/post/2015/07/16/metaspam/</link>
       <pubDate>Thu, 16 Jul 2015 13:04:42</pubDate>
       
@@ -347,6 +382,7 @@
     
     <item>
       <title>Confessioni di riflesso (racconto n. 3)</title>
+      <category>Racconti (o qualcosa di completamente diverso)</category>
       <link>https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
       <pubDate>Mon, 01 Jun 2015 13:49:42</pubDate>
       
@@ -356,6 +392,7 @@
     
     <item>
       <title>Terry Pratchett - Il tristo mietitore</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
       <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
       
@@ -368,6 +405,7 @@
     
     <item>
       <title>Risveglio</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2015/03/16/risveglio/</link>
       <pubDate>Mon, 16 Mar 2015 08:23:42</pubDate>
       
@@ -379,6 +417,7 @@
     
     <item>
       <title>Italo Calvino - Le città invisibili</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
       <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
       
@@ -389,6 +428,7 @@
     
     <item>
       <title>Inno al nuovo giorno</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</link>
       <pubDate>Thu, 09 Oct 2014 09:49:42</pubDate>
       
@@ -400,6 +440,7 @@
     
     <item>
       <title>Il drago che sposò la principessa (racconto n. 2)</title>
+      <category>Racconti (o qualcosa di completamente diverso)</category>
       <link>https://album.sh/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</link>
       <pubDate>Mon, 22 Sep 2014 01:46:42</pubDate>
       
@@ -409,6 +450,7 @@
     
     <item>
       <title>Tempi morti (versi di disappunto studiando Reti)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2014/09/07/tempi-morti/</link>
       <pubDate>Sun, 07 Sep 2014 22:22:42</pubDate>
       
@@ -421,6 +463,7 @@
     
     <item>
       <title>Sulla caducità della concentrazione (🦋)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</link>
       <pubDate>Tue, 30 Oct 2012 19:38:42</pubDate>
       
@@ -432,6 +475,7 @@
     
     <item>
       <title>Il passero accaldato (e che Leopardi mi perdoni)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2012/06/19/il-passero-accaldato/</link>
       <pubDate>Tue, 19 Jun 2012 23:08:42</pubDate>
       
@@ -443,6 +487,7 @@
     
     <item>
       <title>L&#39;ombra dell&#39;anello (racconto n. 1)</title>
+      <category>Racconti (o qualcosa di completamente diverso)</category>
       <link>https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/</link>
       <pubDate>Sat, 14 Jan 2012 01:00:42</pubDate>
       
@@ -452,6 +497,7 @@
     
     <item>
       <title>Inferno (tech version)</title>
+      <category>Poes… vers… curiose sequenze di caratteri</category>
       <link>https://album.sh/scritti/poesie/2012/01/02/inferno-tech-version/</link>
       <pubDate>Mon, 02 Jan 2012 23:25:42</pubDate>
       

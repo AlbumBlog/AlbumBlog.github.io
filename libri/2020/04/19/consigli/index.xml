@@ -7,9 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 17:28:58</lastBuildDate><atom:link href="https://album.sh/libri/2020/04/19/consigli/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 18:12:35</lastBuildDate><atom:link href="https://album.sh/libri/2020/04/19/consigli/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Metaopere</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/11/27/metaopere/</link>
       <pubDate>Fri, 27 Nov 2020 21:21:42</pubDate>
       
@@ -19,6 +20,7 @@
     
     <item>
       <title>Il prezzo della lettura (no, non dei libri)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/09/22/il-prezzo-della-lettura/</link>
       <pubDate>Tue, 22 Sep 2020 13:15:42</pubDate>
       
@@ -28,6 +30,7 @@
     
     <item>
       <title>Michael Ende - La storia infinita (non-recensione con spoiler)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/08/19/michael-ende-la-storia-infinita/</link>
       <pubDate>Wed, 19 Aug 2020 15:35:42</pubDate>
       
@@ -37,6 +40,7 @@
     
     <item>
       <title>Consigli (perché a volte serve un libro, o forse no)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2020/04/19/consigli/</link>
       <pubDate>Sun, 19 Apr 2020 21:03:42</pubDate>
       
@@ -46,6 +50,7 @@
     
     <item>
       <title>Notevoli questioni marginali di stile</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2017/09/21/notevoli-questioni-marginali-di-stile/</link>
       <pubDate>Thu, 21 Sep 2017 12:05:42</pubDate>
       
@@ -56,6 +61,7 @@
     
     <item>
       <title>Ricordo, e non mi sovviene… (o dei caotici mondi della memoria)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2016/11/06/ricordo-e-non-mi-sovviene/</link>
       <pubDate>Sun, 06 Nov 2016 11:26:42</pubDate>
       
@@ -65,6 +71,7 @@
     
     <item>
       <title>Divagazioni sul filo (o delle metarealtà letterarie)</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2016/06/13/divagazioni-sul-filo/</link>
       <pubDate>Mon, 13 Jun 2016 22:34:42</pubDate>
       
@@ -75,6 +82,7 @@
     
     <item>
       <title>Terry Pratchett - Il tristo mietitore</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</link>
       <pubDate>Fri, 20 Mar 2015 00:00:42</pubDate>
       
@@ -87,6 +95,7 @@
     
     <item>
       <title>Italo Calvino - Le città invisibili</title>
+      <category>Lo spigolo del libro</category>
       <link>https://album.sh/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</link>
       <pubDate>Sun, 25 Jan 2015 14:52:42</pubDate>
       

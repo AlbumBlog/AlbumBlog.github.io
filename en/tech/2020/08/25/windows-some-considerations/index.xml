@@ -7,9 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 17:28:58</lastBuildDate><atom:link href="https://album.sh/en/tech/2020/08/25/windows-some-considerations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Dec 2020 18:12:35</lastBuildDate><atom:link href="https://album.sh/en/tech/2020/08/25/windows-some-considerations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
+      <category>Tech stuff</category>
       <link>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
@@ -19,6 +20,7 @@
     
     <item>
       <title>Windows: some considerations (a very old joke)</title>
+      <category>Tech stuff</category>
       <link>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</link>
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
