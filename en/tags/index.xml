@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 16:42:12</lastBuildDate><atom:link href="https://album.sh/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Dec 2020 17:18:49</lastBuildDate><atom:link href="https://album.sh/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
       <category>Tech stuff</category>
