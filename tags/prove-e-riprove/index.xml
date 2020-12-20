@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 17:18:49</lastBuildDate><atom:link href="https://album.sh/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Dec 2020 14:52:33</lastBuildDate><atom:link href="https://album.sh/tags/prove-e-riprove/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Il terrorista, lui guarda</title>
       <category>Poco prima del sipario</category>
@@ -16,7 +16,8 @@
       
       <guid>https://album.sh/sipario/2020/12/18/il-terrorista-lui-guarda/</guid>
       <description>&lt;p&gt;Versi di Wisława Szymborska, da “La gioia di scrivere. Tutte le poesie (1945-2009)”, a cura di P. Marchesani, edizioni Adelphi.&lt;/p&gt;
-&lt;p&gt;[Un grande cartellone con orologio digitale (inizialmente sulle 13:16:00) sovrasta la scena. A. entra da un lato; mentre parla si guarda attorno, cammina su e giù, si strofina le mani guantate per combattere il freddo.]&lt;/p&gt;</description>
+&lt;p&gt;&lt;button class=&#34;show-hide-button&#34; label1=&#34;Mostra annotazioni&#34; label2=&#34;Nascondi annotazioni&#34; status=&#34;visible&#34; onclick=&#34;setScriptPage()&#34;&gt;Nascondi annotazioni&lt;/button&gt;&lt;/p&gt;
+&lt;strong class=&#34;theater-script&#34;&gt;[Un grande cartellone con orologio digitale (inizialmente sulle 13:16:00) sovrasta la scena. A. entra da un lato; mentre parla si guarda attorno, cammina su e giù, si strofina le mani guantate per combattere il freddo.]&lt;/strong&gt;</description>
     </item>
     
     <item>

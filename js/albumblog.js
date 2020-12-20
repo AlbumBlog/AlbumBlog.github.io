@@ -7,8 +7,15 @@ body.onload = (function() {
   // get all <a> tags with id="disqus_comments"
   aComments = document.querySelectorAll("a#disqus_comments");
   // and pass them to function for setting their text
-  for (i=0; i<aComments.length; i++) {
-    setCommentCounterText(aComments[i]);
+  aComments.forEach(setCommentCounterText);
+  // hide show/hide buttons from home/section pages
+  if (aComments.length > 0) {
+    showHideButtons = document.querySelectorAll("button.show-hide-button");
+    showHideButtons.forEach(hideElement);
+  }
+  // hide script annotations in theater posts
+  if (window.location.href.indexOf("/sipario/20") != -1) {
+    setScriptPage();
   }
 });
 
@@ -76,5 +83,32 @@ function discourageText() {
     panel.style.color = "green";
     panel.setAttribute("role", "alert");
     badgeButtonClicked = true;
+  }
+}
+
+function hideElement(element) {
+	element.style.display = "none";
+}
+
+function showElement(element) {
+	element.style.display = "initial";
+}
+
+function setScriptPage() {
+  scriptButtons = document.querySelectorAll("button.show-hide-button");
+  scriptAnnotations = document.querySelectorAll("strong.theater-script");
+  status = scriptButtons[0].getAttribute("status");
+  if (status == "visible") {
+    scriptButtons.forEach(function(button) {
+      button.setAttribute("status", "hidden");
+      button.textContent = button.getAttribute("label1");
+    });
+    scriptAnnotations.forEach(hideElement);
+  } else {
+    scriptButtons.forEach(function(button) {
+      button.setAttribute("status", "visible");
+      button.textContent = button.getAttribute("label2");
+    });
+    scriptAnnotations.forEach(showElement);
   }
 }
