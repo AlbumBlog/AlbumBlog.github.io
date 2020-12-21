@@ -8,13 +8,9 @@ body.onload = (function() {
   aComments = document.querySelectorAll("a#disqus_comments");
   // and pass them to function for setting their text
   aComments.forEach(setCommentCounterText);
-  // hide show/hide buttons from home/section pages
-  if (aComments.length > 0) {
-    showHideButtons = document.querySelectorAll("button.show-hide-button");
-    showHideButtons.forEach(hideElement);
-  }
-  // hide script annotations in theater posts
+  // set buttons and hide script annotations in theater posts
   if (window.location.href.indexOf("/sipario/20") != -1) {
+    setScriptButtons();
     setScriptPage();
   }
 });
@@ -92,6 +88,13 @@ function hideElement(element) {
 
 function showElement(element) {
 	element.style.display = "initial";
+}
+
+function setScriptButtons() {
+  buttonP = document.querySelectorAll("p.show-hide-container");
+  buttonP.forEach(function(p) {
+    p.innerHTML = '<button class="show-hide-button" label1="Mostra annotazioni" label2="Nascondi annotazioni" status="visible" onclick="setScriptPage()">Nascondi annotazioni</button>';
+  });
 }
 
 function setScriptPage() {
