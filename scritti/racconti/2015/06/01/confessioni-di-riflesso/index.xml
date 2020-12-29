@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racconti (o qualcosa di completamente diverso) su Album.blog()</title>
     <link>https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/</link>
@@ -7,7 +9,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 21 Dec 2020 11:53:47</lastBuildDate><atom:link href="https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Dec 2020 15:08:32</lastBuildDate><atom:link href="https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Confessioni di riflesso (racconto n. 3)</title>
       <category>Racconti (o qualcosa di completamente diverso)</category>
