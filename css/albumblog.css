@@ -9,6 +9,10 @@
   color: #B1FB17
 }
 
+.rth-shell {
+  opacity: 0.6
+}
+
 .retroterminal {
   padding-left: 1em;
   padding-top: 1em;
