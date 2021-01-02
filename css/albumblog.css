@@ -1,16 +1,12 @@
 .rth {
-  padding-left: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  padding-right: 1em;
+//  padding-left: 1em;
+//  padding-top: 1em;
+//  padding-bottom: 1em;
+//  padding-right: 1em;
   font-family: consolas, monospace;
-  background-color: black;
-  opacity: 0.3;
+//  background-color: black;
+//  opacity: 0.3;
   color: #B1FB17
-}
-
-.rth-shell {
-  opacity: 1.0!important
 }
 
 .retroterminal {
