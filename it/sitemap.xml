@@ -81,7 +81,7 @@
   
   <url>
     <loc>https://album.sh/tags/</loc>
-    <lastmod>2021-01-02T17:32:59+01:00</lastmod>
+    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -112,14 +112,14 @@
   
   <url>
     <loc>https://album.sh/tags/prove-e-riprove/</loc>
-    <lastmod>2021-01-02T17:32:59+01:00</lastmod>
+    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://album.sh/post/2020/12/03/test-di-post-2/</loc>
-    <lastmod>2020-12-03T22:16:14+01:00</lastmod>
+    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -203,7 +203,7 @@
   
   <url>
     <loc>https://album.sh/post/2020/07/23/test-di-post/</loc>
-    <lastmod>2020-09-05T12:16:54+02:00</lastmod>
+    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
