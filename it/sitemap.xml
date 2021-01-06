@@ -81,7 +81,7 @@
   
   <url>
     <loc>https://album.sh/tags/</loc>
-    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
+    <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -112,7 +112,7 @@
   
   <url>
     <loc>https://album.sh/tags/prove-e-riprove/</loc>
-    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
+    <lastmod>2021-01-06T13:09:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -189,14 +189,14 @@
   
   <url>
     <loc>https://album.sh/tags/cose-da-fare/</loc>
-    <lastmod>2021-01-02T17:32:59+01:00</lastmod>
+    <lastmod>2021-01-06T13:09:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://album.sh/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</loc>
-    <lastmod>2021-01-02T17:32:59+01:00</lastmod>
+    <lastmod>2021-01-06T13:09:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -365,6 +365,34 @@
   <url>
     <loc>https://album.sh/post/2015/07/16/metaspam/</loc>
     <lastmod>2020-09-29T15:05:24+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://album.sh/tags/astronomia/</loc>
+    <lastmod>2021-01-06T15:19:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://album.sh/tags/curiosit%C3%A0/</loc>
+    <lastmod>2021-01-06T15:19:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://album.sh/tags/fisica/</loc>
+    <lastmod>2021-01-06T15:19:59+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://album.sh/post/2015/06/30/prendere-le-misure-al-pianeta/</loc>
+    <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 11:31:25</lastBuildDate><atom:link href="https://album.sh/post/2019/12/01/supponiamo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Jan 2021 15:20:36</lastBuildDate><atom:link href="https://album.sh/post/2019/12/01/supponiamo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inattese congiunzioni di rete</title>
       <category>Post sfusi</category>
@@ -125,6 +125,16 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       
       <guid>https://album.sh/post/2015/07/16/metaspam/</guid>
       <description>&lt;p&gt;Fermi tutti. Credo di essermi innamorato.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prendere le misure al pianeta (o di curiosità terrestri e fisici molesti)</title>
+      <category>Post sfusi</category>
+      <link>https://album.sh/post/2015/06/30/prendere-le-misure-al-pianeta/</link>
+      <pubDate>Tue, 30 Jun 2015 20:18:42</pubDate>
+      
+      <guid>https://album.sh/post/2015/06/30/prendere-le-misure-al-pianeta/</guid>
+      <description>Ieri, come ormai da troppo tempo, stavo studiando fisica (aspettate un secondo a scappare 😛). Riguardando l’esperimento di Cavendish e cercando informazioni in merito, mi è tornata in mente una curiosità di astronomia, saputa alle superiori. Probabilmente il nome “Eratostene” vi dice qualcosa…</description>
     </item>
     
   </channel>
