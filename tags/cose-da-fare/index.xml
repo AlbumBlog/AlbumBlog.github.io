@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 25 Jan 2021 15:58:13</lastBuildDate><atom:link href="https://album.sh/tags/cose-da-fare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 13:06:16</lastBuildDate><atom:link href="https://album.sh/tags/cose-da-fare/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dialoghi semi-artificiali</title>
       <category>Post sfusi</category>
@@ -49,6 +49,16 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       
       <guid>https://album.sh/en/tech/2020/12/28/linux-set-wlan-interface-on-monitor-mode-at-startup/</guid>
       <description>&lt;p&gt;I have had a lot of Raspberry products in these years: Pi 1B, Zero, Zero W, Zero WH, 4B (4GB).&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E un giorno come gli altri</title>
+      <category>Riflessioni &amp; depressioni</category>
+      <link>https://album.sh/riflessioni/2020/12/28/e-un-giorno-come-gli-altri/</link>
+      <pubDate>Mon, 28 Dec 2020 12:29:42</pubDate>
+      
+      <guid>https://album.sh/riflessioni/2020/12/28/e-un-giorno-come-gli-altri/</guid>
+      <description>&lt;p&gt;Ci sono sere, e mattine, che hanno davvero tutto il peso di anni di nulla. Anni che, comunque vada, non tornano più, ma si faranno sentire in un modo o in un altro.&lt;/p&gt;</description>
     </item>
     
     <item>
