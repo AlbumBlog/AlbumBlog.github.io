@@ -9,7 +9,17 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Thu, 04 Mar 2021 15:19:18</lastBuildDate><atom:link href="https://album.sh/post/2020/09/24/trauma-del-giorno/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Mar 2021 15:21:45</lastBuildDate><atom:link href="https://album.sh/post/2020/09/24/trauma-del-giorno/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Il vero complotto di Trump</title>
+      <category>Post sfusi</category>
+      <link>https://album.sh/post/2021/03/04/il-vero-complotto-di-trump/</link>
+      <pubDate>Thu, 04 Mar 2021 15:15:42</pubDate>
+      
+      <guid>https://album.sh/post/2021/03/04/il-vero-complotto-di-trump/</guid>
+      <description>&lt;p&gt;Ma quale QAnon, ma quale Capitol Hill! Ve lo svelerò io, qual è il VERO complotto di Trump.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Dialoghi semi-artificiali</title>
       <category>Post sfusi</category>
@@ -198,16 +208,6 @@ andare a cagare senza cellulare è l’unico, vero atto di ribellione alla schia
       
       <guid>https://album.sh/post/2015/06/30/prendere-le-misure-al-pianeta/</guid>
       <description>Ieri, come ormai da troppo tempo, stavo studiando fisica (aspettate un secondo a scappare 😛). Riguardando l’esperimento di Cavendish e cercando informazioni in merito, mi è tornata in mente una curiosità di astronomia, saputa alle superiori. Probabilmente il nome “Eratostene” vi dice qualcosa…</description>
-    </item>
-    
-    <item>
-      <title>Il vero complotto di Trump</title>
-      <category>Post sfusi</category>
-      <link>https://album.sh/post/1/01/01/il-vero-complotto-di-trump/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00</pubDate>
-      
-      <guid>https://album.sh/post/1/01/01/il-vero-complotto-di-trump/</guid>
-      <description>&lt;p&gt;Ma quale QAnon, ma quale Capitol Hill! Ve lo svelerò io, qual è il VERO complotto di Trump.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -37,6 +37,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/post/2021/03/04/il-vero-complotto-di-trump/</loc>
+    <lastmod>2021-03-04T15:21:39+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2021/01/25/dialoghi-semi-artificiali/</loc>
     <lastmod>2021-01-25T15:57:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -435,11 +440,6 @@
                 hreflang="it"
                 href="https://album.sh/categories/"
                 />
-  </url><url>
-    <loc>https://album.sh/post/1/01/01/il-vero-complotto-di-trump/</loc>
-    <lastmod>2021-03-04T15:19:11+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/scritti/poesie/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
