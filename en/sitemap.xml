@@ -1,29 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://album.sh/en/tags/hacking/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tags/linux/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tech/2020/12/28/linux-set-wlan-interface-on-monitor-mode-at-startup/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tags/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -38,58 +31,42 @@
                 hreflang="en"
                 href="https://album.sh/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tags/wireless/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</loc>
     <lastmod>2020-09-07T16:07:27+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tags/jokes/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tags/virus/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tags/windows/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/tech/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -104,9 +81,7 @@
                 hreflang="en"
                 href="https://album.sh/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -121,5 +96,4 @@
                 href="https://album.sh/en/categories/"
                 />
   </url>
-  
 </urlset>

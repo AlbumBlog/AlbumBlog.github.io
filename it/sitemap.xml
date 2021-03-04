@@ -1,113 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://album.sh/whoami/</loc>
     <lastmod>2020-11-13T14:45:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/t%C3%A8/</loc>
     <lastmod>2020-12-17T11:34:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/sipario/</loc>
     <lastmod>2020-12-19T13:15:11+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/</loc>
     <lastmod>2020-12-18T22:04:14+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2021/01/25/dialoghi-semi-artificiali/</loc>
     <lastmod>2021-01-25T15:57:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2021/01/13/ma-parliamo-di-dieta/</loc>
     <lastmod>2021-01-13T13:44:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2021/01/09/e-musica-maestro/</loc>
     <lastmod>2021-01-09T13:01:10+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/12/28/e-un-giorno-come-gli-altri/</loc>
     <lastmod>2021-01-27T13:06:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/sipario/2020/12/18/il-terrorista-lui-guarda/</loc>
     <lastmod>2021-01-03T11:24:53+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/12/12/inattese-congiunzioni-di-rete/</loc>
     <lastmod>2020-12-12T19:51:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/informatica/</loc>
     <lastmod>2020-12-12T19:51:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/letteratura/</loc>
     <lastmod>2020-12-12T19:51:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/</loc>
     <lastmod>2021-02-04T18:49:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -122,450 +91,322 @@
                 hreflang="it"
                 href="https://album.sh/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/12/08/the-lego-case/</loc>
     <lastmod>2021-01-18T14:58:23+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/annunci/</loc>
     <lastmod>2020-12-07T17:28:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/12/07/la-famosa-invasione-delle-talpe-in-santelena/</loc>
     <lastmod>2020-12-07T17:28:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/prove-e-riprove/</loc>
     <lastmod>2021-01-06T13:09:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/12/03/test-di-post-2/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2020/11/27/metaopere/</loc>
     <lastmod>2020-11-27T21:33:16+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/11/26/cosa-manca/</loc>
     <lastmod>2020-11-26T21:02:40+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/09/24/trauma-del-giorno/</loc>
     <lastmod>2020-09-24T18:11:20+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2020/09/22/il-prezzo-della-lettura/</loc>
     <lastmod>2021-02-09T16:22:40+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/09/16/la-costruzione-di-un-ricordo/</loc>
     <lastmod>2020-09-18T10:29:36+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/09/11/post-delle-domande-consuete/</loc>
     <lastmod>2020-09-18T10:29:36+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</loc>
     <lastmod>2020-09-07T10:12:46+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/bridge2me/</loc>
     <lastmod>2021-01-03T11:24:53+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2020/08/19/michael-ende-la-storia-infinita/</loc>
     <lastmod>2020-09-05T12:16:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/cose-da-fare/</loc>
     <lastmod>2021-01-06T13:09:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</loc>
     <lastmod>2021-01-06T13:09:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/07/23/test-di-post/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/07/11/basterebbe/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/07/10/fine-settimana/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</loc>
     <lastmod>2020-10-04T08:02:32+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2020/04/19/consigli/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/racconti/2020/03/13/pistoia-invisibile/</loc>
     <lastmod>2021-01-17T12:58:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/02/17/gi%C3%B9-nel-cabinet/</loc>
     <lastmod>2021-01-09T09:06:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/02/05/timespam-machine/</loc>
     <lastmod>2020-10-06T18:41:33+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2020/01/12/ci-ritroveremo-s%C3%AC-io-credo/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2020/01/11/colazioni-consumiste/</loc>
     <lastmod>2021-01-15T08:38:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2020/01/07/premesse/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2019/12/01/supponiamo/</loc>
     <lastmod>2020-12-16T21:33:46+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2019/11/24/interruttori/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2019/08/26/non-ci-intendiamo-mai/</loc>
     <lastmod>2021-02-09T16:22:40+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2019/05/09/mal-di-social/</loc>
     <lastmod>2020-12-01T09:53:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2018/12/17/statistiche-e-conclusioni/</loc>
     <lastmod>2021-02-09T16:22:40+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2018/11/25/contromisure-antinfluenzali/</loc>
     <lastmod>2020-12-19T17:18:49+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2018/11/14/dolci-indizi/</loc>
     <lastmod>2020-12-20T14:52:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2018/10/16/sgomento-metaciclico/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/riflessioni/2018/09/14/sopravvivenza/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/fulminazioni/</loc>
     <lastmod>2021-02-04T18:49:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/magliette/</loc>
     <lastmod>2021-02-04T18:49:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2018/01/09/spezziamo-le-catene-del-wireless/</loc>
     <lastmod>2021-02-04T18:49:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2018/01/09/neuroni-in-fuga/</loc>
     <lastmod>2021-01-09T07:51:01+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2017/09/21/notevoli-questioni-marginali-di-stile/</loc>
     <lastmod>2020-11-25T15:46:58+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2016/11/26/ah-il-futuro-il-futuro-signora-mia/</loc>
     <lastmod>2021-01-23T15:07:10+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2016/11/06/ricordo-e-non-mi-sovviene/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2016/08/28/metametrica/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2016/06/13/divagazioni-sul-filo/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2015/08/27/nascono-e-sfumano-nel-dormiveglia-parole/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2015/07/16/metaspam/</loc>
     <lastmod>2020-09-29T15:05:24+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/astronomia/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/curiosit%C3%A0/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/tags/fisica/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/post/2015/06/30/prendere-le-misure-al-pianeta/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/racconti/2015/06/01/confessioni-di-riflesso/</loc>
     <lastmod>2020-09-05T12:16:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2015/03/20/terry-pratchett-il-tristo-mietitore/</loc>
     <lastmod>2020-09-05T12:16:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2015/03/16/risveglio/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/libri/2015/01/25/italo-calvino-le-citt%C3%A0-invisibili/</loc>
     <lastmod>2020-10-29T21:39:06+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2014/10/09/inno-al-nuovo-giorno/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/racconti/2014/09/22/il-drago-che-spos%C3%B2-la-principessa/</loc>
     <lastmod>2020-09-05T12:16:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2014/09/07/tempi-morti/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/racconti/2012/12/14/sleeping-humanity/</loc>
     <lastmod>2020-12-15T23:36:19+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2012/10/30/sulla-caducit%C3%A0-della-concentrazione/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2012/06/19/il-passero-accaldato/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/racconti/2012/01/14/lombra-dellanello/</loc>
     <lastmod>2020-09-05T12:16:54+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/2012/01/02/inferno-tech-version/</loc>
     <lastmod>2021-01-09T08:53:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/</loc>
     <lastmod>2020-11-13T14:45:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -580,9 +421,7 @@
                 hreflang="it"
                 href="https://album.sh/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -596,20 +435,20 @@
                 hreflang="it"
                 href="https://album.sh/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://album.sh/post/1/01/01/il-vero-complotto-di-trump/</loc>
+    <lastmod>2021-03-04T15:19:11+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/scritti/poesie/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://album.sh/scritti/racconti/</loc>
     <lastmod>2020-12-17T12:06:07+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  
 </urlset>
