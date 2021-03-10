@@ -1,6 +1,8 @@
 // get <body> of page
 var body = document.getElementsByTagName("body")[0];
 var badgeButtonClicked = false;
+var firstRandomPost = true;
+var loadJSON = fastsearch.fetchJSONFile;
 
 // define the function to run after loading
 body.onload = (function() {
@@ -114,4 +116,10 @@ function setScriptPage() {
     });
     scriptAnnotations.forEach(showElement);
   }
+}
+
+function randomPost() {
+  // if firstRandomPost load en/index.json
+  // loop on permalinks
+  // return a random one
 }
