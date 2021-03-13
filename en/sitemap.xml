@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://album.sh/en/a11y-hack/</loc>
+    <lastmod>2021-03-13T15:18:47+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/en/tags/hacking/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -63,12 +68,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/en/tech/</loc>
-    <lastmod>2020-12-17T12:06:07+01:00</lastmod>
+    <lastmod>2021-03-13T15:18:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/en/</loc>
-    <lastmod>2020-12-17T12:06:07+01:00</lastmod>
+    <lastmod>2021-03-13T15:18:47+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link

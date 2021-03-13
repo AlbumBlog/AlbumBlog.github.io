@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Wed, 10 Mar 2021 17:29:09</lastBuildDate><atom:link href="https://album.sh/tags/astronomia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Mar 2021 15:18:52</lastBuildDate><atom:link href="https://album.sh/tags/astronomia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sanremo chi?</title>
       <category>Post sfusi</category>
@@ -65,7 +65,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     
     <item>
       <title>Linux: set wlan interface on monitor mode at startup (Wi-Fi hacking on Raspbian)</title>
-      <category>Tech stuff</category>
+      <category>Various tech stuff</category>
       <link>https://album.sh/en/tech/2020/12/28/linux-set-wlan-interface-on-monitor-mode-at-startup/</link>
       <pubDate>Mon, 28 Dec 2020 18:48:42</pubDate>
       
@@ -211,7 +211,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     
     <item>
       <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
-      <category>Tech stuff</category>
+      <category>Various tech stuff</category>
       <link>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
@@ -221,7 +221,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     
     <item>
       <title>Windows: some considerations (a very old joke)</title>
-      <category>Tech stuff</category>
+      <category>Various tech stuff</category>
       <link>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</link>
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
