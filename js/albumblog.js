@@ -1,8 +1,8 @@
 // get <body> of page
 var body = document.getElementsByTagName("body")[0];
 var badgeButtonClicked = false;
-// var firstRandomPost = true;
-// var loadJSON = fastsearch.fetchJSONFile;
+var randomPostsLoaded = false;
+var randomPosts = []; // our URL array
 
 // define the function to run after loading
 body.onload = (function() {
@@ -118,10 +118,32 @@ function setScriptPage() {
   }
 }
 
-/*
-function randomPost() {
-  // if firstRandomPost load en/index.json
-  // loop on permalinks
-  // return a random one
+// fetch some json without jquery
+function loadJSON(path, callback) {
+  var httpRequest = new XMLHttpRequest();
+  httpRequest.onreadystatechange = function() {
+    if (httpRequest.readyState === 4) {
+      if (httpRequest.status === 200) {
+        var data = JSON.parse(httpRequest.responseText);
+          if (callback) callback(data);
+      }
+    }
+  };
+  httpRequest.open("GET", path);
+  httpRequest.send();
 }
-*/
+
+function pushRandomPosts(data) {
+  data.forEach(item => randomPosts.push(item));
+}
+
+function randomPost() {
+  if (!randomPostsLoaded) {
+    loadJSON("/en/index.json", function(posts) {
+      var permalinks = []
+      posts.forEach(post => permalinks.push(post.permalink));
+    });
+  }
+//  choice = randomPosts.pop(0); //randomPosts.length*Math.random()|0];
+  alert(randomPosts.length);
+}
