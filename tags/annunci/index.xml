@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sun, 18 Apr 2021 15:40:32</lastBuildDate><atom:link href="https://album.sh/tags/annunci/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Apr 2021 13:21:19</lastBuildDate><atom:link href="https://album.sh/tags/annunci/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Draghi e lockdown</title>
       <category>Post sfusi</category>
@@ -332,6 +332,17 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       
       <guid>https://album.sh/riflessioni/2020/05/09/un-fatto-nebuloso-e-inammissibile/</guid>
       <description>&lt;p&gt;Arriva, a volte, un momento in cui il malessere prevale su tutto, e la solitudine, percepita o effettiva, diventa intollerabile.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>…biiip, collegamento effettuato! (prove di scrittura da bagno)</title>
+      <category>Post sfusi</category>
+      <link>https://album.sh/post/2020/04/22/biiip-collegamento-effettuato/</link>
+      <pubDate>Wed, 22 Apr 2020 17:35:42</pubDate>
+      
+      <guid>https://album.sh/post/2020/04/22/biiip-collegamento-effettuato/</guid>
+      <description>Tutti a parlare di Bluetooth, contact tracing, salute e privacy.
+Ebbene: io, invece, voglio parlarvi oggi di un misterioso fenomeno d’interferenza elettromagnetica che si verifica in casa mia.</description>
     </item>
     
     <item>
