@@ -37,18 +37,63 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/deliri/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2021/04/18/draghi-e-lockdown/</loc>
-    <lastmod>2021-04-18T15:40:24+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/lockdown/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://album.sh/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://album.sh/tags/"
+                />
+  </url><url>
+    <loc>https://album.sh/tags/ch3ch2oh/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2021/04/04/ehi-di-pasqua-buonagente/</loc>
-    <lastmod>2021-04-04T14:26:07+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/alla-finestra/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2021/03/30/giorni-di-nebbia-e-fuoco-acceso/</loc>
-    <lastmod>2021-03-30T19:15:15+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/invisibilit%C3%A0/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/rifugi/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -57,23 +102,43 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/musica/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/podcast/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2021/03/10/sanremo-chi/</loc>
-    <lastmod>2021-03-13T15:18:47+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2021/03/04/il-vero-complotto-di-trump/</loc>
-    <lastmod>2021-03-04T15:21:39+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2021/01/25/dialoghi-semi-artificiali/</loc>
-    <lastmod>2021-01-25T15:57:46+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/smart-cosi/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/cibo/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2021/01/13/ma-parliamo-di-dieta/</loc>
-    <lastmod>2021-01-13T13:44:47+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -98,7 +163,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/informatica/</loc>
-    <lastmod>2020-12-12T19:51:56+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -107,33 +172,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://album.sh/tags/</loc>
-    <lastmod>2021-02-04T18:49:42+01:00</lastmod>
+    <loc>https://album.sh/tags/creature/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://album.sh/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://album.sh/tags/"
-                />
   </url><url>
     <loc>https://album.sh/post/2020/12/08/the-lego-case/</loc>
-    <lastmod>2021-01-18T14:58:23+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/annunci/</loc>
-    <lastmod>2020-12-07T17:28:58+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2020/12/07/la-famosa-invasione-delle-talpe-in-santelena/</loc>
-    <lastmod>2020-12-07T17:28:58+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -157,8 +212,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/bugs/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/interviste-immaginarie/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2020/09/24/trauma-del-giorno/</loc>
-    <lastmod>2020-09-24T18:11:20+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -177,8 +242,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/curiosit%C3%A0/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/formalit%C3%A0/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2020/09/06/seppellir%C3%A0-una-risata-mi/</loc>
-    <lastmod>2020-09-07T10:12:46+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -227,8 +302,23 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/wireless/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://album.sh/en/tags/wireless/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://album.sh/tags/wireless/"
+                />
+  </url><url>
     <loc>https://album.sh/post/2020/04/22/biiip-collegamento-effettuato/</loc>
-    <lastmod>2021-05-05T17:20:04+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -247,8 +337,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/c%C3%A8-posta-per-te/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2020/02/05/timespam-machine/</loc>
-    <lastmod>2020-10-06T18:41:33+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -257,8 +352,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/acquisti/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2020/01/11/colazioni-consumiste/</loc>
-    <lastmod>2021-01-15T08:38:42+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -268,7 +368,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2019/12/01/supponiamo/</loc>
-    <lastmod>2020-12-16T21:33:46+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -293,12 +393,37 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2018/11/25/contromisure-antinfluenzali/</loc>
-    <lastmod>2020-12-19T17:18:49+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/virus/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://album.sh/en/tags/virus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://album.sh/tags/virus/"
+                />
+  </url><url>
     <loc>https://album.sh/post/2018/11/14/dolci-indizi/</loc>
-    <lastmod>2020-12-20T14:52:34+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/il-mistero-sinfittisce/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/la-trama-si-complica/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -313,17 +438,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/fulminazioni/</loc>
-    <lastmod>2021-02-04T18:49:42+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/magliette/</loc>
-    <lastmod>2021-02-04T18:49:42+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2018/01/09/spezziamo-le-catene-del-wireless/</loc>
-    <lastmod>2021-02-04T18:49:42+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -338,7 +463,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2017/05/28/offerte-fuggevoli-offerte/</loc>
-    <lastmod>2021-05-28T15:49:56+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -348,7 +473,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2016/11/26/ah-il-futuro-il-futuro-signora-mia/</loc>
-    <lastmod>2021-01-23T15:07:10+01:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -368,12 +493,17 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2016/05/03/virus-da-prendere-con-filosofia/</loc>
-    <lastmod>2021-05-05T17:20:04+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/ooops/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2016/04/06/premure-da-informatici/</loc>
-    <lastmod>2021-04-06T12:37:28+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -382,17 +512,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/tags/dubbi-amletici/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/post/2015/07/16/metaspam/</loc>
-    <lastmod>2020-09-29T15:05:24+02:00</lastmod>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/astronomia/</loc>
-    <lastmod>2021-01-06T15:19:59+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://album.sh/tags/curiosit%C3%A0/</loc>
     <lastmod>2021-01-06T15:19:59+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
