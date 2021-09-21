@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Tue, 14 Sep 2021 12:32:38</lastBuildDate><atom:link href="https://album.sh/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Sep 2021 09:03:12</lastBuildDate><atom:link href="https://album.sh/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux: set wlan interface on monitor mode at startup (Wi-Fi hacking on Raspbian)</title>
       <category>Various tech stuff</category>
