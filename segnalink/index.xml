@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deposito segnalink su Album.blog()</title>
+    <link>https://album.sh/segnalink/</link>
+    <description>Contenuti recenti in "Deposito segnalink" su Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Wed, 13 Oct 2021 00:34:07</lastBuildDate><atom:link href="https://album.sh/segnalink/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
