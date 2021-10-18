@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 18 Oct 2021 14:17:24</lastBuildDate><atom:link href="https://album.sh/post/2021/03/10/sanremo-chi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Oct 2021 14:59:05</lastBuildDate><atom:link href="https://album.sh/post/2021/03/10/sanremo-chi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Disconnessioni pericolose</title>
       <category>Post sfusi</category>
@@ -272,10 +272,10 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <item>
       <title>Epitaffio n. 2</title>
       <category>Post sfusi</category>
-      <link>https://album.sh/post/2018/09/18/epitaffio-n.-2/</link>
-      <pubDate>Tue, 18 Sep 2018 18:22:42</pubDate>
+      <link>https://album.sh/post/2018/10/18/epitaffio-n.-2/</link>
+      <pubDate>Thu, 18 Oct 2018 18:22:42</pubDate>
       
-      <guid>https://album.sh/post/2018/09/18/epitaffio-n.-2/</guid>
+      <guid>https://album.sh/post/2018/10/18/epitaffio-n.-2/</guid>
       <description>&lt;p&gt;Qui giace lo smartphone di Tizio:&lt;/p&gt;
 &lt;p&gt;sbrecciato e indomito, egli affrontò&lt;/p&gt;
 &lt;p&gt;con coraggio spigoli, tuffi e cadute,&lt;/p&gt;</description>
@@ -384,6 +384,17 @@ andare a cagare senza cellulare è l’unico, vero atto di ribellione alla schia
       
       <guid>https://album.sh/post/2015/06/30/prendere-le-misure-al-pianeta/</guid>
       <description>Ieri, come ormai da troppo tempo, stavo studiando fisica (aspettate un secondo a scappare 😛). Riguardando l’esperimento di Cavendish e cercando informazioni in merito, mi è tornata in mente una curiosità di astronomia, saputa alle superiori. Probabilmente il nome “Eratostene” vi dice qualcosa…</description>
+    </item>
+    
+    <item>
+      <title>Epitaffio n. 1</title>
+      <category>Post sfusi</category>
+      <link>https://album.sh/post/2013/10/19/epitaffio-n.-1/</link>
+      <pubDate>Sat, 19 Oct 2013 21:12:42</pubDate>
+      
+      <guid>https://album.sh/post/2013/10/19/epitaffio-n.-1/</guid>
+      <description>&lt;p&gt;E&#39; morto. Morto. Contando ogni penoso minuto, ogni guizzo di secondo che lo separava dalla sua triste fine, appoggiato in precario equilibrio al tapis roulant. Ha resistito finché ha potuto. Poi si è spento nel silenzio, in solitudine e abbandono.&lt;/p&gt;
+&lt;p&gt;Ricorderemo con dolore la sua vitalità, la sua parlantina spesso indiscreta, la luce che sapeva darci anche nei momenti più bui.&lt;/p&gt;</description>
     </item>
     
   </channel>
