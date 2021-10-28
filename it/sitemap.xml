@@ -63,7 +63,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/</loc>
-    <lastmod>2021-10-18T14:58:59+02:00</lastmod>
+    <lastmod>2021-10-28T19:26:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -88,7 +88,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/deliri/</loc>
-    <lastmod>2021-10-18T14:58:59+02:00</lastmod>
+    <lastmod>2021-10-28T19:26:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -208,7 +208,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/informatica/</loc>
-    <lastmod>2021-10-18T14:58:59+02:00</lastmod>
+    <lastmod>2021-10-28T19:26:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -249,6 +249,21 @@
   </url><url>
     <loc>https://album.sh/riflessioni/2020/11/26/cosa-manca/</loc>
     <lastmod>2020-11-26T21:02:40+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/darwinismo-digitale/</loc>
+    <lastmod>2021-10-28T19:26:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/post/2020/10/28/digitevoluzione/</loc>
+    <lastmod>2021-10-28T19:26:51+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/frenaaaaa/</loc>
+    <lastmod>2021-10-28T19:26:51+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

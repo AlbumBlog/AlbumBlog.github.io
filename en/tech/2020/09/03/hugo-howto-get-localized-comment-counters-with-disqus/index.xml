@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Mon, 18 Oct 2021 14:59:05</lastBuildDate><atom:link href="https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Oct 2021 19:26:57</lastBuildDate><atom:link href="https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux: set wlan interface on monitor mode at startup (Wi-Fi hacking on Raspbian)</title>
       <category>Various tech stuff</category>
