@@ -8,7 +8,7 @@
            Album.blog("Linux: set wlan interface on monitor mode at startup")
     </title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.86.0" />
+    <meta name="generator" content="Hugo 0.88.1" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -155,7 +155,7 @@
 $ sudo -s<br>
 # nano /etc/network/interfaces
 </span>
-<pre><code>...some stuff already there...
+<pre tabindex="0"><code>...some stuff already there...
 allow-hotplug wlan1
 iface wlan1 inet manual
 pre-up iw dev wlan1 set type monitor
@@ -167,7 +167,7 @@ pre-up ip link set wlan1mon up
 <ol>
 <li>I chose to rename wlan1 to wlan1mon not only for clarity, but also because the addition of wlan1mon interface to relative physical device, and the following removal of original wlan1, as seen in other tutorials:</li>
 </ol>
-<pre><code>pre-up iw phy phy1 interface add wlan1mon type monitor
+<pre tabindex="0"><code>pre-up iw phy phy1 interface add wlan1mon type monitor
 pre-up iw dev wlan1 del
 </code></pre><p>&hellip;is not supported from my Alfa adapter, bringing to boot problems when it&rsquo;s inserted;</p>
 <ol start="2">
