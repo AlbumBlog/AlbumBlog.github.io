@@ -9,9 +9,22 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Sun, 21 Nov 2021 14:04:09</lastBuildDate><atom:link href="https://album.sh/tags/cibo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Nov 2021 15:22:52</lastBuildDate><atom:link href="https://album.sh/tags/cibo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>E… la parola a Word!</title>
+      <title>Questi sono i rumori</title>
+      <category>Poco prima del sipario</category>
+      <link>https://album.sh/sipario/2021/11/22/questi-sono-i-rumori/</link>
+      <pubDate>Mon, 22 Nov 2021 15:03:42</pubDate>
+      
+      <guid>https://album.sh/sipario/2021/11/22/questi-sono-i-rumori/</guid>
+      <description>&lt;p&gt;Testo di Rainer Maria Rilke, da “I quaderni di Malte Laurids Brigge”, traduzione di Furio Jesi, Garzanti.&lt;/p&gt;
+&lt;p class=&#34;show-hide-container&#34;&gt;&lt;/p&gt;
+&lt;strong class=&#34;theater-script&#34;&gt;[Stanza di una pensione, mobilio essenziale, molto modesto. A. siede a una piccola scrivania, coperta di libri e quaderni. Parla fra sé, ma sempre in tono sommesso, tendendo l&#39;orecchio.]&lt;/strong&gt;
+&lt;p&gt;[…] L’essenziale era vivere. Era questo l’essenziale.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>E… la parola a Word! (no pun intended… forse)</title>
       <category>Post sfusi</category>
       <link>https://album.sh/post/2021/11/18/e-la-parola-a-word/</link>
       <pubDate>Thu, 18 Nov 2021 16:54:42</pubDate>
