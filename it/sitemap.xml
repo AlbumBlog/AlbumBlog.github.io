@@ -42,28 +42,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://album.sh/post/2021/11/24/ah%C3%B2-ce-sta-n-vocale/</loc>
-    <lastmod>2021-11-24T12:11:52+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://album.sh/tags/capitalit%C3%A0/</loc>
-    <lastmod>2021-11-24T12:11:52+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://album.sh/tags/deliri/</loc>
-    <lastmod>2021-11-24T12:11:52+01:00</lastmod>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://album.sh/tags/gomblotti/</loc>
-    <lastmod>2021-11-24T12:11:52+01:00</lastmod>
+    <loc>https://album.sh/tags/dubbi-amletici/</loc>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/</loc>
-    <lastmod>2021-11-24T12:11:52+01:00</lastmod>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -76,6 +66,26 @@
                 hreflang="it"
                 href="https://album.sh/tags/"
                 />
+  </url><url>
+    <loc>https://album.sh/post/2021/11/28/the-dark-side-of-the-toothbrush/</loc>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/post/2021/11/24/ah%C3%B2-ce-sta-n-vocale/</loc>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/capitalit%C3%A0/</loc>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/gomblotti/</loc>
+    <lastmod>2021-11-28T15:48:56+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/sipario/2021/11/22/questi-sono-i-rumori/</loc>
     <lastmod>2021-11-22T15:22:46+01:00</lastmod>
@@ -548,11 +558,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/post/2018/06/14/diramazioni/</loc>
-    <lastmod>2021-08-26T21:39:38+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://album.sh/tags/dubbi-amletici/</loc>
     <lastmod>2021-08-26T21:39:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
