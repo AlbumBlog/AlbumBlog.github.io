@@ -42,6 +42,41 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/riflessioni/2021/12/31/augurio-2022/</loc>
+    <lastmod>2021-12-31T22:15:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/bilanci/</loc>
+    <lastmod>2021-12-31T22:15:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/capodanno/</loc>
+    <lastmod>2021-12-31T22:15:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/progressi/</loc>
+    <lastmod>2021-12-31T22:15:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://album.sh/tags/</loc>
+    <lastmod>2021-12-31T22:15:33+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://album.sh/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://album.sh/tags/"
+                />
+  </url><url>
     <loc>https://album.sh/tags/deliri/</loc>
     <lastmod>2021-12-08T18:09:45+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -56,21 +91,6 @@
     <lastmod>2021-11-28T16:00:44+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url><url>
-    <loc>https://album.sh/tags/</loc>
-    <lastmod>2021-12-08T18:09:45+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://album.sh/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://album.sh/tags/"
-                />
   </url><url>
     <loc>https://album.sh/post/2021/11/28/the-dark-side-of-the-toothbrush/</loc>
     <lastmod>2021-11-28T16:00:44+01:00</lastmod>
