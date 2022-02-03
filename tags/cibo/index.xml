@@ -9,7 +9,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
-    <lastBuildDate>Fri, 31 Dec 2021 22:15:39</lastBuildDate><atom:link href="https://album.sh/tags/cibo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Feb 2022 11:56:46</lastBuildDate><atom:link href="https://album.sh/tags/cibo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Augurio 2022</title>
       <category>Riflessioni &amp; depressioni</category>
@@ -204,7 +204,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <pubDate>Mon, 28 Dec 2020 18:48:42</pubDate>
       
       <guid>https://album.sh/en/tech/2020/12/28/linux-set-wlan-interface-on-monitor-mode-at-startup/</guid>
-      <description>&lt;p&gt;I have had a lot of Raspberry products in these years: Pi 1B, Zero, Zero W, Zero WH, 4B (4GB).&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have had a lot of Raspberry products in these years: Pi 1B, Zero, Zero W, Zero WH, 4B (4GB).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -381,7 +381,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
       
       <guid>https://album.sh/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
-      <description>&lt;p&gt;This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.&lt;/p&gt;</description>
+      <description>This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.</description>
     </item>
     
     <item>
@@ -391,7 +391,7 @@ xmlns:atom="http://www.w3.org/2005/Atom">
       <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
       
       <guid>https://album.sh/en/tech/2020/08/25/windows-some-considerations/</guid>
-      <description>&lt;p&gt;Poor Windows… with 10 has become a quite stable system, but its reputation remains unchanged, at least since &lt;a href=&#34;https://www.youtube.com/watch?v=IW7Rqwwth84&#34;&gt;the infamous BSOD during Windows 98 presentation&lt;/a&gt; (another very old, organized joke, indeed).&lt;/p&gt;</description>
+      <description>Poor Windows… with 10 has become a quite stable system, but its reputation remains unchanged, at least since the infamous BSOD during Windows 98 presentation (another very old, organized joke, indeed).</description>
     </item>
     
     <item>
