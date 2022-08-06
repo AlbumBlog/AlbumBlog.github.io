@@ -8,7 +8,7 @@
            Album.blog("Hugo HowTo: get localized comment counters with Disqus")
     </title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.92.1" />
+    <meta name="generator" content="Hugo 0.101.0" />
     
     
       <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
@@ -90,14 +90,6 @@
 
       
         <ul class="pl0 mr3">
-          
-          
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white no-underline white-90" href="../../../../../../en/a11y-hack/">
-              A11y hacking
-            </a>
-          </li>
           
           
           
@@ -190,8 +182,8 @@
 <p>Another consideration to do: apparently, in Hugo i18n seems to refer always to current page language (home/section that is listing posts), and I have not been able to find a way to force it differently. So, to get the correct localization, you have to use the .Site.Params.param mechanism, that relies on [languages] section described in <a href="https://gohugo.io/content-management/multilingual/" target="_blank">Hugo multilingual mode.</a></p>
 <p>So, here is a first, combined solution.</p>
 <p>Find the correct template to override in your theme (in Ananke it is &ldquo;layouts/partials/summary.html&rdquo;), and add:</p>
-<pre tabindex="0"><code>&lt;a href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;
-  &lt;span class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&quot;&gt;&lt;/span&gt;
+<pre tabindex="0"><code>&lt;a href=&#34;{{ .Permalink }}#disqus_thread&#34;&gt;
+  &lt;span class=&#34;disqus-comment-count&#34; data-disqus-url=&#34;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&#34;&gt;&lt;/span&gt;
   {{ .Site.Params.commentCounter }}
 &lt;/a&gt;
 </code></pre><p>Once filled commentCounter param for all languages in your config (i.e.: with &ldquo;comments&rdquo; for English), you finally put online all changes (verifying locally requires another workaround, see below), and get link with text &ldquo;0 comments&rdquo;, &ldquo;1 comments&rdquo;, &ldquo;42 comments&rdquo; and so on, correctly localized and pointing to post comment section. Very basic, but working.</p>
@@ -201,18 +193,18 @@
 <p>At this point, my idea has been to hide Disqus <code>&lt;span&gt;</code>, but taking advantage of it via JavaScript, to dynamically change the link text according to the (internal) counter value.</p>
 <p>Besides, I removed whitespace between <code>&lt;a&gt;</code> and <code>&lt;/a&gt;</code>, which seems to create problems to childNodes method, and replaced commentCounter with a noCounter param message (i.e.: &ldquo;Comment counter not available&rdquo;) displayed when Disqus temporarily fails or JavaScript is disabled.</p>
 <p>So, previous code becomes:</p>
-<pre tabindex="0"><code>&lt;a id=&quot;disqus_comments&quot; href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;&lt;span style=&quot;display:none!important;&quot; class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&quot;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
+<pre tabindex="0"><code>&lt;a id=&#34;disqus_comments&#34; href=&#34;{{ .Permalink }}#disqus_thread&#34;&gt;&lt;span style=&#34;display:none!important;&#34; class=&#34;disqus-comment-count&#34; data-disqus-url=&#34;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}&#34;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
 </code></pre><p>Note the id for <code>&lt;a&gt;</code>, needed for JavaScript below, and the style for hiding <code>&lt;span&gt;</code>.</p>
 <p>Now, you have to add a reference to your .js in theme template, probably under the Disqus script added previously. So, insert:</p>
-<pre tabindex="0"><code>&lt;script src=&quot;/js/yourJavaScript.js&quot;&gt;&lt;/script&gt;
+<pre tabindex="0"><code>&lt;script src=&#34;/js/yourJavaScript.js&#34;&gt;&lt;/script&gt;
 </code></pre><p>Create (if you have not it yet) the file yourJavaScript.js under static/js/, and adapt the following code to your language needs:</p>
 <pre tabindex="0"><code>// get &lt;body&gt; of page
-var body = document.getElementsByTagName(&quot;body&quot;)[0];
+var body = document.getElementsByTagName(&#34;body&#34;)[0];
 
 // define the function to run after loading
 body.onload = (function() {
-  // get all &lt;a&gt; tags with id=&quot;disqus_comments&quot;
-  aComments = document.querySelectorAll(&quot;a#disqus_comments&quot;);
+  // get all &lt;a&gt; tags with id=&#34;disqus_comments&#34;
+  aComments = document.querySelectorAll(&#34;a#disqus_comments&#34;);
   // and pass them to function for setting their text
   for (i=0; i&lt;aComments.length; i++) {
     setCommentCounterText(aComments[i]);
@@ -225,26 +217,26 @@ function setCommentCounterText(a) {
   // get its text, hopefully set by Disqus in the meantime
   count = disqusSpan.textContent;
   // if something went wrong, return (keeping the &lt;a&gt; default label)
-  if (count == &quot;&quot;) {return;}
+  if (count == &#34;&#34;) {return;}
   // get real URL of comment counter link
-  href = a.getAttribute(&quot;href&quot;);
+  href = a.getAttribute(&#34;href&#34;);
   // check for specific non-default language(s)
-  if (href.indexOf(&quot;/en/&quot;) != -1) {
+  if (href.indexOf(&#34;/en/&#34;) != -1) {
     // and set the new label accordingly
     switch(count) {
-      case &quot;0&quot;:
-        text = &quot;No comment yet, sigh&quot;; break; 
-      case &quot;1&quot;:
-        text = &quot;Wow, there is a comment here!&quot;; break;
+      case &#34;0&#34;:
+        text = &#34;No comment yet, sigh&#34;; break; 
+      case &#34;1&#34;:
+        text = &#34;Wow, there is a comment here!&#34;; break;
       default:
         text = `Even ${count} comments!`;
     }
   } else { // default language (Italian, for me)
     switch(count) {
-      case &quot;0&quot;:
-        text = &quot;Ancora nessun commento, sigh&quot;; break; 
-      case &quot;1&quot;:
-        text = &quot;Wow, qualcuno ha commentato!&quot;; break;
+      case &#34;0&#34;:
+        text = &#34;Ancora nessun commento, sigh&#34;; break; 
+      case &#34;1&#34;:
+        text = &#34;Wow, qualcuno ha commentato!&#34;; break;
       default:
         text = `Addirittura ${count} commenti!`;
     }
@@ -258,9 +250,9 @@ function setCommentCounterText(a) {
 <p>I don&rsquo;t know exactly if it&rsquo;s a good idea, but if you want to see counters locally (running &ldquo;hugo server&rdquo;), you can do it easily.</p>
 <p>To avoid rendering of baseURL to localhost (even by absURL and so on), create a param (i.e.: &ldquo;remoteBaseURL&rdquo;) under site non-localized params in your config, setting it to baseURL value without trailing slash. In my case:</p>
 <pre tabindex="0"><code>[params]
-  remoteBaseURL = &quot;https://albumblog.github.io&quot;
+  remoteBaseURL = &#34;https://albumblog.github.io&#34;
 </code></pre><p>Now, modify the last HTML code like:</p>
-<pre tabindex="0"><code>&lt;a id=&quot;disqus_comments&quot; href=&quot;{{ .Permalink }}#disqus_thread&quot;&gt;&lt;span style=&quot;display:none!important;&quot; class=&quot;disqus-comment-count&quot; data-disqus-url=&quot;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Site.Params.remoteBaseURL }}{{ .RelPermalink }}{{ end }}&quot;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
+<pre tabindex="0"><code>&lt;a id=&#34;disqus_comments&#34; href=&#34;{{ .Permalink }}#disqus_thread&#34;&gt;&lt;span style=&#34;display:none!important;&#34; class=&#34;disqus-comment-count&#34; data-disqus-url=&#34;{{ with .Params.disqus_url }}{{ . }}{{ else }}{{ .Site.Params.remoteBaseURL }}{{ .RelPermalink }}{{ end }}&#34;&gt;&lt;/span&gt;{{ .Site.Params.noCounter }}&lt;/a&gt;
 </code></pre><p>&hellip;and finally enjoy the magic. 🎉</p>
 <h3 id="conclusion">Conclusion</h3>
 <p>Cons:</p>

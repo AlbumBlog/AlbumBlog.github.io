@@ -12,16 +12,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://album.sh/segnalink/</loc>
-    <lastmod>2021-10-13T00:34:01+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://album.sh/t%C3%A8/</loc>
-    <lastmod>2021-10-13T00:27:32+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://album.sh/libri/</loc>
     <lastmod>2021-10-13T00:34:01+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -308,7 +298,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/tags/prove-e-riprove/</loc>
-    <lastmod>2021-01-06T13:09:46+01:00</lastmod>
+    <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -407,16 +397,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://album.sh/tags/cose-da-fare/</loc>
-    <lastmod>2021-01-06T13:09:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://album.sh/t%C3%A8/2020/07/30/tipi-di-t%C3%A8/</loc>
-    <lastmod>2021-01-06T13:09:46+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://album.sh/post/2020/07/23/test-di-post/</loc>
     <lastmod>2021-01-02T17:34:57+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -442,6 +422,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://album.sh/post/2020/04/22/biiip-collegamento-effettuato/</loc>
+    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://album.sh/tags/wireless/</loc>
     <lastmod>2021-06-26T21:43:38+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -456,11 +441,6 @@
                 hreflang="it"
                 href="https://album.sh/tags/wireless/"
                 />
-  </url><url>
-    <loc>https://album.sh/post/2020/04/22/biiip-collegamento-effettuato/</loc>
-    <lastmod>2021-06-26T21:43:38+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://album.sh/libri/2020/04/19/consigli/</loc>
     <lastmod>2021-01-09T08:19:51+01:00</lastmod>
@@ -522,8 +502,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://album.sh/t%C3%A8/2018/12/20/tazzatass%C3%AC/</loc>
-    <lastmod>2021-09-04T16:26:36+02:00</lastmod>
+    <loc>https://album.sh/post/2018/12/20/tazzatass%C3%AC/</loc>
+    <lastmod>2022-08-06T11:20:26+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
