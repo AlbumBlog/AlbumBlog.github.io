@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Various tech stuff on Album.blog()</title>
+    <link>http://localhost:49594/en/tech/2021/11/08/windows-setup-raspberry-pi-in-minutes/</link>
+    <description>Recent contents in "Various tech stuff" on Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Thu, 11 Apr 2024 21:30:29</lastBuildDate><atom:link href="http://localhost:49594/en/tech/2021/11/08/windows-setup-raspberry-pi-in-minutes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Windows: setup Raspberry Pi in minutes</title>
+      <category>Various tech stuff</category>
+      <link>http://localhost:49594/en/tech/2021/11/08/windows-setup-raspberry-pi-in-minutes/</link>
+      <pubDate>Mon, 08 Nov 2021 22:30:42</pubDate>
+      
+      <guid>http://localhost:49594/en/tech/2021/11/08/windows-setup-raspberry-pi-in-minutes/</guid>
+      <description>Just arrived a new [Raspberry Pi Zero W,][pi0w] or another model, and do you want quickly play with it?</description>
+    </item>
+    
+    <item>
+      <title>Linux: set wlan interface on monitor mode at startup (Wi-Fi hacking on Raspbian)</title>
+      <category>Various tech stuff</category>
+      <link>http://localhost:49594/en/tech/2020/12/28/linux-set-wlan-interface-on-monitor-mode-at-startup/</link>
+      <pubDate>Mon, 28 Dec 2020 18:48:42</pubDate>
+      
+      <guid>http://localhost:49594/en/tech/2020/12/28/linux-set-wlan-interface-on-monitor-mode-at-startup/</guid>
+      <description>&lt;p&gt;I have had a lot of Raspberry products in these years: Pi 1B, Zero, Zero W, Zero WH, 4B (4GB).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hugo HowTo: get localized comment counters with Disqus (playing with numbers, many languages and JavaScript)</title>
+      <category>Various tech stuff</category>
+      <link>http://localhost:49594/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</link>
+      <pubDate>Thu, 03 Sep 2020 16:07:42</pubDate>
+      
+      <guid>http://localhost:49594/en/tech/2020/09/03/hugo-howto-get-localized-comment-counters-with-disqus/</guid>
+      <description>This blog is built into two languages (Italian, primary, and English, secondary), each one with its home and some other sections/pages, generally without a translated counterpart.</description>
+    </item>
+    
+    <item>
+      <title>Windows: some considerations (a very old joke)</title>
+      <category>Various tech stuff</category>
+      <link>http://localhost:49594/en/tech/2020/08/25/windows-some-considerations/</link>
+      <pubDate>Tue, 25 Aug 2020 14:00:42</pubDate>
+      
+      <guid>http://localhost:49594/en/tech/2020/08/25/windows-some-considerations/</guid>
+      <description>Poor Windows… with 10 has become a quite stable system, but its reputation remains unchanged, at least since the infamous BSOD during Windows 98 presentation (another very old, organized joke, indeed).</description>
+    </item>
+    
+  </channel>
+</rss>

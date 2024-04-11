@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" 
+xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Album.blog()</title>
+    <link>http://localhost:49594/en/whoami/</link>
+    <description>Recent contents on Album.blog()</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Alberto &#34;Album&#34; Buffolino</copyright>
+    <lastBuildDate>Thu, 11 Apr 2024 21:30:29</lastBuildDate><atom:link href="http://localhost:49594/en/whoami/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me (where my rising blogger career has needed to encourage itself)</title>
+      <category></category>
+      <link>http://localhost:49594/en/whoami/</link>
+      <pubDate>Sat, 01 Aug 2020 19:29:42</pubDate>
+      
+      <guid>http://localhost:49594/en/whoami/</guid>
+      <description>$ whoami
+Uh, I? 42! No? Hem, then, I, I… I am a HAL9000 computer…</description>
+    </item>
+    
+  </channel>
+</rss>
